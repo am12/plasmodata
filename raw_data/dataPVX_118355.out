@@ -1,0 +1,93 @@
+Gene ID: PVX_118355
+Chromosome: 12
+Product Description: hypothetical protein
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4H2E8	alternate ID	
+A0A1G4HHU6	alternate ID	
+A0A564ZZR4	alternate ID	
+A5K3Y3	alternate ID	
+EDL46237.1	alternate ID	
+UPI000153E0E4	alternate ID	
+XP_001615964.1	alternate ID	
+Pv118355	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_118355	PVP01_1264300	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	yes	
+PVX_118355	AK88_04084	Plasmodium fragile strain nilgiri	TKL/MLK protein kinase	no	
+PVX_118355	C922_01982	Plasmodium inui San Antonio 1	TKL/MLK protein kinase	no	
+PVX_118355	PADL01_1348400	Plasmodium adleri G01	tyrosine kinase-like protein	no	
+PVX_118355	PBANKA_0707700	Plasmodium berghei ANKA	PhIL1-interacting candidate PIC2, putative	no	
+PVX_118355	PBANKA_1010900	Plasmodium berghei ANKA	protein kinase, putative	no	
+PVX_118355	PBANKA_1026100	Plasmodium berghei ANKA	conserved Plasmodium protein, unknown function	no	
+PVX_118355	PBANKA_1362100	Plasmodium berghei ANKA	tyrosine kinase-like protein, putative	no	
+PVX_118355	PBILCG01_1348900	Plasmodium billcollinsi G01	tyrosine kinase-like protein	no	
+PVX_118355	PBLACG01_1346900	Plasmodium blacklocki G01	tyrosine kinase-like protein	no	
+PVX_118355	PCHAS_1333100	Plasmodium chabaudi chabaudi	conserved oligomeric Golgi complex subunit 6, putative	no	
+PVX_118355	PCHAS_1366700	Plasmodium chabaudi chabaudi	tyrosine kinase-like protein, putative	no	
+PVX_118355	PCOAH_00040940	Plasmodium coatneyi Hackeri	Sexual stage-specific protein kinase	no	
+PVX_118355	PCYB_041840	Plasmodium cynomolgi strain B	serine/threonine-specific protein kinase	no	
+PVX_118355	PCYB_121440	Plasmodium cynomolgi strain B	sexual stage-specific protein kinase	no	
+PVX_118355	PF3D7_1349300	Plasmodium falciparum 3D7	tyrosine kinase-like protein	no	
+PVX_118355	PGABG01_1347300	Plasmodium gaboni strain G01	tyrosine kinase-like protein	no	
+PVX_118355	PGAL8A_00402400	Plasmodium gallinaceum 8A	tyrosine kinase-like protein, putative	no	
+PVX_118355	PGSY75_1349300	Plasmodium gaboni strain SY75	tyrosine kinase-like protein	no	
+PVX_118355	PKA1H_120056200	Plasmodium knowlesi strain A1H1	tyrosine kinase-like protein, putative	no	
+PVX_118355	PKNH_1251600	Plasmodium knowlesi strain H	tyrosine kinase-like protein, putative	no	
+PVX_118355	PKNOH_S09547300	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Sexual stage-specific protein kinase	no	
+PVX_118355	PPRFG01_1351200	Plasmodium praefalciparum strain G01	tyrosine kinase-like protein	no	
+PVX_118355	PRCDC_1348300	Plasmodium reichenowi CDC	tyrosine kinase-like protein, putative	no	
+PVX_118355	PRELSG_0408300	Plasmodium relictum SGS1-like	tyrosine kinase-like protein, putative	no	
+PVX_118355	PRELSG_1248600	Plasmodium relictum SGS1-like	tyrosine kinase-like protein, putative	no	
+PVX_118355	PVBDA_1306750	Plasmodium vinckei brucechwatti DA	Tyrosine kinase-like protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7ST32]	no	
+PVX_118355	PVLDE_1306990	Plasmodium vinckei lentum DE	Tyrosine kinase-like protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SUZ2]	no	
+PVX_118355	PVL_120007900	Plasmodium vivax-like Pvl01	tyrosine kinase-like protein, putative	no	
+PVX_118355	PVP01_0009270	Plasmodium vivax P01	STP1 protein	no	
+PVX_118355	PVP01_1205500	Plasmodium vivax P01	tyrosine kinase-like protein, putative	no	
+PVX_118355	PVPCR_0500580	Plasmodium vinckei petteri CR 2020	Serine/threonine protein kinase [Source:UniProtKB/TrEMBL;Acc:W7AJ75]	no	
+PVX_118355	PVSEL_0500570	Plasmodium vinckei Cameroon EL	Tyrosine kinase-like protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SHL5]	no	
+PVX_118355	PVVCY_1306520	Plasmodium vinckei vinckei CY	Tyrosine kinase-like protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A449BZA8]	no	
+PVX_118355	PVX_083360	Plasmodium vivax Sal-1	tyrosine kinase-like protein, putative	no	
+PVX_118355	PY00800	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVX_118355	PY03177	Plasmodium yoelii yoelii 17XNL	putative yir4 protein	no	
+PVX_118355	PY04013	Plasmodium yoelii yoelii 17XNL	sexual stage-specific protein kinase	no	
+PVX_118355	PY17X_0317500	Plasmodium yoelii yoelii 17X	erythrocyte membrane associated protein 2, putative	no	
+PVX_118355	PY17X_0401800	Plasmodium yoelii yoelii 17X	PIR protein	no	
+PVX_118355	PY17X_0942600	Plasmodium yoelii yoelii 17X	pseudo-tyrosine kinase-like protein, putative	no	
+PVX_118355	PY17X_1367800	Plasmodium yoelii yoelii 17X	tyrosine kinase-like protein, putative	no	
+PVX_118355	PYYM_0317400	Plasmodium yoelii yoelii YM	erythrocyte membrane associated protein 2, putative	no	
+PVX_118355	PYYM_0402000	Plasmodium yoelii yoelii YM	YIR protein	no	
+PVX_118355	PYYM_1364200	Plasmodium yoelii yoelii YM	tyrosine kinase-like protein, putative	no	
+PVX_118355	PcyM_1206900	Plasmodium cynomolgi strain M	tyrosine kinase-like protein, putative	no	
+PVX_118355	Pf7G8_090030800	Plasmodium falciparum 7G8	protein kinase, putative	no	
+PVX_118355	PfCD01_130054900	Plasmodium falciparum CD01	tyrosine kinase-like protein	no	
+PVX_118355	PfHB3_130055600	Plasmodium falciparum HB3	tyrosine kinase-like protein	no	
+PVX_118355	PfML01_090030400	Plasmodium falciparum ML01	protein kinase, putative	no	
+PVX_118355	PfSN01_130052300	Plasmodium falciparum SN01	tyrosine kinase-like protein	no	
+PVX_118355	PmUG01_04020600	Plasmodium malariae UG01	tyrosine kinase-like protein, putative	no	
+PVX_118355	PmUG01_07037500	Plasmodium malariae UG01	protein kinase, putative	no	
+PVX_118355	PmUG01_12015600	Plasmodium malariae UG01	tyrosine kinase-like protein, putative	no	
+PVX_118355	PocGH01_12013900	Plasmodium ovale curtisi GH01	tyrosine kinase-like protein, putative	no	
+PVX_118355	YYE_00637	Plasmodium vinckei vinckei strain vinckei	serine/threonine protein kinase	no	
+PVX_118355	YYE_04107	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVX_118355	YYG_03217	Plasmodium vinckei petteri strain CR	serine/threonine protein kinase	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr12	plasmodb	2630027 - 2637586 (-)	pvivSal1	2630027	2637586	-	2625027	2642586	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_118355.1	9.63	277606	no	no	plasmodb	pvivSal1	2453	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_118355.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_118355.1;genepage=1	PVX_118355.1-p1%3A1..2453	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_118355.1-p1%3A1..2453&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_118355.1-p1%3A1..2453&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

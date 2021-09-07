@@ -1,0 +1,88 @@
+Gene ID: PVP01_1458900
+Chromosome: 14
+Product Description: ATP-dependent RNA helicase DBP9, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4H5N7	alternate ID	
+A0A1G4HLC4	alternate ID	
+A0A565A305	alternate ID	
+UPI0006703BEB	alternate ID	
+VUZ99114.1	alternate ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_1458900	AK88_02962	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVP01_1458900	C922_03589	Plasmodium inui San Antonio 1	adenosinetriphosphatase	yes	
+PVP01_1458900	PADL01_1242000	Plasmodium adleri G01	DEAD/DEAH box ATP-dependent RNA helicase, putative	yes	
+PVP01_1458900	PBANKA_1455200	Plasmodium berghei ANKA	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PBILCG01_1241200	Plasmodium billcollinsi G01	DEAD/DEAH box ATP-dependent RNA helicase, putative	yes	
+PVP01_1458900	PBLACG01_1241700	Plasmodium blacklocki G01	DEAD/DEAH box ATP-dependent RNA helicase, putative	yes	
+PVP01_1458900	PCHAS_1457500	Plasmodium chabaudi chabaudi	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PCOAH_00052580	Plasmodium coatneyi Hackeri	Dead/deah box helicase	yes	
+PVP01_1458900	PCYB_146650	Plasmodium cynomolgi strain B	DEAD/DEAH box helicase	yes	
+PVP01_1458900	PF3D7_1241800	Plasmodium falciparum 3D7	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PGABG01_1240200	Plasmodium gaboni strain G01	DEAD/DEAH box ATP-dependent RNA helicase, putative	yes	
+PVP01_1458900	PGAL8A_00462500	Plasmodium gallinaceum 8A	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PGSY75_1241800	Plasmodium gaboni strain SY75	putative DEAD/DEAH box ATP-dependent RNA helicase	yes	
+PVP01_1458900	PKA1H_140067200	Plasmodium knowlesi strain A1H1	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PKNH_1461100	Plasmodium knowlesi strain H	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PKNOH_S140279800	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative DEAD/DEAH box ATP-dependent RNA helicase	yes	
+PVP01_1458900	PPRFG01_1213600	Plasmodium praefalciparum strain G01	DEAD/DEAH box ATP-dependent RNA helicase, putative	yes	
+PVP01_1458900	PRCDC_1241200	Plasmodium reichenowi CDC	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PRELSG_1456900	Plasmodium relictum SGS1-like	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PRG01_1245100	Plasmodium reichenowi G01	DEAD/DEAH box ATP-dependent RNA helicase, putative	yes	
+PVP01_1458900	PVBDA_1405780	Plasmodium vinckei brucechwatti DA	ATP-dependent RNA helicase DBP9, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7T0H8]	yes	
+PVP01_1458900	PVLDE_1405630	Plasmodium vinckei lentum DE	ATP-dependent RNA helicase DBP9, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7T0F4]	yes	
+PVP01_1458900	PVPCR_1405850	Plasmodium vinckei petteri CR 2020	ATP-dependent RNA helicase DBP9, putative [Source:UniProtKB/TrEMBL;Acc:W7AME9]	yes	
+PVP01_1458900	PVSEL_1405840	Plasmodium vinckei Cameroon EL	ATP-dependent RNA helicase DBP9, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7TG68]	yes	
+PVP01_1458900	PVVCY_1405740	Plasmodium vinckei vinckei CY	ATP-dependent RNA helicase DBP9, putative [Source:UniProtKB/TrEMBL;Acc:A0A449C0W1]	yes	
+PVP01_1458900	PVX_100990	Plasmodium vivax Sal-1	DEAD/DEAH box ATP-dependent RNA helicase, putative	yes	
+PVP01_1458900	PY01492	Plasmodium yoelii yoelii 17XNL	ATP-dependent RNA helicase	yes	
+PVP01_1458900	PY17X_1457700	Plasmodium yoelii yoelii 17X	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PYYM_1459200	Plasmodium yoelii yoelii YM	DEAD/DEAH box ATP-dependent RNA helicase, putative	yes	
+PVP01_1458900	PcyM_1465100	Plasmodium cynomolgi strain M	DEAD/DEAH box ATP-dependent RNA helicase, putative	yes	
+PVP01_1458900	Pf7G8_120047600	Plasmodium falciparum 7G8	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PfCD01_120046600	Plasmodium falciparum CD01	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PfDd2_120047100	Plasmodium falciparum Dd2	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PfGA01_120047200	Plasmodium falciparum GA01	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PfGB4_120047100	Plasmodium falciparum GB4	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PfGN01_120048100	Plasmodium falciparum GN01	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PfHB3_120046700	Plasmodium falciparum HB3	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PfIT_120047100	Plasmodium falciparum IT	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PfKE01_120047200	Plasmodium falciparum KE01	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PfKH01_120048000	Plasmodium falciparum KH01	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PfKH02_120046600	Plasmodium falciparum KH02	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PfSD01_120046600	Plasmodium falciparum SD01	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PfSN01_120047300	Plasmodium falciparum SN01	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PfTG01_120046900	Plasmodium falciparum TG01	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PmUG01_14075000	Plasmodium malariae UG01	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	PocGH01_14066400	Plasmodium ovale curtisi GH01	ATP-dependent RNA helicase DBP9, putative	yes	
+PVP01_1458900	YYE_00777	Plasmodium vinckei vinckei strain vinckei	adenosinetriphosphatase	yes	
+PVP01_1458900	YYG_00583	Plasmodium vinckei petteri strain CR	adenosinetriphosphatase	yes	
+PVP01_1458900	HEP_00383700	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	ATP-dependent RNA helicase DBP9, putative	no	
+PVP01_1458900	PVL_000063800	Plasmodium vivax-like Pvl01	ATP-dependent RNA helicase DBP9, putative	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0003676	null	nucleic acid binding	GeneDB	IEA	GO_REF:0000002	InterPro:IPR011545	MGO:0003676	PVP01_1458900.1	
+Molecular Function	GO:0003676	null	nucleic acid binding	gouniprot	IEA	null	null	MGO:0003676	PVP01_1458900.1	
+Molecular Function	GO:0003724	null	RNA helicase activity	gouniprot	IEA	null	null	MGO:0003724	PVP01_1458900.1	
+Molecular Function	GO:0004386	null	helicase activity	interpro2go	IEA	null	null	MGO:0004386	PVP01_1458900.1	
+Molecular Function	GO:0005524	null	ATP binding	GeneDB	IEA	GO_REF:0000002	InterPro:IPR011545	MGO:0005524	PVP01_1458900.1	
+Molecular Function	GO:0005524	null	ATP binding	gouniprot	IEA	null	null	MGO:0005524	PVP01_1458900.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_14_v2	plasmodb	2575026 - 2579165 (-)	pvivP01	2575026	2579165	-	2570026	2584165	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_1458900.1	9.57	96379	no	no	plasmodb	pvivP01	847	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_1458900.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_1458900.1;genepage=1	PVP01_1458900.1-p1%3A1..847	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_1458900.1-p1%3A1..847&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_1458900.1-p1%3A1..847&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

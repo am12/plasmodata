@@ -1,0 +1,87 @@
+Gene ID: PVP01_1245800
+Chromosome: 12
+Product Description: conserved Plasmodium protein, unknown function
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4H1W1	alternate ID	
+A0A1G4HHI0	alternate ID	
+A0A564ZZ67	alternate ID	
+UPI00090CCA1B	alternate ID	
+VUZ97736.1	alternate ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_1245800	AK88_01919	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVP01_1245800	C922_00173	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVP01_1245800	HEP_00229900	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	conserved protein, unknown function	yes	
+PVP01_1245800	PADL01_1461000	Plasmodium adleri G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PBANKA_1324700	Plasmodium berghei ANKA	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PBILCG01_1460900	Plasmodium billcollinsi G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PBLACG01_1460600	Plasmodium blacklocki G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PCHAS_1328000	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PCOAH_00045040	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVP01_1245800	PCYB_125400	Plasmodium cynomolgi strain B	hypothetical protein	yes	
+PVP01_1245800	PF3D7_1461000	Plasmodium falciparum 3D7	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PGABG01_1459800	Plasmodium gaboni strain G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PGAL8A_00220400	Plasmodium gallinaceum 8A	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PKA1H_120025500	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PKNH_1220700	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PKNOH_S110091600	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	yes	
+PVP01_1245800	PPRFG01_1461700	Plasmodium praefalciparum strain G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PRCDC_1460300	Plasmodium reichenowi CDC	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PRELSG_1219800	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PRG01_1461000	Plasmodium reichenowi G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PVBDA_1302830	Plasmodium vinckei brucechwatti DA	unspecified product	yes	
+PVP01_1245800	PVLDE_1303060	Plasmodium vinckei lentum DE	unspecified product	yes	
+PVP01_1245800	PVL_000033900	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PVPCR_1302940	Plasmodium vinckei petteri CR 2020	unspecified product	yes	
+PVP01_1245800	PVSEL_1302820	Plasmodium vinckei Cameroon EL	unspecified product	yes	
+PVP01_1245800	PVVCY_1302620	Plasmodium vinckei vinckei CY	unspecified product	yes	
+PVP01_1245800	PVX_117405	Plasmodium vivax Sal-1	hypothetical protein, conserved	yes	
+PVP01_1245800	PY05163	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVP01_1245800	PY17X_1328500	Plasmodium yoelii yoelii 17X	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PYYM_1325500	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PcyM_1252200	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	Pf7G8_140066200	Plasmodium falciparum 7G8	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PfCD01_140066300	Plasmodium falciparum CD01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PfDd2_140065400	Plasmodium falciparum Dd2	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PfGA01_140066400	Plasmodium falciparum GA01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PfGB4_140067100	Plasmodium falciparum GB4	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PfGN01_140066300	Plasmodium falciparum GN01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PfHB3_140066700	Plasmodium falciparum HB3	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PfIT_140067400	Plasmodium falciparum IT	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PfKE01_140065800	Plasmodium falciparum KE01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PfKH01_140066500	Plasmodium falciparum KH01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PfKH02_140066700	Plasmodium falciparum KH02	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PfSD01_140064300	Plasmodium falciparum SD01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PfSN01_140068200	Plasmodium falciparum SN01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PfTG01_140066300	Plasmodium falciparum TG01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PmUG01_12055900	Plasmodium malariae UG01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	PocGH01_12053800	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1245800	YYE_00248	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVP01_1245800	YYG_03537	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+PVP01_1245800	PGSY75_0024800	Plasmodium gaboni strain SY75	hypothetical protein	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Biological Process	GO:0000077	null	DNA damage checkpoint	GeneDB	IEA	GO_REF:0000002	InterPro:IPR003021	BGO:0000077	PVP01_1245800.1	
+Biological Process	GO:0000077	null	DNA damage checkpoint	gouniprot	IEA	null	null	BGO:0000077	PVP01_1245800.1	
+Cellular Component	GO:0005634	null	nucleus	gouniprot	IEA	null	null	CGO:0005634	PVP01_1245800.1	
+Biological Process	GO:0006281	null	DNA repair	gouniprot	IEA	null	null	BGO:0006281	PVP01_1245800.1	
+Cellular Component	GO:0042025	null	host cell nucleus	GeneDB	IEA	GO_REF:0000002	InterPro:IPR003021	CGO:0042025	PVP01_1245800.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_12_v2	plasmodb	1882937 - 1885452 (-)	pvivP01	1882937	1885452	-	1877937	1890452	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_1245800.1	7.95	53834	no	no	plasmodb	pvivP01	468	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_1245800.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_1245800.1;genepage=1	PVP01_1245800.1-p1%3A1..468	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_1245800.1-p1%3A1..468&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_1245800.1-p1%3A1..468&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

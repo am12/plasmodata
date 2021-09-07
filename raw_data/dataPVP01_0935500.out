@@ -1,0 +1,91 @@
+Gene ID: PVP01_0935500
+Chromosome: 9
+Product Description: DNA-directed RNA polymerase I subunit RPA2, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GXV9	alternate ID	
+A0A1G4HD72	alternate ID	
+A0A564ZXB5	alternate ID	
+UPI00090C1476	alternate ID	
+VUZ96020.1	alternate ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_0935500	AK88_00085	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVP01_0935500	C922_02343	Plasmodium inui San Antonio 1	DNA-directed RNA polymerase I subunit RPA2	yes	
+PVP01_0935500	HEP_00272100	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PADL01_1133000	Plasmodium adleri G01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PBANKA_0913800	Plasmodium berghei ANKA	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PBILCG01_1129900	Plasmodium billcollinsi G01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PBLACG01_1132700	Plasmodium blacklocki G01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PCHAS_0932200	Plasmodium chabaudi chabaudi	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PCOAH_00026870	Plasmodium coatneyi Hackeri	DNA-directed RNA polymerase subunit beta	yes	
+PVP01_0935500	PCYB_094060	Plasmodium cynomolgi strain B	DNA-directed RNA polymerase beta subunit	yes	
+PVP01_0935500	PF3D7_1134700	Plasmodium falciparum 3D7	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PGABG01_1132700	Plasmodium gaboni strain G01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PGAL8A_00362200	Plasmodium gallinaceum 8A	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PGSY75_1134700	Plasmodium gaboni strain SY75	putative DNA-directed RNA polymerase I subunit RPA2	yes	
+PVP01_0935500	PKA1H_090038600	Plasmodium knowlesi strain A1H1	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PKNH_0932900	Plasmodium knowlesi strain H	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PKNOH_S120151600	Plasmodium knowlesi strain Malayan Strain Pk1 A	DNA-directed RNA polymerase subunit beta	yes	
+PVP01_0935500	PPRFG01_1135500	Plasmodium praefalciparum strain G01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PRCDC_1133100	Plasmodium reichenowi CDC	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PRELSG_0932200	Plasmodium relictum SGS1-like	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PRG01_1132100	Plasmodium reichenowi G01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PVBDA_0903360	Plasmodium vinckei brucechwatti DA	DNA-directed RNA polymerase subunit beta [Source:UniProtKB/TrEMBL;Acc:A0A6V7S769]	yes	
+PVP01_0935500	PVLDE_0903470	Plasmodium vinckei lentum DE	DNA-directed RNA polymerase subunit beta [Source:UniProtKB/TrEMBL;Acc:A0A6V7S4V0]	yes	
+PVP01_0935500	PVL_090020200	Plasmodium vivax-like Pvl01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PVPCR_0903410	Plasmodium vinckei petteri CR 2020	DNA-directed RNA polymerase subunit beta [Source:UniProtKB/TrEMBL;Acc:W7ANR8]	yes	
+PVP01_0935500	PVSEL_0903390	Plasmodium vinckei Cameroon EL	DNA-directed RNA polymerase subunit beta [Source:UniProtKB/TrEMBL;Acc:A0A6V7SXN6]	yes	
+PVP01_0935500	PVVCY_0903330	Plasmodium vinckei vinckei CY	DNA-directed RNA polymerase subunit beta [Source:UniProtKB/TrEMBL;Acc:A0A449BSZ1]	yes	
+PVP01_0935500	PVX_092345	Plasmodium vivax Sal-1	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PY05002	Plasmodium yoelii yoelii 17XNL	DNA-directed RNA polymerase, beta subunit	yes	
+PVP01_0935500	PY17X_0915300	Plasmodium yoelii yoelii 17X	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PYYM_0914800	Plasmodium yoelii yoelii YM	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PcyM_0939600	Plasmodium cynomolgi strain M	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	Pf7G8_110038600	Plasmodium falciparum 7G8	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PfCD01_110040200	Plasmodium falciparum CD01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PfDd2_110038000	Plasmodium falciparum Dd2	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PfGA01_110039000	Plasmodium falciparum GA01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PfGB4_110041300	Plasmodium falciparum GB4	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PfGN01_110039300	Plasmodium falciparum GN01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PfHB3_110038200	Plasmodium falciparum HB3	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PfIT_110039300	Plasmodium falciparum IT	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PfKE01_110039300	Plasmodium falciparum KE01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PfKH01_110039100	Plasmodium falciparum KH01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PfKH02_110040000	Plasmodium falciparum KH02	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PfML01_110039600	Plasmodium falciparum ML01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PfSD01_110037400	Plasmodium falciparum SD01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PfSN01_110037900	Plasmodium falciparum SN01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PfTG01_110039200	Plasmodium falciparum TG01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PmUG01_09043900	Plasmodium malariae UG01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	PocGH01_09041100	Plasmodium ovale curtisi GH01	DNA-directed RNA polymerase I subunit RPA2, putative	yes	
+PVP01_0935500	YYE_03019	Plasmodium vinckei vinckei strain vinckei	DNA-directed RNA polymerase I subunit RPA2	yes	
+PVP01_0935500	YYG_01973	Plasmodium vinckei petteri strain CR	DNA-directed RNA polymerase I subunit RPA2	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0003677	null	DNA binding	GeneDB	IEA	GO_REF:0000002	InterPro:IPR007645	MGO:0003677	PVP01_0935500.1	
+Molecular Function	GO:0003677	null	DNA binding	gouniprot	IEA	null	null	MGO:0003677	PVP01_0935500.1	
+Molecular Function	GO:0003899	null	DNA-directed 5'-3' RNA polymerase activity	GeneDB	IEA	GO_REF:0000002	InterPro:IPR007645	MGO:0003899	PVP01_0935500.1	
+Molecular Function	GO:0003899	null	DNA-directed 5'-3' RNA polymerase activity	gouniprot	IEA	null	null	MGO:0003899	PVP01_0935500.1	
+Biological Process	GO:0006351	null	transcription, DNA-templated	GeneDB	IEA	GO_REF:0000002	InterPro:IPR007645	BGO:0006351	PVP01_0935500.1	
+Biological Process	GO:0006351	null	transcription, DNA-templated	gouniprot	IEA	null	null	BGO:0006351	PVP01_0935500.1	
+Cellular Component	GO:0020011	null	apicoplast	gouniprot	IEA	null	null	CGO:0020011	PVP01_0935500.1	
+Molecular Function	GO:0032549	null	ribonucleoside binding	gouniprot	IEA	null	null	MGO:0032549	PVP01_0935500.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_09_v2	plasmodb	1522059 - 1532970 (-)	pvivP01	1522059	1532970	-	1517059	1537970	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_0935500.1	9.52	178585	no	no	plasmodb	pvivP01	1579	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_0935500.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_0935500.1;genepage=1	PVP01_0935500.1-p1%3A1..1579	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_0935500.1-p1%3A1..1579&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_0935500.1-p1%3A1..1579&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

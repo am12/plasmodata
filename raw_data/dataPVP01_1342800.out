@@ -1,0 +1,41 @@
+Gene ID: PVP01_1342800
+Chromosome: 13
+Product Description: conserved Plasmodium protein, unknown function
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4H3U9	alternate ID	
+A0A1G4HJB9	alternate ID	
+A0A565A230	alternate ID	
+UPI00090A213A	alternate ID	
+VUZ98476.1	alternate ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_1342800	AK88_01805	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVP01_1342800	C922_03809	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVP01_1342800	PCYB_135050	Plasmodium cynomolgi strain B	hypothetical protein	yes	
+PVP01_1342800	PGAL8A_00277800	Plasmodium gallinaceum 8A	conserved Plasmodium protein, unknown function	yes	
+PVP01_1342800	PRELSG_1344900	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	yes	
+PVP01_1342800	PVL_130031100	Plasmodium vivax-like Pvl01	hypothetical protein, conserved	yes	
+PVP01_1342800	PVX_086135	Plasmodium vivax Sal-1	hypothetical protein	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+5	24	VIFLSTAIVLVSTLLIVLLL	null	PVP01_1342800.1	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Cellular Component	GO:0016021	null	integral component of membrane	gouniprot	IEA	null	null	CGO:0016021	PVP01_1342800.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_13_v2	plasmodb	1879885 - 1888385 (+)	pvivP01	1879885	1888385	+	1874885	1893385	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_1342800.1	10.36	277444	no	yes	plasmodb	pvivP01	2427	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_1342800.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_1342800.1;genepage=1	PVP01_1342800.1-p1%3A1..2427	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_1342800.1-p1%3A1..2427&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_1342800.1-p1%3A1..2427&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

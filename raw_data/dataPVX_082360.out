@@ -1,0 +1,70 @@
+Gene ID: PVX_082360
+Chromosome: 12
+Product Description: hypothetical protein, conserved
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4H1J7	alternate ID	
+A0A1G4HGQ6	alternate ID	
+A0A564ZYP8	alternate ID	
+Pv082360	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_082360	AK88_00338	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_082360	C922_01780	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_082360	PADL01_1327200	Plasmodium adleri G01	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PBLACG01_1326500	Plasmodium blacklocki G01	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PCHAS_1348000	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PCOAH_00043010	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVX_082360	PCYB_123450	Plasmodium cynomolgi strain B	hypothetical protein	yes	
+PVX_082360	PF3D7_1328200	Plasmodium falciparum 3D7	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PGABG01_1326400	Plasmodium gaboni strain G01	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PGAL8A_00240500	Plasmodium gallinaceum 8A	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PGSY75_1328200	Plasmodium gaboni strain SY75	hypothetical protein	yes	
+PVX_082360	PKNH_1200400	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PKNOH_S110070900	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	yes	
+PVX_082360	PPRFG01_1330200	Plasmodium praefalciparum strain G01	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PRCDC_1327200	Plasmodium reichenowi CDC	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PRELSG_1268600	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PRG01_1330400	Plasmodium reichenowi G01	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PVLDE_1305060	Plasmodium vinckei lentum DE	unspecified product	yes	
+PVX_082360	PVL_120020400	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PVP01_1226200	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PVPCR_0502500	Plasmodium vinckei petteri CR 2020	unspecified product	yes	
+PVX_082360	PVSEL_0502510	Plasmodium vinckei Cameroon EL	unspecified product	yes	
+PVX_082360	PY04955	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVX_082360	PcyM_1229900	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	Pf7G8_130032700	Plasmodium falciparum 7G8	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PfCD01_130033800	Plasmodium falciparum CD01	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PfDd2_130034100	Plasmodium falciparum Dd2	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PfGA01_130034400	Plasmodium falciparum GA01	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PfGB4_130034200	Plasmodium falciparum GB4	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PfHB3_130034600	Plasmodium falciparum HB3	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PfIT_130033500	Plasmodium falciparum IT	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PfKE01_130033900	Plasmodium falciparum KE01	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PfKH01_130032500	Plasmodium falciparum KH01	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PfKH02_130031200	Plasmodium falciparum KH02	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PfSD01_130035000	Plasmodium falciparum SD01	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PfSN01_130031300	Plasmodium falciparum SN01	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	PocGH01_12034200	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	yes	
+PVX_082360	YYG_03029	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+PVX_082360	PfTG01_130034000	Plasmodium falciparum TG01	conserved Plasmodium protein, unknown function	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr12	plasmodb	986392 - 995073 (-)	pvivSal1	986392	995073	-	981392	1000073	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_082360.1	6.96	295844	no	no	plasmodb	pvivSal1	2601	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_082360.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_082360.1;genepage=1	PVX_082360.1-p1%3A1..2601	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_082360.1-p1%3A1..2601&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_082360.1-p1%3A1..2601&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

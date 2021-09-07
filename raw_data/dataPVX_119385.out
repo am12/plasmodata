@@ -1,0 +1,80 @@
+Gene ID: PVX_119385
+Chromosome: 8
+Product Description: hypothetical protein, conserved
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GX13	alternate ID	
+A0A1G4HC17	alternate ID	
+A0A564ZUX3	alternate ID	
+A5KB69	alternate ID	
+EDL43347.1	alternate ID	
+Q962J8	alternate ID	
+UPI000153F7E4	alternate ID	
+XP_001613074.1	alternate ID	
+Pv119385	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_119385	AK88_00701	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_119385	C922_03962	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_119385	PADL01_0304000	Plasmodium adleri G01	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PBANKA_0403700	Plasmodium berghei ANKA	GRIP domain-containing protein, putative	yes	
+PVX_119385	PBILCG01_0304600	Plasmodium billcollinsi G01	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PBLACG01_0305200	Plasmodium blacklocki G01	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PCHAS_0404600	Plasmodium chabaudi chabaudi	GRIP domain-containing protein, putative	yes	
+PVX_119385	PCOAH_00019830	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVX_119385	PCYB_084400	Plasmodium cynomolgi strain B	hypothetical protein	yes	
+PVX_119385	PF3D7_0305200	Plasmodium falciparum 3D7	GRIP domain-containing protein, putative	yes	
+PVX_119385	PGABG01_0304500	Plasmodium gaboni strain G01	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PGAL8A_00004500	Plasmodium gallinaceum 8A	GRIP domain-containing protein, putative	yes	
+PVX_119385	PGSY75_0305200	Plasmodium gaboni strain SY75	hypothetical protein	yes	
+PVX_119385	PPRFG01_0306500	Plasmodium praefalciparum strain G01	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PRELSG_0830500	Plasmodium relictum SGS1-like	GRIP domain-containing protein, putative	yes	
+PVX_119385	PRG01_0308600	Plasmodium reichenowi G01	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PVBDA_0400560	Plasmodium vinckei brucechwatti DA	GRIP domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7RVE9]	yes	
+PVX_119385	PVLDE_0400580	Plasmodium vinckei lentum DE	GRIP domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7RVE4]	yes	
+PVX_119385	PVL_000110400	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PVP01_0835000	Plasmodium vivax P01	GRIP domain-containing protein, putative	yes	
+PVX_119385	PVPCR_0400600	Plasmodium vinckei petteri CR 2020	GRIP domain-containing protein [Source:UniProtKB/TrEMBL;Acc:W7AC16]	yes	
+PVX_119385	PVSEL_0400570	Plasmodium vinckei Cameroon EL	GRIP domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SEU0]	yes	
+PVX_119385	PVVCY_0400430	Plasmodium vinckei vinckei CY	GRIP domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A449BNG6]	yes	
+PVX_119385	PcyM_0839100	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	Pf7G8_030011000	Plasmodium falciparum 7G8	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PfCD01_030010600	Plasmodium falciparum CD01	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PfDd2_030010200	Plasmodium falciparum Dd2	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PfGA01_030011800	Plasmodium falciparum GA01	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PfGB4_030010800	Plasmodium falciparum GB4	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PfGN01_030010800	Plasmodium falciparum GN01	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PfHB3_030009000	Plasmodium falciparum HB3	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PfIT_030010000	Plasmodium falciparum IT	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PfKE01_030009600	Plasmodium falciparum KE01	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PfKH01_030010100	Plasmodium falciparum KH01	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PfKH02_030010700	Plasmodium falciparum KH02	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PfML01_030010200	Plasmodium falciparum ML01	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PfSD01_030010300	Plasmodium falciparum SD01	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PfSN01_030010900	Plasmodium falciparum SN01	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PfTG01_030011600	Plasmodium falciparum TG01	conserved Plasmodium protein, unknown function	yes	
+PVX_119385	PmUG01_08051000	Plasmodium malariae UG01	GRIP domain-containing protein, putative	yes	
+PVX_119385	YYE_04153	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVX_119385	YYG_03889	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+PVX_119385	HEP_00482800	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	conserved protein, unknown function	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Biological Process	GO:0034067	null	protein localization to Golgi apparatus	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR000237	BGO:0034067	PVX_119385.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr08	plasmodb	1506409 - 1509462 (-)	pvivSal1	1506409	1509462	-	1501409	1514462	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_119385.1	4.64	113729	no	no	plasmodb	pvivSal1	1017	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_119385.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_119385.1;genepage=1	PVX_119385.1-p1%3A1..1017	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_119385.1-p1%3A1..1017&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_119385.1-p1%3A1..1017&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

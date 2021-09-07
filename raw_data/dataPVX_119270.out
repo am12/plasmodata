@@ -1,0 +1,97 @@
+Gene ID: PVX_119270
+Chromosome: 8
+Product Description: exportin-1, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GWW0	alternate ID	
+A0A1G4HC54	alternate ID	
+A5KB46	alternate ID	
+EDL43324.1	alternate ID	
+Q962M1	alternate ID	
+UPI000153F513	alternate ID	
+XP_001613051.1	alternate ID	
+Pv119270	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_119270	AK88_04709	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_119270	C922_03985	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_119270	HEP_00234300	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	exportin-1, putative	yes	
+PVX_119270	PADL01_0301700	Plasmodium adleri G01	exportin-1, putative	yes	
+PVX_119270	PBANKA_0401500	Plasmodium berghei ANKA	exportin-1, putative	yes	
+PVX_119270	PBILCG01_0302300	Plasmodium billcollinsi G01	exportin-1, putative	yes	
+PVX_119270	PBLACG01_0302900	Plasmodium blacklocki G01	exportin-1, putative	yes	
+PVX_119270	PCHAS_0402400	Plasmodium chabaudi chabaudi	exportin-1, putative	yes	
+PVX_119270	PCOAH_00019560	Plasmodium coatneyi Hackeri	Exportin 1	yes	
+PVX_119270	PCYB_084630	Plasmodium cynomolgi strain B	exportin 1	yes	
+PVX_119270	PF3D7_0302900	Plasmodium falciparum 3D7	exportin-1, putative	yes	
+PVX_119270	PGABG01_0302200	Plasmodium gaboni strain G01	exportin-1, putative	yes	
+PVX_119270	PGAL8A_00002200	Plasmodium gallinaceum 8A	exportin-1, putative	yes	
+PVX_119270	PGSY75_0302900	Plasmodium gaboni strain SY75	putative exportin-1	yes	
+PVX_119270	PKA1H_080045500	Plasmodium knowlesi strain A1H1	exportin-1, putative	yes	
+PVX_119270	PKNH_0840200	Plasmodium knowlesi strain H	exportin-1, putative	yes	
+PVX_119270	PKNOH_S100069100	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Exportin 1	yes	
+PVX_119270	PPRFG01_0304200	Plasmodium praefalciparum strain G01	exportin-1, putative	yes	
+PVX_119270	PRCDC_0302200	Plasmodium reichenowi CDC	exportin-1, putative	yes	
+PVX_119270	PRELSG_0832800	Plasmodium relictum SGS1-like	exportin-1, putative	yes	
+PVX_119270	PRG01_0306300	Plasmodium reichenowi G01	exportin-1, putative	yes	
+PVX_119270	PVBDA_0400340	Plasmodium vinckei brucechwatti DA	Importin N-terminal domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7RV72]	yes	
+PVX_119270	PVLDE_0400370	Plasmodium vinckei lentum DE	Importin N-terminal domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7RWW4]	yes	
+PVX_119270	PVL_080032500	Plasmodium vivax-like Pvl01	exportin-1, putative	yes	
+PVX_119270	PVP01_0837300	Plasmodium vivax P01	exportin-1, putative	yes	
+PVX_119270	PVPCR_0400380	Plasmodium vinckei petteri CR 2020	Importin N-terminal domain-containing protein [Source:UniProtKB/TrEMBL;Acc:W7AG84]	yes	
+PVX_119270	PVSEL_0400350	Plasmodium vinckei Cameroon EL	Importin N-terminal domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SGU7]	yes	
+PVX_119270	PVVCY_0400210	Plasmodium vinckei vinckei CY	Importin N-terminal domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A081IBT4]	yes	
+PVX_119270	PY01601	Plasmodium yoelii yoelii 17XNL	Plasmodium vivax PV1H14065_P-related	yes	
+PVX_119270	PY05627	Plasmodium yoelii yoelii 17XNL	Plasmodium vivax PV1H14065_P-related	yes	
+PVX_119270	PY17X_0403700	Plasmodium yoelii yoelii 17X	exportin-1, putative	yes	
+PVX_119270	PYYM_0403900	Plasmodium yoelii yoelii YM	exportin-1, putative	yes	
+PVX_119270	PcyM_0841500	Plasmodium cynomolgi strain M	exportin-1, putative	yes	
+PVX_119270	Pf7G8_030008700	Plasmodium falciparum 7G8	exportin-1, putative	yes	
+PVX_119270	PfCD01_030008300	Plasmodium falciparum CD01	exportin-1, putative	yes	
+PVX_119270	PfDd2_030007900	Plasmodium falciparum Dd2	exportin-1, putative	yes	
+PVX_119270	PfGA01_030009500	Plasmodium falciparum GA01	exportin-1, putative	yes	
+PVX_119270	PfGB4_030008500	Plasmodium falciparum GB4	exportin-1, putative	yes	
+PVX_119270	PfGN01_030008500	Plasmodium falciparum GN01	exportin-1, putative	yes	
+PVX_119270	PfHB3_030006700	Plasmodium falciparum HB3	exportin-1, putative	yes	
+PVX_119270	PfIT_030007700	Plasmodium falciparum IT	exportin-1, putative	yes	
+PVX_119270	PfKE01_030007300	Plasmodium falciparum KE01	exportin-1, putative	yes	
+PVX_119270	PfKH01_030007800	Plasmodium falciparum KH01	exportin-1, putative	yes	
+PVX_119270	PfKH02_030008400	Plasmodium falciparum KH02	exportin-1, putative	yes	
+PVX_119270	PfML01_030007900	Plasmodium falciparum ML01	exportin-1, putative	yes	
+PVX_119270	PfSD01_030008000	Plasmodium falciparum SD01	exportin-1, putative	yes	
+PVX_119270	PfSN01_030008600	Plasmodium falciparum SN01	exportin-1, putative	yes	
+PVX_119270	PfTG01_030009300	Plasmodium falciparum TG01	exportin-1, putative	yes	
+PVX_119270	PmUG01_08053300	Plasmodium malariae UG01	exportin-1, putative	yes	
+PVX_119270	PocGH01_08045000	Plasmodium ovale curtisi GH01	exportin-1, putative	yes	
+PVX_119270	YYE_04177	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVX_119270	YYG_03867	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Biological Process	GO:0000059	null	obsolete protein import into nucleus, docking	GeneDB_Pvivax	IEA	GO_REF:0000001	null	BGO:0000059	PVX_119270.1	
+Molecular Function	GO:0005049	null	nuclear export signal receptor activity	gouniprot	IEA	null	null	MGO:0005049	PVX_119270.1	
+Cellular Component	GO:0005634	null	nucleus	gouniprot	IEA	null	null	CGO:0005634	PVX_119270.1	
+Cellular Component	GO:0005643	null	nuclear pore	GeneDB_Pvivax	IEA	GO_REF:0000001	null	CGO:0005643	PVX_119270.1	
+Cellular Component	GO:0005737	null	cytoplasm	GeneDB_Pvivax	IEA	GO_REF:0000001	null	CGO:0005737	PVX_119270.1	
+Biological Process	GO:0006886	null	intracellular protein transport	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR001494	BGO:0006886	PVX_119270.1	
+Biological Process	GO:0006886	null	intracellular protein transport	gouniprot	IEA	null	null	BGO:0006886	PVX_119270.1	
+null	GO:0008536	null	GO_0008536	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR001494	GO:0008536	PVX_119270.1	
+null	GO:0008536	null	GO_0008536	gouniprot	IEA	null	null	GO:0008536	PVX_119270.1	
+Molecular Function	GO:0008565	null	obsolete protein transporter activity	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0008565	PVX_119270.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr08	plasmodb	1603931 - 1608136 (+)	pvivSal1	1603931	1608136	+	1598931	1613136	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_119270.1	5.95	146265	no	no	plasmodb	pvivSal1	1250	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_119270.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_119270.1;genepage=1	PVX_119270.1-p1%3A1..1250	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_119270.1-p1%3A1..1250&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_119270.1-p1%3A1..1250&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

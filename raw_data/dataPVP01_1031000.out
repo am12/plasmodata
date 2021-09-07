@@ -1,0 +1,668 @@
+Gene ID: PVP01_1031000
+Chromosome: 10
+Product Description: merozoite surface protein 3
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GZ26	alternate ID	
+A0A1G4HET6	alternate ID	
+A0A564ZWF2	alternate ID	
+C5HZ11	alternate ID	
+Q4KTV4	alternate ID	
+Q4KTV6	alternate ID	
+Q4KTV8	alternate ID	
+Q4KTV9	alternate ID	
+Q4KTW0	alternate ID	
+Q4KTW2	alternate ID	
+Q4KTW3	alternate ID	
+Q86DH1	alternate ID	
+Q86DH5	alternate ID	
+UPI00090A845F	alternate ID	
+VUZ96619.1	alternate ID	
+MSP3H	synonym	
+MSP3alpha	synonym	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_1031000	PCOAH_00031430	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVP01_1031000	PCYB_103860	Plasmodium cynomolgi strain B	merozoite surface protein 3	yes	
+PVP01_1031000	PVL_000214700	Plasmodium vivax-like Pvl01	merozoite surface protein 3	yes	
+PVP01_1031000	PVX_097720	Plasmodium vivax Sal-1	merozoite surface protein 3	yes	
+PVP01_1031000	PcyM_1031200	Plasmodium cynomolgi strain M	merozoite surface protein 3, putative	yes	
+PVP01_1031000	PmUG01_06022000	Plasmodium malariae UG01	merozoite surface protein 3, putative	yes	
+PVP01_1031000	PocGH01_10038500	Plasmodium ovale curtisi GH01	merozoite surface protein 3, putative	yes	
+PVP01_1031000	AK88_00119	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_00301	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_00838	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_01328	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_01961	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_02013	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_02025	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_02378	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_02419	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_02449	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_02676	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_02867	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_02936	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_03548	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_03637	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_03780	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_04402	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_04520	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_04693	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_04757	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	AK88_05603	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_1031000	C922_00420	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVP01_1031000	C922_00427	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVP01_1031000	C922_01171	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVP01_1031000	C922_01550	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVP01_1031000	C922_02019	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVP01_1031000	C922_02263	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVP01_1031000	C922_02398	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVP01_1031000	C922_02847	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVP01_1031000	C922_02867	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVP01_1031000	C922_04478	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVP01_1031000	C922_04793	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVP01_1031000	C922_04831	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVP01_1031000	C922_05196	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVP01_1031000	C922_05783	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVP01_1031000	C922_05853	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVP01_1031000	HEP_00128000	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	cysteine repeat modular protein 4, putative	no	
+PVP01_1031000	HEP_00208300	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	conserved protein, unknown function	no	
+PVP01_1031000	HEP_00220500	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	cysteine repeat modular protein 1	no	
+PVP01_1031000	HEP_00220600	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	conserved protein, unknown function	no	
+PVP01_1031000	HEP_00226200	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	hypothetical protein	no	
+PVP01_1031000	HEP_00314000	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	cysteine repeat modular protein 4	no	
+PVP01_1031000	HEP_00331800	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	conserved protein, unknown function	no	
+PVP01_1031000	HEP_00340300	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	hypothetical protein	no	
+PVP01_1031000	HEP_00370000	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	hypothetical protein	no	
+PVP01_1031000	HEP_00372200	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	circumsporozoite (CS) protein	no	
+PVP01_1031000	HEP_00379200	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	conserved protein, unknown function	no	
+PVP01_1031000	HEP_00495100	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	heat shock protein 86 family protein	no	
+PVP01_1031000	PADL01_0013600	Plasmodium adleri G01	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PADL01_0402800	Plasmodium adleri G01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PADL01_0910500	Plasmodium adleri G01	cysteine repeat modular protein 1	no	
+PVP01_1031000	PADL01_1035000	Plasmodium adleri G01	liver stage antigen 1	no	
+PVP01_1031000	PADL01_1334500	Plasmodium adleri G01	reticulocyte binding protein 2 homologue a, putative	no	
+PVP01_1031000	PADL01_1475200	Plasmodium adleri G01	cysteine repeat modular protein 4	no	
+PVP01_1031000	PBANKA_0500600	Plasmodium berghei ANKA	fam-b protein	no	
+PVP01_1031000	PBANKA_0508300	Plasmodium berghei ANKA	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PBANKA_0510200	Plasmodium berghei ANKA	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PBANKA_0605600	Plasmodium berghei ANKA	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PBANKA_0812400	Plasmodium berghei ANKA	cysteine repeat modular protein 1	no	
+PVP01_1031000	PBANKA_1000041	Plasmodium berghei ANKA	fam-b protein	no	
+PVP01_1031000	PBANKA_1000800	Plasmodium berghei ANKA	pre-mRNA splicing factor, putative	no	
+PVP01_1031000	PBANKA_1216800	Plasmodium berghei ANKA	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PBANKA_1227100	Plasmodium berghei ANKA	U3 small nucleolar RNA-associated protein 14, putative	no	
+PVP01_1031000	PBANKA_1236600	Plasmodium berghei ANKA	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PBANKA_1300800	Plasmodium berghei ANKA	cysteine repeat modular protein 4	no	
+PVP01_1031000	PBANKA_1445700	Plasmodium berghei ANKA	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PBILCG01_0803800	Plasmodium billcollinsi G01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PBILCG01_0915100	Plasmodium billcollinsi G01	cysteine repeat modular protein 1	no	
+PVP01_1031000	PBILCG01_1035100	Plasmodium billcollinsi G01	liver stage antigen 1	no	
+PVP01_1031000	PBILCG01_1352300	Plasmodium billcollinsi G01	tryptophan-rich antigen, putative	no	
+PVP01_1031000	PBILCG01_1474400	Plasmodium billcollinsi G01	cysteine repeat modular protein 4	no	
+PVP01_1031000	PBLACG01_0521600	Plasmodium blacklocki G01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PBLACG01_0803300	Plasmodium blacklocki G01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PBLACG01_0910900	Plasmodium blacklocki G01	cysteine repeat modular protein 1	no	
+PVP01_1031000	PBLACG01_1117800	Plasmodium blacklocki G01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PBLACG01_1320600	Plasmodium blacklocki G01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PCHAS_0111100	Plasmodium chabaudi chabaudi	leucine-rich repeat protein	no	
+PVP01_1031000	PCHAS_0213000	Plasmodium chabaudi chabaudi	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PCHAS_0303200	Plasmodium chabaudi chabaudi	repetitive organellar protein, putative	no	
+PVP01_1031000	PCHAS_0606700	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PCHAS_0607400	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PCHAS_0812700	Plasmodium chabaudi chabaudi	cysteine repeat modular protein 1, putative	no	
+PVP01_1031000	PCHAS_1001700	Plasmodium chabaudi chabaudi	pre-mRNA splicing factor, putative	no	
+PVP01_1031000	PCHAS_1101000	Plasmodium chabaudi chabaudi	skeleton-binding protein 1, putative	no	
+PVP01_1031000	PCHAS_1110600	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PCHAS_1237100	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PCHAS_1304000	Plasmodium chabaudi chabaudi	cysteine repeat modular protein 4, putative	no	
+PVP01_1031000	PCHAS_1342300	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PCHAS_1351000	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PCHAS_1446400	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PCOAH_00001960	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVP01_1031000	PCOAH_00003900	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVP01_1031000	PCOAH_00006210	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVP01_1031000	PCOAH_00007000	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVP01_1031000	PCOAH_00008210	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVP01_1031000	PCOAH_00014420	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVP01_1031000	PCOAH_00015350	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVP01_1031000	PCOAH_00015490	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVP01_1031000	PCOAH_00016370	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVP01_1031000	PCOAH_00018070	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVP01_1031000	PCOAH_00023480	Plasmodium coatneyi Hackeri	hypothetical protein	no	
+PVP01_1031000	PCOAH_00028430	Plasmodium coatneyi Hackeri	Merozoite surface protein 3	no	
+PVP01_1031000	PCOAH_00031440	Plasmodium coatneyi Hackeri	Merozoite surface protein 3	no	
+PVP01_1031000	PCOAH_00031450	Plasmodium coatneyi Hackeri	Merozoite surface protein	no	
+PVP01_1031000	PCOAH_00037050	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVP01_1031000	PCOAH_00047490	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVP01_1031000	PCOAH_00048110	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVP01_1031000	PCOAH_00048130	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVP01_1031000	PCOAH_00052920	Plasmodium coatneyi Hackeri	Merozoite surface protein 3	no	
+PVP01_1031000	PCYB_004060	Plasmodium cynomolgi strain B	CYIR protein	no	
+PVP01_1031000	PCYB_031580	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVP01_1031000	PCYB_032790	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVP01_1031000	PCYB_041030	Plasmodium cynomolgi strain B	Pv-fam-b protein	no	
+PVP01_1031000	PCYB_042780	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVP01_1031000	PCYB_061840	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVP01_1031000	PCYB_062030	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVP01_1031000	PCYB_063000	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVP01_1031000	PCYB_071910	Plasmodium cynomolgi strain B	cysteine repeat modular protein	no	
+PVP01_1031000	PCYB_074310	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVP01_1031000	PCYB_082760	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVP01_1031000	PCYB_103870	Plasmodium cynomolgi strain B	merozoite surface protein 3	no	
+PVP01_1031000	PCYB_103890	Plasmodium cynomolgi strain B	merozoite surface protein 3	no	
+PVP01_1031000	PCYB_103910	Plasmodium cynomolgi strain B	merozoite surface protein 3	no	
+PVP01_1031000	PCYB_103940	Plasmodium cynomolgi strain B	merozoite surface protein 3	no	
+PVP01_1031000	PCYB_103950	Plasmodium cynomolgi strain B	merozoite surface protein 3	no	
+PVP01_1031000	PCYB_103960	Plasmodium cynomolgi strain B	merozoite surface protein 3	no	
+PVP01_1031000	PCYB_112830	Plasmodium cynomolgi strain B	SET domain containing protein	no	
+PVP01_1031000	PCYB_131560	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVP01_1031000	PF3D7_0911300	Plasmodium falciparum 3D7	cysteine repeat modular protein 1	no	
+PVP01_1031000	PF3D7_1036400	Plasmodium falciparum 3D7	liver stage antigen 1	no	
+PVP01_1031000	PF3D7_1475400	Plasmodium falciparum 3D7	cysteine repeat modular protein 4	no	
+PVP01_1031000	PGABG01_0111400	Plasmodium gaboni strain G01	glutamic acid-rich protein	no	
+PVP01_1031000	PGABG01_0401400	Plasmodium gaboni strain G01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PGABG01_0803200	Plasmodium gaboni strain G01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PGABG01_0908900	Plasmodium gaboni strain G01	cysteine repeat modular protein 1	no	
+PVP01_1031000	PGABG01_1034400	Plasmodium gaboni strain G01	liver stage antigen 1	no	
+PVP01_1031000	PGABG01_1117800	Plasmodium gaboni strain G01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PGABG01_1227400	Plasmodium gaboni strain G01	merozoite surface protein 9	no	
+PVP01_1031000	PGABG01_1474200	Plasmodium gaboni strain G01	cysteine repeat modular protein 4	no	
+PVP01_1031000	PGAL8A_00000200	Plasmodium gallinaceum 8A	fam-i protein	no	
+PVP01_1031000	PGAL8A_00019300	Plasmodium gallinaceum 8A	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PGAL8A_00020000	Plasmodium gallinaceum 8A	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PGAL8A_00040900	Plasmodium gallinaceum 8A	fam-g protein	no	
+PVP01_1031000	PGAL8A_00053200	Plasmodium gallinaceum 8A	fam-i protein	no	
+PVP01_1031000	PGAL8A_00054900	Plasmodium gallinaceum 8A	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PGAL8A_00056600	Plasmodium gallinaceum 8A	apical sushi protein, putative	no	
+PVP01_1031000	PGAL8A_00079300	Plasmodium gallinaceum 8A	U3 small nucleolar RNA-associated protein 14, putative	no	
+PVP01_1031000	PGAL8A_00134500	Plasmodium gallinaceum 8A	protein KIC1, putative	no	
+PVP01_1031000	PGAL8A_00180600	Plasmodium gallinaceum 8A	fam-i protein	no	
+PVP01_1031000	PGAL8A_00188500	Plasmodium gallinaceum 8A	fam-g protein	no	
+PVP01_1031000	PGAL8A_00188600	Plasmodium gallinaceum 8A	fam-g protein	no	
+PVP01_1031000	PGAL8A_00191000	Plasmodium gallinaceum 8A	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PGAL8A_00191300	Plasmodium gallinaceum 8A	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PGAL8A_00194100	Plasmodium gallinaceum 8A	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PGAL8A_00195900	Plasmodium gallinaceum 8A	cysteine repeat modular protein 4, putative	no	
+PVP01_1031000	PGAL8A_00227000	Plasmodium gallinaceum 8A	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PGAL8A_00243100	Plasmodium gallinaceum 8A	RNA-binding protein, putative	no	
+PVP01_1031000	PGAL8A_00243700	Plasmodium gallinaceum 8A	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PGAL8A_00266800	Plasmodium gallinaceum 8A	fam-g protein	no	
+PVP01_1031000	PGAL8A_00266900	Plasmodium gallinaceum 8A	fam-g protein	no	
+PVP01_1031000	PGAL8A_00267200	Plasmodium gallinaceum 8A	fam-g protein	no	
+PVP01_1031000	PGAL8A_00267800	Plasmodium gallinaceum 8A	fam-g protein	no	
+PVP01_1031000	PGAL8A_00269500	Plasmodium gallinaceum 8A	fam-i protein	no	
+PVP01_1031000	PGAL8A_00270300	Plasmodium gallinaceum 8A	surface-associated interspersed protein (SURFIN)	no	
+PVP01_1031000	PGAL8A_00271700	Plasmodium gallinaceum 8A	fam-i protein	no	
+PVP01_1031000	PGAL8A_00271800	Plasmodium gallinaceum 8A	surface-associated interspersed protein (SURFIN)	no	
+PVP01_1031000	PGAL8A_00272100	Plasmodium gallinaceum 8A	hypothetical protein	no	
+PVP01_1031000	PGAL8A_00275000	Plasmodium gallinaceum 8A	EGF domain-containing protein, putative	no	
+PVP01_1031000	PGAL8A_00315700	Plasmodium gallinaceum 8A	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PGAL8A_00320700	Plasmodium gallinaceum 8A	fam-i protein	no	
+PVP01_1031000	PGAL8A_00321100	Plasmodium gallinaceum 8A	fam-i protein	no	
+PVP01_1031000	PGAL8A_00322500	Plasmodium gallinaceum 8A	fam-g protein	no	
+PVP01_1031000	PGAL8A_00322700	Plasmodium gallinaceum 8A	fam-g protein	no	
+PVP01_1031000	PGAL8A_00322900	Plasmodium gallinaceum 8A	fam-g protein	no	
+PVP01_1031000	PGAL8A_00325900	Plasmodium gallinaceum 8A	fam-g protein	no	
+PVP01_1031000	PGAL8A_00326900	Plasmodium gallinaceum 8A	fam-g protein	no	
+PVP01_1031000	PGAL8A_00327100	Plasmodium gallinaceum 8A	fam-g protein	no	
+PVP01_1031000	PGAL8A_00327200	Plasmodium gallinaceum 8A	fam-i protein	no	
+PVP01_1031000	PGAL8A_00328700	Plasmodium gallinaceum 8A	fam-g protein	no	
+PVP01_1031000	PGAL8A_00329100	Plasmodium gallinaceum 8A	fam-g protein	no	
+PVP01_1031000	PGAL8A_00354600	Plasmodium gallinaceum 8A	hypothetical protein	no	
+PVP01_1031000	PGAL8A_00367100	Plasmodium gallinaceum 8A	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PGAL8A_00376400	Plasmodium gallinaceum 8A	fam-i protein	no	
+PVP01_1031000	PGAL8A_00389600	Plasmodium gallinaceum 8A	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PGAL8A_00410700	Plasmodium gallinaceum 8A	hypothetical protein	no	
+PVP01_1031000	PGAL8A_00410800	Plasmodium gallinaceum 8A	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PGAL8A_00411600	Plasmodium gallinaceum 8A	reticulocyte binding protein, putative	no	
+PVP01_1031000	PGAL8A_00412700	Plasmodium gallinaceum 8A	fam-i protein	no	
+PVP01_1031000	PGAL8A_00424100	Plasmodium gallinaceum 8A	cysteine repeat modular protein 1, putative	no	
+PVP01_1031000	PGAL8A_00426900	Plasmodium gallinaceum 8A	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PGAL8A_00450700	Plasmodium gallinaceum 8A	fam-i protein	no	
+PVP01_1031000	PGAL8A_00473400	Plasmodium gallinaceum 8A	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PCOAH_00000350	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVP01_1031000	PCYB_031080	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVP01_1031000	PCYB_042710	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVP01_1031000	PCYB_091020	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVP01_1031000	PCYB_103880	Plasmodium cynomolgi strain B	merozoite surface protein 3	no	
+PVP01_1031000	PCYB_127820	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVP01_1031000	PGAL8A_00188300	Plasmodium gallinaceum 8A	fam-g protein	no	
+PVP01_1031000	PGAL8A_00234400	Plasmodium gallinaceum 8A	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PGAL8A_00475600	Plasmodium gallinaceum 8A	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PGAL8A_00490600	Plasmodium gallinaceum 8A	SAE2 domain-containing protein, putative	no	
+PVP01_1031000	PGAL8A_00506400	Plasmodium gallinaceum 8A	hypothetical protein	no	
+PVP01_1031000	PGSY75_0013100	Plasmodium gaboni strain SY75	liver stage antigen 1	no	
+PVP01_1031000	PGSY75_0403200	Plasmodium gaboni strain SY75	hypothetical protein	no	
+PVP01_1031000	PGSY75_0610200	Plasmodium gaboni strain SY75	hypothetical protein	no	
+PVP01_1031000	PGSY75_0803100	Plasmodium gaboni strain SY75	hypothetical protein	no	
+PVP01_1031000	PGSY75_0911300	Plasmodium gaboni strain SY75	cysteine repeat modular protein 1	no	
+PVP01_1031000	PGSY75_1467600	Plasmodium gaboni strain SY75	hypothetical protein	no	
+PVP01_1031000	PGSY75_1475400	Plasmodium gaboni strain SY75	cysteine repeat modular protein 4	no	
+PVP01_1031000	PKA1H_030006000	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PKA1H_030024600	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PKA1H_040023100	Plasmodium knowlesi strain A1H1	repetitive organellar protein, putative	no	
+PVP01_1031000	PKA1H_050020700	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PKA1H_070014300	Plasmodium knowlesi strain A1H1	cysteine repeat modular protein 1, putative	no	
+PVP01_1031000	PKA1H_080012700	Plasmodium knowlesi strain A1H1	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PKA1H_080042700	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PKA1H_090023500	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PKA1H_100035600	Plasmodium knowlesi strain A1H1	merozoite surface protein 3, putative	no	
+PVP01_1031000	PKA1H_110007200	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PKA1H_110055700	Plasmodium knowlesi strain A1H1	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PKA1H_120050300	Plasmodium knowlesi strain A1H1	cysteine repeat modular protein 4, putative	no	
+PVP01_1031000	PKA1H_120051500	Plasmodium knowlesi strain A1H1	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PKA1H_140063300	Plasmodium knowlesi strain A1H1	merozoite surface protein 3, putative	no	
+PVP01_1031000	PKNH_0301000	Plasmodium knowlesi strain H	pre-mRNA splicing factor, putative	no	
+PVP01_1031000	PKNH_0319500	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PKNH_0418100	Plasmodium knowlesi strain H	repetitive organellar protein, putative	no	
+PVP01_1031000	PKNH_0515200	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PKNH_0709300	Plasmodium knowlesi strain H	cysteine repeat modular protein 1, putative	no	
+PVP01_1031000	PKNH_0726500	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PKNH_0837500	Plasmodium knowlesi strain H	GRIP domain-containing protein, putative	no	
+PVP01_1031000	PKNH_0917700	Plasmodium knowlesi strain H	conserved protein, unknown function	no	
+PVP01_1031000	PKNH_1030600	Plasmodium knowlesi strain H	merozoite surface protein 3, putative	no	
+PVP01_1031000	PKNH_1149200	Plasmodium knowlesi strain H	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PKNH_1245700	Plasmodium knowlesi strain H	cysteine repeat modular protein 4, putative	no	
+PVP01_1031000	PKNH_1246900	Plasmodium knowlesi strain H	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PKNH_1457400	Plasmodium knowlesi strain H	merozoite surface protein 3, putative	no	
+PVP01_1031000	PKNOH_S02293300	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVP01_1031000	PKNOH_S02311900	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVP01_1031000	PKNOH_S04367800	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVP01_1031000	PKNOH_S06410800	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Cysteine repeat modular protein 1	no	
+PVP01_1031000	PKNOH_S06428400	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVP01_1031000	PKNOH_S07468600	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Merozoite surface protein 3	no	
+PVP01_1031000	PKNOH_S08491000	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVP01_1031000	PKNOH_S100035700	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVP01_1031000	PKNOH_S100066100	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVP01_1031000	PKNOH_S110116600	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Cysteine repeat modular protein 4	no	
+PVP01_1031000	PKNOH_S110117800	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVP01_1031000	PKNOH_S120136500	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVP01_1031000	PKNOH_S130168200	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVP01_1031000	PKNOH_S130215900	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVP01_1031000	PKNOH_S140275900	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Merozoite surface protein 3	no	
+PVP01_1031000	PPRFG01_0910300	Plasmodium praefalciparum strain G01	cysteine repeat modular protein 1	no	
+PVP01_1031000	PPRFG01_1475900	Plasmodium praefalciparum strain G01	cysteine repeat modular protein 4	no	
+PVP01_1031000	PRCDC_0304500	Plasmodium reichenowi CDC	GRIP domain-containing protein, putative	no	
+PVP01_1031000	PRCDC_0321000	Plasmodium reichenowi CDC	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRCDC_1035500	Plasmodium reichenowi CDC	liver stage antigen 1	no	
+PVP01_1031000	PRCDC_1205600	Plasmodium reichenowi CDC	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRCDC_1474500	Plasmodium reichenowi CDC	cysteine repeat modular protein 4, putative	no	
+PVP01_1031000	PRELSG_0001300	Plasmodium relictum SGS1-like	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PRELSG_0001400	Plasmodium relictum SGS1-like	hypothetical protein	no	
+PVP01_1031000	PRELSG_0002700	Plasmodium relictum SGS1-like	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PRELSG_0019600	Plasmodium relictum SGS1-like	reticulocyte binding protein, putative	no	
+PVP01_1031000	PRELSG_0021400	Plasmodium relictum SGS1-like	reticulocyte binding protein, putative	no	
+PVP01_1031000	PRELSG_0108700	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_0114800	Plasmodium relictum SGS1-like	U3 small nucleolar RNA-associated protein 14, putative	no	
+PVP01_1031000	PRELSG_0204800	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_0301500	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_0305300	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_0419300	Plasmodium relictum SGS1-like	nucleic acid-binding protein, putative	no	
+PVP01_1031000	PRELSG_0517800	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_0607800	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_0708700	Plasmodium relictum SGS1-like	cysteine repeat modular protein 1, putative	no	
+PVP01_1031000	PRELSG_0711500	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_0912600	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_0937000	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_0941600	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_1002000	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_1009900	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_1139600	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_1205900	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_1230000	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_1265400	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_1309900	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_1424400	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRELSG_1445900	Plasmodium relictum SGS1-like	reticulocyte binding protein, putative	no	
+PVP01_1031000	PRELSG_1467700	Plasmodium relictum SGS1-like	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PRELSG_9902200	Plasmodium relictum SGS1-like	reticulocyte binding protein, putative	no	
+PVP01_1031000	PRELSG_9902600	Plasmodium relictum SGS1-like	surface-associated interspersed protein (SURFIN)	no	
+PVP01_1031000	PRG01_0427900	Plasmodium reichenowi G01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRG01_0918800	Plasmodium reichenowi G01	cysteine repeat modular protein 1	no	
+PVP01_1031000	PRG01_1034700	Plasmodium reichenowi G01	liver stage antigen 1	no	
+PVP01_1031000	PRG01_1210600	Plasmodium reichenowi G01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PRG01_1475200	Plasmodium reichenowi G01	cysteine repeat modular protein 4	no	
+PVP01_1031000	PVBDA_0201580	Plasmodium vinckei brucechwatti DA	unspecified product	no	
+PVP01_1031000	PVBDA_0300300	Plasmodium vinckei brucechwatti DA	Repetitive organellar protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7RU40]	no	
+PVP01_1031000	PVBDA_0301540	Plasmodium vinckei brucechwatti DA	Autophagy-related protein 11, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7RUT7]	no	
+PVP01_1031000	PVBDA_0500910	Plasmodium vinckei brucechwatti DA	unspecified product	no	
+PVP01_1031000	PVBDA_0600600	Plasmodium vinckei brucechwatti DA	unspecified product	no	
+PVP01_1031000	PVBDA_0600630	Plasmodium vinckei brucechwatti DA	unspecified product	no	
+PVP01_1031000	PVBDA_0601250	Plasmodium vinckei brucechwatti DA	unspecified product	no	
+PVP01_1031000	PVBDA_0800810	Plasmodium vinckei brucechwatti DA	unspecified product	no	
+PVP01_1031000	PVBDA_1001460	Plasmodium vinckei brucechwatti DA	Kringle domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S6E0]	no	
+PVP01_1031000	PVBDA_1203870	Plasmodium vinckei brucechwatti DA	unspecified product	no	
+PVP01_1031000	PVBDA_1300380	Plasmodium vinckei brucechwatti DA	Cysteine repeat modular protein 4, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SKH2]	no	
+PVP01_1031000	PVBDA_1305120	Plasmodium vinckei brucechwatti DA	unspecified product	no	
+PVP01_1031000	PVLDE_0101100	Plasmodium vinckei lentum DE	unspecified product	no	
+PVP01_1031000	PVLDE_0101350	Plasmodium vinckei lentum DE	Leucine-rich repeat protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7RSX6]	no	
+PVP01_1031000	PVLDE_0201540	Plasmodium vinckei lentum DE	unspecified product	no	
+PVP01_1031000	PVLDE_0300120	Plasmodium vinckei lentum DE	Repetitive organellar protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7RVI0]	no	
+PVP01_1031000	PVLDE_0600710	Plasmodium vinckei lentum DE	unspecified product	no	
+PVP01_1031000	PVLDE_0802870	Plasmodium vinckei lentum DE	unspecified product	no	
+PVP01_1031000	PVLDE_1001590	Plasmodium vinckei lentum DE	Kringle domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S886]	no	
+PVP01_1031000	PVLDE_1100150	Plasmodium vinckei lentum DE	Skeleton-binding protein 1, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SA72]	no	
+PVP01_1031000	PVLDE_1201850	Plasmodium vinckei lentum DE	unspecified product	no	
+PVP01_1031000	PVLDE_1201970	Plasmodium vinckei lentum DE	unspecified product	no	
+PVP01_1031000	PVLDE_1202920	Plasmodium vinckei lentum DE	U3 small nucleolar RNA-associated protein 14, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SHX6]	no	
+PVP01_1031000	PVLDE_1203930	Plasmodium vinckei lentum DE	unspecified product	no	
+PVP01_1031000	PVLDE_1300620	Plasmodium vinckei lentum DE	Cysteine repeat modular protein 4, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SM92]	no	
+PVP01_1031000	PVLDE_1305360	Plasmodium vinckei lentum DE	unspecified product	no	
+PVP01_1031000	PVLDE_1404490	Plasmodium vinckei lentum DE	unspecified product	no	
+PVP01_1031000	PVLDE_1405600	Plasmodium vinckei lentum DE	unspecified product	no	
+PVP01_1031000	PVL_000032000	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PVL_000036300	Plasmodium vivax-like Pvl01	hypothetical protein	no	
+PVP01_1031000	PVL_000042700	Plasmodium vivax-like Pvl01	cysteine repeat modular protein 4, putative	no	
+PVP01_1031000	PVL_000066900	Plasmodium vivax-like Pvl01	merozoite surface protein 3	no	
+PVP01_1031000	PVL_000098500	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PVL_000158100	Plasmodium vivax-like Pvl01	merozoite surface protein 3, putative	no	
+PVP01_1031000	PVL_000180300	Plasmodium vivax-like Pvl01	hypothetical protein, conserved	no	
+PVP01_1031000	PVL_000202300	Plasmodium vivax-like Pvl01	merozoite surface protein 3	no	
+PVP01_1031000	PVL_000217600	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PVL_030005700	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PVL_070013800	Plasmodium vivax-like Pvl01	cysteine repeat modular protein 1, putative	no	
+PVP01_1031000	PVL_070013900	Plasmodium vivax-like Pvl01	cysteine repeat modular protein 1, putative	no	
+PVP01_1031000	PVL_120016100	Plasmodium vivax-like Pvl01	MSP7-like protein	no	
+PVP01_1031000	PVL_120052700	Plasmodium vivax-like Pvl01	cysteine repeat modular protein 4, putative	no	
+PVP01_1031000	PVP01_0302400	Plasmodium vivax P01	pre-mRNA splicing factor, putative	no	
+PVP01_1031000	PVP01_0422100	Plasmodium vivax P01	repetitive organellar protein, putative	no	
+PVP01_1031000	PVP01_0709800	Plasmodium vivax P01	cysteine repeat modular protein 1, putative	no	
+PVP01_1031000	PVP01_0726600	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PVP01_0734600	Plasmodium vivax P01	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PVP01_1031200	Plasmodium vivax P01	merozoite surface protein 3	no	
+PVP01_1031000	PVP01_1031300	Plasmodium vivax P01	merozoite surface protein 3	no	
+PVP01_1031000	PVP01_1031400	Plasmodium vivax P01	merozoite surface protein 3	no	
+PVP01_1031000	PVP01_1031500	Plasmodium vivax P01	merozoite surface protein 3	no	
+PVP01_1031000	PVP01_1031600	Plasmodium vivax P01	merozoite surface protein 3	no	
+PVP01_1031000	PVP01_1031700	Plasmodium vivax P01	merozoite surface protein 3	no	
+PVP01_1031000	PVP01_1102900	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PVP01_1201800	Plasmodium vivax P01	tryptophan-rich protein	no	
+PVP01_1031000	PVP01_1219900	Plasmodium vivax P01	MSP7-like protein	no	
+PVP01_1031000	PVP01_1263900	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PVP01_1270300	Plasmodium vivax P01	cysteine repeat modular protein 4, putative	no	
+PVP01_1031000	PVP01_1469500	Plasmodium vivax P01	hypothetical protein	no	
+PVP01_1031000	PVPCR_0201580	Plasmodium vinckei petteri CR 2020	unspecified product	no	
+PVP01_1031000	PVPCR_0300240	Plasmodium vinckei petteri CR 2020	Repetitive organellar protein, putative [Source:UniProtKB/TrEMBL;Acc:W7AWH3]	no	
+PVP01_1031000	PVPCR_0502200	Plasmodium vinckei petteri CR 2020	unspecified product	no	
+PVP01_1031000	PVPCR_0600730	Plasmodium vinckei petteri CR 2020	unspecified product	no	
+PVP01_1031000	PVPCR_0800310	Plasmodium vinckei petteri CR 2020	unspecified product	no	
+PVP01_1031000	PVPCR_0802850	Plasmodium vinckei petteri CR 2020	unspecified product	no	
+PVP01_1031000	PVPCR_0901770	Plasmodium vinckei petteri CR 2020	unspecified product	no	
+PVP01_1031000	PVPCR_1001420	Plasmodium vinckei petteri CR 2020	Kringle domain-containing protein [Source:UniProtKB/TrEMBL;Acc:W7AZ44]	no	
+PVP01_1031000	PVPCR_1201850	Plasmodium vinckei petteri CR 2020	unspecified product	no	
+PVP01_1031000	PVPCR_1203760	Plasmodium vinckei petteri CR 2020	unspecified product	no	
+PVP01_1031000	PVPCR_1300550	Plasmodium vinckei petteri CR 2020	Cysteine repeat modular protein 4, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7TAL0]	no	
+PVP01_1031000	PVPCR_1302690	Plasmodium vinckei petteri CR 2020	Spindle assembly abnormal protein 4, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7TCT3]	no	
+PVP01_1031000	PVPCR_1404740	Plasmodium vinckei petteri CR 2020	unspecified product	no	
+PVP01_1031000	PVPCR_1405820	Plasmodium vinckei petteri CR 2020	unspecified product	no	
+PVP01_1031000	PVSEL_0300320	Plasmodium vinckei Cameroon EL	Repetitive organellar protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SF86]	no	
+PVP01_1031000	PVSEL_0301490	Plasmodium vinckei Cameroon EL	Autophagy-related protein 11, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SE31]	no	
+PVP01_1031000	PVSEL_0501450	Plasmodium vinckei Cameroon EL	Secreted ookinete protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SIE0]	no	
+PVP01_1031000	PVSEL_0503070	Plasmodium vinckei Cameroon EL	unspecified product	no	
+PVP01_1031000	PVSEL_0600740	Plasmodium vinckei Cameroon EL	unspecified product	no	
+PVP01_1031000	PVSEL_0800090	Plasmodium vinckei Cameroon EL	unspecified product	no	
+PVP01_1031000	PVSEL_0800960	Plasmodium vinckei Cameroon EL	unspecified product	no	
+PVP01_1031000	PVSEL_0802980	Plasmodium vinckei Cameroon EL	unspecified product	no	
+PVP01_1031000	PVSEL_1001350	Plasmodium vinckei Cameroon EL	Kringle domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7T2A3]	no	
+PVP01_1031000	PVSEL_1203430	Plasmodium vinckei Cameroon EL	unspecified product	no	
+PVP01_1031000	PVSEL_1300390	Plasmodium vinckei Cameroon EL	Cysteine repeat modular protein 4, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7T9T1]	no	
+PVP01_1031000	PVSEL_1405810	Plasmodium vinckei Cameroon EL	unspecified product	no	
+PVP01_1031000	PVVCY_0201470	Plasmodium vinckei vinckei CY	unspecified product	no	
+PVP01_1031000	PVVCY_0301430	Plasmodium vinckei vinckei CY	Autophagy-related protein 11, putative [Source:UniProtKB/TrEMBL;Acc:A0A449BN37]	no	
+PVP01_1031000	PVVCY_0402040	Plasmodium vinckei vinckei CY	unspecified product	no	
+PVP01_1031000	PVVCY_0600600	Plasmodium vinckei vinckei CY	unspecified product	no	
+PVP01_1031000	PVVCY_0800110	Plasmodium vinckei vinckei CY	unspecified product	no	
+PVP01_1031000	PVVCY_1001420	Plasmodium vinckei vinckei CY	Kringle domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A449BTX5]	no	
+PVP01_1031000	PVVCY_1203740	Plasmodium vinckei vinckei CY	unspecified product	no	
+PVP01_1031000	PVVCY_1300250	Plasmodium vinckei vinckei CY	Cysteine repeat modular protein 4, putative [Source:UniProtKB/TrEMBL;Acc:A0A449BX92]	no	
+PVP01_1031000	PVVCY_1304910	Plasmodium vinckei vinckei CY	unspecified product	no	
+PVP01_1031000	PVVCY_1400060	Plasmodium vinckei vinckei CY	unspecified product	no	
+PVP01_1031000	PVVCY_1405710	Plasmodium vinckei vinckei CY	unspecified product	no	
+PVP01_1031000	PVX_001090	Plasmodium vivax Sal-1	hypothetical protein, conserved	no	
+PVP01_1031000	PVX_003585	Plasmodium vivax Sal-1	repetitive organellar protein, putative	no	
+PVP01_1031000	PVX_079195	Plasmodium vivax Sal-1	unspecified product	no	
+PVP01_1031000	PVX_082670	Plasmodium vivax Sal-1	merozoite surface protein 7 (MSP7), putative	no	
+PVP01_1031000	PVX_083550	Plasmodium vivax Sal-1	tryptophan-rich antigen (Pv-fam-a)	no	
+PVP01_1031000	PVX_086925	Plasmodium vivax Sal-1	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PVX_097670	Plasmodium vivax Sal-1	merozoite surface protein 3	no	
+PVP01_1031000	PVX_097680	Plasmodium vivax Sal-1	merozoite surface protein 3	no	
+PVP01_1031000	PVX_097685	Plasmodium vivax Sal-1	merozoite surface protein 3	no	
+PVP01_1031000	PVX_097690	Plasmodium vivax Sal-1	merozoite surface protein 3	no	
+PVP01_1031000	PVX_097695	Plasmodium vivax Sal-1	merozoite surface protein 3	no	
+PVP01_1031000	PVX_097705	Plasmodium vivax Sal-1	merozoite surface protein 3	no	
+PVP01_1031000	PVX_097725	Plasmodium vivax Sal-1	merozoite surface protein 3	no	
+PVP01_1031000	PVX_099005	Plasmodium vivax Sal-1	cysteine repeat modular protein 1, putative	no	
+PVP01_1031000	PVX_099850	Plasmodium vivax Sal-1	hypothetical protein, conserved	no	
+PVP01_1031000	PVX_101500	Plasmodium vivax Sal-1	hypothetical protein	no	
+PVP01_1031000	PVX_115415	Plasmodium vivax Sal-1	hypothetical protein, conserved	no	
+PVP01_1031000	PVX_118335	Plasmodium vivax Sal-1	hypothetical protein, conserved	no	
+PVP01_1031000	PVX_118648	Plasmodium vivax Sal-1	hypothetical protein, conserved	no	
+PVP01_1031000	PY00337	Plasmodium yoelii yoelii 17XNL	cysteine repeat modular protein 1 PbCRM1	no	
+PVP01_1031000	PY00445	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVP01_1031000	PY00675	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVP01_1031000	PY00709	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVP01_1031000	PY01140	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVP01_1031000	PY01844	Plasmodium yoelii yoelii 17XNL	maebl	no	
+PVP01_1031000	PY02239	Plasmodium yoelii yoelii 17XNL	mature-parasite-infected erythrocyte surface antigen	no	
+PVP01_1031000	PY02441	Plasmodium yoelii yoelii 17XNL	KED	no	
+PVP01_1031000	PY04214	Plasmodium yoelii yoelii 17XNL	repeat organellar protein-related	no	
+PVP01_1031000	PY04393	Plasmodium yoelii yoelii 17XNL	RNA recognition motif, putative	no	
+PVP01_1031000	PY04562	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVP01_1031000	PY05029	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVP01_1031000	PY05260	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVP01_1031000	PY05279	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVP01_1031000	PY05661	Plasmodium yoelii yoelii 17XNL	CCAAT-box DNA binding protein subunit B	no	
+PVP01_1031000	PY05757	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVP01_1031000	PY05925	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVP01_1031000	PY06190	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVP01_1031000	PY06496	Plasmodium yoelii yoelii 17XNL	glutamine-asparagine rich protein	no	
+PVP01_1031000	PY06691	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVP01_1031000	PY07199	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVP01_1031000	PY17X_0301200	Plasmodium yoelii yoelii 17X	nucleic acid-binding protein, putative	no	
+PVP01_1031000	PY17X_0405900	Plasmodium yoelii yoelii 17X	GRIP domain-containing protein, putative	no	
+PVP01_1031000	PY17X_0421700	Plasmodium yoelii yoelii 17X	reticulocyte binding protein, putative	no	
+PVP01_1031000	PY17X_0608100	Plasmodium yoelii yoelii 17X	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PY17X_0815700	Plasmodium yoelii yoelii 17X	cysteine repeat modular protein 1, putative	no	
+PVP01_1031000	PY17X_0904100	Plasmodium yoelii yoelii 17X	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PY17X_1002200	Plasmodium yoelii yoelii 17X	pre-mRNA splicing factor, putative	no	
+PVP01_1031000	PY17X_1209200	Plasmodium yoelii yoelii 17X	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PY17X_1220000	Plasmodium yoelii yoelii 17X	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PY17X_1230600	Plasmodium yoelii yoelii 17X	U3 small nucleolar RNA-associated protein 14, putative	no	
+PVP01_1031000	PY17X_1304400	Plasmodium yoelii yoelii 17X	cysteine repeat modular protein 4	no	
+PVP01_1031000	PY17X_1325300	Plasmodium yoelii yoelii 17X	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PY17X_1342400	Plasmodium yoelii yoelii 17X	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PYYM_0317900	Plasmodium yoelii yoelii YM	YIR protein	no	
+PVP01_1031000	PYYM_0406100	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PYYM_0606600	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PYYM_0607300	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PYYM_0815400	Plasmodium yoelii yoelii YM	cysteine repeat modular protein 1, putative	no	
+PVP01_1031000	PYYM_0903600	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PYYM_1002200	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PYYM_1208600	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PYYM_1219400	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PYYM_1229800	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PYYM_1301500	Plasmodium yoelii yoelii YM	cysteine repeat modular protein 4	no	
+PVP01_1031000	PYYM_1322300	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PYYM_1339400	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PcyM_0203600	Plasmodium cynomolgi strain M	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PcyM_0303600	Plasmodium cynomolgi strain M	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PcyM_0304900	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PcyM_0401800	Plasmodium cynomolgi strain M	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PcyM_0422000	Plasmodium cynomolgi strain M	repetitive organellar protein, putative	no	
+PVP01_1031000	PcyM_0533000	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PcyM_0614100	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PcyM_0625700	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PcyM_0709600	Plasmodium cynomolgi strain M	cysteine repeat modular protein 1, putative	no	
+PVP01_1031000	PcyM_0738000	Plasmodium cynomolgi strain M	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PcyM_0904800	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PcyM_1031300	Plasmodium cynomolgi strain M	merozoite surface protein 3, putative	no	
+PVP01_1031000	PcyM_1031600	Plasmodium cynomolgi strain M	merozoite surface protein 3, putative	no	
+PVP01_1031000	PcyM_1031700	Plasmodium cynomolgi strain M	merozoite surface protein 3, putative	no	
+PVP01_1031000	PcyM_1031800	Plasmodium cynomolgi strain M	merozoite surface protein 3, putative	no	
+PVP01_1031000	PcyM_1031900	Plasmodium cynomolgi strain M	merozoite surface protein 3, putative	no	
+PVP01_1031000	PcyM_1032000	Plasmodium cynomolgi strain M	merozoite surface protein 3, putative	no	
+PVP01_1031000	PcyM_1032100	Plasmodium cynomolgi strain M	merozoite surface protein 3, putative	no	
+PVP01_1031000	PcyM_1032200	Plasmodium cynomolgi strain M	merozoite surface protein 3, putative	no	
+PVP01_1031000	PcyM_1032300	Plasmodium cynomolgi strain M	merozoite surface protein 3, putative	no	
+PVP01_1031000	PcyM_1032400	Plasmodium cynomolgi strain M	merozoite surface protein 3, putative	no	
+PVP01_1031000	PcyM_1237000	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PcyM_1279800	Plasmodium cynomolgi strain M	cysteine repeat modular protein 4, putative	no	
+PVP01_1031000	PcyM_1426800	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	Pf7G8_020007800	Plasmodium falciparum 7G8	repetitive organellar protein, putative	no	
+PVP01_1031000	Pf7G8_090016300	Plasmodium falciparum 7G8	cysteine repeat modular protein 1	no	
+PVP01_1031000	Pf7G8_100040500	Plasmodium falciparum 7G8	liver stage antigen 1	no	
+PVP01_1031000	Pf7G8_140080300	Plasmodium falciparum 7G8	cysteine repeat modular protein 4	no	
+PVP01_1031000	PfCD01_020008100	Plasmodium falciparum CD01	repetitive organellar protein, putative	no	
+PVP01_1031000	PfCD01_090015800	Plasmodium falciparum CD01	cysteine repeat modular protein 1	no	
+PVP01_1031000	PfCD01_140080400	Plasmodium falciparum CD01	cysteine repeat modular protein 4	no	
+PVP01_1031000	PfDd2_100041400	Plasmodium falciparum Dd2	liver stage antigen 1	no	
+PVP01_1031000	PfDd2_140079500	Plasmodium falciparum Dd2	cysteine repeat modular protein 4	no	
+PVP01_1031000	PfGA01_080006900	Plasmodium falciparum GA01	U3 small nucleolar RNA-associated protein 14, putative	no	
+PVP01_1031000	PfGA01_090015700	Plasmodium falciparum GA01	cysteine repeat modular protein 1	no	
+PVP01_1031000	PfGA01_100041400	Plasmodium falciparum GA01	liver stage antigen 1	no	
+PVP01_1031000	PfGA01_140080500	Plasmodium falciparum GA01	cysteine repeat modular protein 4	no	
+PVP01_1031000	PfGB4_080007900	Plasmodium falciparum GB4	U3 small nucleolar RNA-associated protein 14, putative	no	
+PVP01_1031000	PfGB4_090016400	Plasmodium falciparum GB4	cysteine repeat modular protein 1	no	
+PVP01_1031000	PfGB4_100041000	Plasmodium falciparum GB4	liver stage antigen 1	no	
+PVP01_1031000	PfGB4_140081100	Plasmodium falciparum GB4	cysteine repeat modular protein 4	no	
+PVP01_1031000	PfGN01_080009000	Plasmodium falciparum GN01	U3 small nucleolar RNA-associated protein 14, putative	no	
+PVP01_1031000	PfGN01_090016300	Plasmodium falciparum GN01	cysteine repeat modular protein 1	no	
+PVP01_1031000	PfGN01_100041600	Plasmodium falciparum GN01	liver stage antigen 1	no	
+PVP01_1031000	PfGN01_140080400	Plasmodium falciparum GN01	cysteine repeat modular protein 4	no	
+PVP01_1031000	PfHB3_050009800	Plasmodium falciparum HB3	centrosomal protein CEP120, putative	no	
+PVP01_1031000	PfHB3_090016100	Plasmodium falciparum HB3	cysteine repeat modular protein 1	no	
+PVP01_1031000	PfHB3_100040500	Plasmodium falciparum HB3	liver stage antigen 1	no	
+PVP01_1031000	PfIT_090016000	Plasmodium falciparum IT	cysteine repeat modular protein 1	no	
+PVP01_1031000	PfIT_100040100	Plasmodium falciparum IT	liver stage antigen 1	no	
+PVP01_1031000	PfIT_140081600	Plasmodium falciparum IT	cysteine repeat modular protein 4	no	
+PVP01_1031000	PfKE01_020005600	Plasmodium falciparum KE01	repetitive organellar protein, putative	no	
+PVP01_1031000	PfKE01_090015800	Plasmodium falciparum KE01	cysteine repeat modular protein 1	no	
+PVP01_1031000	PfKE01_100041400	Plasmodium falciparum KE01	liver stage antigen 1	no	
+PVP01_1031000	PfKE01_140079900	Plasmodium falciparum KE01	cysteine repeat modular protein 4	no	
+PVP01_1031000	PfKH01_020008400	Plasmodium falciparum KH01	repetitive organellar protein, putative	no	
+PVP01_1031000	PfKH01_090015700	Plasmodium falciparum KH01	cysteine repeat modular protein 1	no	
+PVP01_1031000	PfKH01_100040600	Plasmodium falciparum KH01	liver stage antigen 1	no	
+PVP01_1031000	PfKH02_080008700	Plasmodium falciparum KH02	U3 small nucleolar RNA-associated protein 14, putative	no	
+PVP01_1031000	PfKH02_090016200	Plasmodium falciparum KH02	cysteine repeat modular protein 1	no	
+PVP01_1031000	PfKH02_100041500	Plasmodium falciparum KH02	liver stage antigen 1	no	
+PVP01_1031000	PfKH02_140080800	Plasmodium falciparum KH02	cysteine repeat modular protein 4	no	
+PVP01_1031000	PfML01_090015900	Plasmodium falciparum ML01	cysteine repeat modular protein 1	no	
+PVP01_1031000	PfML01_100040200	Plasmodium falciparum ML01	liver stage antigen 1	no	
+PVP01_1031000	PfSD01_020008600	Plasmodium falciparum SD01	repetitive organellar protein, putative	no	
+PVP01_1031000	PfSD01_090016400	Plasmodium falciparum SD01	cysteine repeat modular protein 1	no	
+PVP01_1031000	PfSD01_140078400	Plasmodium falciparum SD01	cysteine repeat modular protein 4	no	
+PVP01_1031000	PfSN01_020006100	Plasmodium falciparum SN01	repetitive organellar protein, putative	no	
+PVP01_1031000	PfSN01_090016000	Plasmodium falciparum SN01	cysteine repeat modular protein 1	no	
+PVP01_1031000	PfSN01_100041500	Plasmodium falciparum SN01	liver stage antigen 1	no	
+PVP01_1031000	PfSN01_100041600	Plasmodium falciparum SN01	liver stage antigen 1	no	
+PVP01_1031000	PfSN01_140082300	Plasmodium falciparum SN01	cysteine repeat modular protein 4	no	
+PVP01_1031000	PfTG01_050009800	Plasmodium falciparum TG01	centrosomal protein CEP120, putative	no	
+PVP01_1031000	PfTG01_090015800	Plasmodium falciparum TG01	cysteine repeat modular protein 1	no	
+PVP01_1031000	PfTG01_100041300	Plasmodium falciparum TG01	liver stage antigen 1	no	
+PVP01_1031000	PfTG01_140080500	Plasmodium falciparum TG01	cysteine repeat modular protein 4	no	
+PVP01_1031000	PmUG01_01013800	Plasmodium malariae UG01	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PmUG01_01028800	Plasmodium malariae UG01	U3 small nucleolar RNA-associated protein 14, putative	no	
+PVP01_1031000	PmUG01_02017100	Plasmodium malariae UG01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PmUG01_02025600	Plasmodium malariae UG01	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PmUG01_03013100	Plasmodium malariae UG01	pre-mRNA splicing factor, putative	no	
+PVP01_1031000	PmUG01_03014300	Plasmodium malariae UG01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PmUG01_03018100	Plasmodium malariae UG01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PmUG01_04012400	Plasmodium malariae UG01	liver stage antigen 3, putative	no	
+PVP01_1031000	PmUG01_04029400	Plasmodium malariae UG01	repetitive organellar protein, putative	no	
+PVP01_1031000	PmUG01_05039900	Plasmodium malariae UG01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PmUG01_06022700	Plasmodium malariae UG01	hypothetical protein	no	
+PVP01_1031000	PmUG01_06022800	Plasmodium malariae UG01	merozoite surface protein 3, putative	no	
+PVP01_1031000	PmUG01_06022900	Plasmodium malariae UG01	merozoite surface protein 3, putative	no	
+PVP01_1031000	PmUG01_07012200	Plasmodium malariae UG01	STP1 protein	no	
+PVP01_1031000	PmUG01_07022900	Plasmodium malariae UG01	cysteine repeat modular protein 1, putative	no	
+PVP01_1031000	PmUG01_07047800	Plasmodium malariae UG01	hypothetical protein	no	
+PVP01_1031000	PmUG01_08034400	Plasmodium malariae UG01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PmUG01_09049300	Plasmodium malariae UG01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PmUG01_10046900	Plasmodium malariae UG01	liver stage antigen 1, putative	no	
+PVP01_1031000	PmUG01_12080300	Plasmodium malariae UG01	cysteine repeat modular protein 4, putative	no	
+PVP01_1031000	PmUG01_13017000	Plasmodium malariae UG01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PmUG01_13017700	Plasmodium malariae UG01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PocGH01_00011600	Plasmodium ovale curtisi GH01	hypothetical protein	no	
+PVP01_1031000	PocGH01_00049900	Plasmodium ovale curtisi GH01	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PocGH01_00102500	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PocGH01_01015100	Plasmodium ovale curtisi GH01	rhoptry-associated membrane antigen, putative	no	
+PVP01_1031000	PocGH01_03010500	Plasmodium ovale curtisi GH01	pre-mRNA splicing factor, putative	no	
+PVP01_1031000	PocGH01_06019100	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PocGH01_07018800	Plasmodium ovale curtisi GH01	cysteine repeat modular protein 1, putative	no	
+PVP01_1031000	PocGH01_07026100	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PocGH01_07035500	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PocGH01_08043000	Plasmodium ovale curtisi GH01	GRIP domain-containing protein, putative	no	
+PVP01_1031000	PocGH01_09031100	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PocGH01_09043100	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PocGH01_09044500	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PocGH01_10038300	Plasmodium ovale curtisi GH01	merozoite surface protein 3, putative	no	
+PVP01_1031000	PocGH01_10038600	Plasmodium ovale curtisi GH01	merozoite surface protein 3, putative	no	
+PVP01_1031000	PocGH01_10038700	Plasmodium ovale curtisi GH01	merozoite surface protein 3, putative	no	
+PVP01_1031000	PocGH01_10038800	Plasmodium ovale curtisi GH01	merozoite surface protein 3, putative	no	
+PVP01_1031000	PocGH01_10038900	Plasmodium ovale curtisi GH01	merozoite surface protein 3, putative	no	
+PVP01_1031000	PocGH01_10039100	Plasmodium ovale curtisi GH01	merozoite surface protein 3, putative	no	
+PVP01_1031000	PocGH01_10039200	Plasmodium ovale curtisi GH01	merozoite surface protein 3, putative	no	
+PVP01_1031000	PocGH01_12040200	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PocGH01_12078100	Plasmodium ovale curtisi GH01	cysteine repeat modular protein 4, putative	no	
+PVP01_1031000	YYE_00013	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVP01_1031000	YYE_00478	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVP01_1031000	YYE_00780	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVP01_1031000	YYE_01705	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVP01_1031000	PGAL8A_00497200	Plasmodium gallinaceum 8A	fam-i protein	no	
+PVP01_1031000	PKA1H_070031600	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PKNH_0807900	Plasmodium knowlesi strain H	Plasmodium exported protein, unknown function	no	
+PVP01_1031000	PKNH_1102100	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PVL_140053000	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PVSEL_0600810	Plasmodium vinckei Cameroon EL	unspecified product	no	
+PVP01_1031000	PVX_097675	Plasmodium vivax Sal-1	merozoite surface protein 3	no	
+PVP01_1031000	PYYM_0508700	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVP01_1031000	PYYM_1332000	Plasmodium yoelii yoelii YM	rhoptry protein, putative	no	
+PVP01_1031000	PfDd2_090016500	Plasmodium falciparum Dd2	cysteine repeat modular protein 1	no	
+PVP01_1031000	PfHB3_140080800	Plasmodium falciparum HB3	cysteine repeat modular protein 4	no	
+PVP01_1031000	PfIT_020007200	Plasmodium falciparum IT	gamete antigen 27/25, putative	no	
+PVP01_1031000	PfKH01_140080600	Plasmodium falciparum KH01	cysteine repeat modular protein 4	no	
+PVP01_1031000	PfSD01_100040700	Plasmodium falciparum SD01	liver stage antigen 1	no	
+PVP01_1031000	PmUG01_06023000	Plasmodium malariae UG01	merozoite surface protein 3, putative	no	
+PVP01_1031000	YYE_01927	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVP01_1031000	YYE_03169	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVP01_1031000	YYE_03554	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVP01_1031000	YYE_04427	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVP01_1031000	YYE_04715	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVP01_1031000	YYE_04744	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVP01_1031000	YYE_04867	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVP01_1031000	YYG_00472	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVP01_1031000	YYG_00580	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVP01_1031000	YYG_01014	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVP01_1031000	YYG_02211	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVP01_1031000	YYG_02567	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVP01_1031000	YYG_02820	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVP01_1031000	YYG_03059	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVP01_1031000	YYG_03299	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVP01_1031000	YYG_03779	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVP01_1031000	YYG_04619	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVP01_1031000	YYG_04664	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVP01_1031000	YYG_04976	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+7	29	VTLYLFLLTLCAYLTGAEVIGGS	null	PVP01_1031000.1	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0005515	null	protein binding	GeneDB	IPI	PMID:26701602	GeneDB:PVP01_1219300	MGO:0005515	PVP01_1031000.1	
+Cellular Component	GO:0009986	null	cell surface	GeneDB	IDA	PMID:23717506	null	CGO:0009986	PVP01_1031000.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_10_v2	plasmodb	1332979 - 1335525 (-)	pvivP01	1332979	1335525	-	1327979	1340525	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_1031000.1	4.66	90176	yes	yes	plasmodb	pvivP01	848	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_1031000.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_1031000.1;genepage=1	PVP01_1031000.1-p1%3A1..848	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_1031000.1-p1%3A1..848&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_1031000.1-p1%3A1..848&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

@@ -1,0 +1,83 @@
+Gene ID: PVX_085510
+Chromosome: 13
+Product Description: hypothetical protein, conserved
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4H3G0	alternate ID	
+A0A1G4HIY2	alternate ID	
+A0A565A317	alternate ID	
+A5K141	alternate ID	
+EDL47038.1	alternate ID	
+UPI000153E16C	alternate ID	
+XP_001616765.1	alternate ID	
+Pv085510	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_085510	AK88_00517	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_085510	C922_03660	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_085510	PADL01_1419100	Plasmodium adleri G01	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PBILCG01_1420100	Plasmodium billcollinsi G01	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PBLACG01_1418400	Plasmodium blacklocki G01	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PCHAS_1024600	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	yes	
+PVX_085510	PCOAH_00049410	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVX_085510	PF3D7_1419400	Plasmodium falciparum 3D7	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PGABG01_1417800	Plasmodium gaboni strain G01	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PGSY75_1419400	Plasmodium gaboni strain SY75	putative membrane protein	yes	
+PVX_085510	PKNH_1338600	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	yes	
+PVX_085510	PKNOH_S05382500	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	yes	
+PVX_085510	PPRFG01_1419800	Plasmodium praefalciparum strain G01	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PRCDC_1418700	Plasmodium reichenowi CDC	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PRELSG_1331600	Plasmodium relictum SGS1-like	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PRG01_1419100	Plasmodium reichenowi G01	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PVBDA_1002900	Plasmodium vinckei brucechwatti DA	unspecified product	yes	
+PVX_085510	PVL_130021300	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	yes	
+PVX_085510	PVP01_1329500	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	yes	
+PVX_085510	PY04018	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVX_085510	PY05087	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVX_085510	PY17X_1025700	Plasmodium yoelii yoelii 17X	conserved Plasmodium protein, unknown function	yes	
+PVX_085510	PYYM_1025400	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	yes	
+PVX_085510	Pf7G8_140024900	Plasmodium falciparum 7G8	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PfCD01_140025100	Plasmodium falciparum CD01	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PfDd2_140024200	Plasmodium falciparum Dd2	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PfGA01_140025200	Plasmodium falciparum GA01	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PfGB4_140025800	Plasmodium falciparum GB4	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PfGN01_140024900	Plasmodium falciparum GN01	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PfHB3_140025400	Plasmodium falciparum HB3	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PfIT_140026100	Plasmodium falciparum IT	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PfKE01_140024700	Plasmodium falciparum KE01	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PfKH01_140025100	Plasmodium falciparum KH01	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PfKH02_140025400	Plasmodium falciparum KH02	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PfML01_140024900	Plasmodium falciparum ML01	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PfSD01_140023000	Plasmodium falciparum SD01	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PfSN01_140026800	Plasmodium falciparum SN01	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PfTG01_140025000	Plasmodium falciparum TG01	conserved Plasmodium membrane protein, unknown function	yes	
+PVX_085510	PmUG01_13039500	Plasmodium malariae UG01	conserved Plasmodium protein, unknown function	yes	
+PVX_085510	PocGH01_13040400	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	yes	
+PVX_085510	PocGH01_00134800	Plasmodium ovale curtisi GH01	PIR protein	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+1821	1838	MTLIYSLFSNYLLLLFLL	null	PVX_085510.1	
+1906	1928	LYSTNVYSSLYIYLLDVSLSYLF	null	PVX_085510.1	
+1932	1950	IGIAYVQSILALLLFYNYV	null	PVX_085510.1	
+1957	1975	LLFYKSGAALLTIFLVKII	null	PVX_085510.1	
+1985	2007	LITCFLYSVLHSVFYILCNVFTH	null	PVX_085510.1	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Cellular Component	GO:0016020	null	membrane	GeneDB_Pvivax	IEA	GO_REF:0000001	null	CGO:0016020	PVX_085510.1	
+Cellular Component	GO:0016021	null	integral component of membrane	gouniprot	IEA	null	null	CGO:0016021	PVX_085510.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr13	plasmodb	1225139 - 1231835 (+)	pvivSal1	1225139	1231835	+	1220139	1236835	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_085510.1	6.82	232949	no	yes	plasmodb	pvivSal1	2081	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_085510.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_085510.1;genepage=1	PVX_085510.1-p1%3A1..2081	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_085510.1-p1%3A1..2081&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_085510.1-p1%3A1..2081&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

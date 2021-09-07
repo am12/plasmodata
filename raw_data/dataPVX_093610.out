@@ -1,0 +1,85 @@
+Gene ID: PVX_093610
+Chromosome: 1
+Product Description: adenylyl cyclase beta, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4H6L0	alternate ID	
+A0A564ZPQ4	alternate ID	
+A5KCI9	alternate ID	
+EDL42930.1	alternate ID	
+UPI000153FAD5	alternate ID	
+XP_001608592.1	alternate ID	
+Pv093610	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_093610	AK88_05092	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_093610	C922_02886	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_093610	HEP_00292100	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	adenylyl cyclase beta	yes	
+PVX_093610	PADL01_0802000	Plasmodium adleri G01	adenylyl cyclase beta	yes	
+PVX_093610	PBANKA_1227600	Plasmodium berghei ANKA	adenylyl cyclase beta, putative	yes	
+PVX_093610	PBILCG01_0803300	Plasmodium billcollinsi G01	adenylyl cyclase beta	yes	
+PVX_093610	PBLACG01_0802800	Plasmodium blacklocki G01	adenylyl cyclase beta	yes	
+PVX_093610	PCHAS_1228300	Plasmodium chabaudi chabaudi	adenylyl cyclase beta, putative	yes	
+PVX_093610	PCOAH_00002000	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVX_093610	PCYB_012440	Plasmodium cynomolgi strain B	guanyl cyclase	yes	
+PVX_093610	PF3D7_0802600	Plasmodium falciparum 3D7	adenylyl cyclase beta	yes	
+PVX_093610	PGABG01_0802700	Plasmodium gaboni strain G01	adenylyl cyclase beta, putative	yes	
+PVX_093610	PGAL8A_00078800	Plasmodium gallinaceum 8A	adenylyl cyclase beta, putative	yes	
+PVX_093610	PGSY75_0802600	Plasmodium gaboni strain SY75	adenylyl cyclase beta	yes	
+PVX_093610	PKA1H_010021100	Plasmodium knowlesi strain A1H1	adenylyl cyclase beta, putative	yes	
+PVX_093610	PKNH_0116300	Plasmodium knowlesi strain H	adenylyl cyclase beta, putative	yes	
+PVX_093610	PKNOH_S01024700	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Guanyl cyclase	yes	
+PVX_093610	PPRFG01_0803600	Plasmodium praefalciparum strain G01	adenylyl cyclase beta	yes	
+PVX_093610	PRCDC_0802200	Plasmodium reichenowi CDC	adenylyl cyclase beta, putative	yes	
+PVX_093610	PRELSG_0115300	Plasmodium relictum SGS1-like	adenylyl cyclase beta, putative	yes	
+PVX_093610	PRG01_0804400	Plasmodium reichenowi G01	adenylyl cyclase beta	yes	
+PVX_093610	PVBDA_1202980	Plasmodium vinckei brucechwatti DA	Adenylyl cyclase beta, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SID8]	yes	
+PVX_093610	PVLDE_1202970	Plasmodium vinckei lentum DE	Adenylyl cyclase beta, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SHZ8]	yes	
+PVX_093610	PVL_010014200	Plasmodium vivax-like Pvl01	adenylyl cyclase beta, putative	yes	
+PVX_093610	PVP01_0117600	Plasmodium vivax P01	adenylyl cyclase beta, putative	yes	
+PVX_093610	PVPCR_1202880	Plasmodium vinckei petteri CR 2020	Adenylyl cyclase beta, putative [Source:UniProtKB/TrEMBL;Acc:W7AM48]	yes	
+PVX_093610	PVSEL_1202550	Plasmodium vinckei Cameroon EL	Adenylyl cyclase beta, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7T9Q8]	yes	
+PVX_093610	PVVCY_1202860	Plasmodium vinckei vinckei CY	Adenylyl cyclase beta, putative [Source:UniProtKB/TrEMBL;Acc:A0A449BWN6]	yes	
+PVX_093610	PY06195	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVX_093610	PY07180	Plasmodium yoelii yoelii 17XNL	Dictyostelium discoideum SgcA	yes	
+PVX_093610	PY17X_1231100	Plasmodium yoelii yoelii 17X	adenylyl cyclase beta, putative	yes	
+PVX_093610	PYYM_1230300	Plasmodium yoelii yoelii YM	adenylyl cyclase beta, putative	yes	
+PVX_093610	PcyM_0119900	Plasmodium cynomolgi strain M	adenylyl cyclase beta, putative	yes	
+PVX_093610	Pf7G8_080007900	Plasmodium falciparum 7G8	adenylyl cyclase beta	yes	
+PVX_093610	PfGB4_080007400	Plasmodium falciparum GB4	adenylyl cyclase beta	yes	
+PVX_093610	PfHB3_080007700	Plasmodium falciparum HB3	adenylyl cyclase beta	yes	
+PVX_093610	PfIT_080007900	Plasmodium falciparum IT	adenylyl cyclase beta	yes	
+PVX_093610	PfKE01_080008400	Plasmodium falciparum KE01	adenylyl cyclase beta	yes	
+PVX_093610	PfKH02_080008200	Plasmodium falciparum KH02	adenylyl cyclase beta	yes	
+PVX_093610	PfSN01_080006900	Plasmodium falciparum SN01	adenylyl cyclase beta	yes	
+PVX_093610	PfTG01_080008200	Plasmodium falciparum TG01	adenylyl cyclase beta	yes	
+PVX_093610	PmUG01_01029300	Plasmodium malariae UG01	adenylyl cyclase beta, putative	yes	
+PVX_093610	PocGH01_01025200	Plasmodium ovale curtisi GH01	adenylyl cyclase beta, putative	yes	
+PVX_093610	YYE_01616	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVX_093610	YYG_02299	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0004383	null	guanylate cyclase activity	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0004383	PVX_093610.1	
+Biological Process	GO:0009190	null	cyclic nucleotide biosynthetic process	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR001054	BGO:0009190	PVX_093610.1	
+Biological Process	GO:0009190	null	cyclic nucleotide biosynthetic process	gouniprot	IEA	null	null	BGO:0009190	PVX_093610.1	
+Biological Process	GO:0035556	null	intracellular signal transduction	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR001054	BGO:0035556	PVX_093610.1	
+Biological Process	GO:0035556	null	intracellular signal transduction	GeneDB_Pvivax	IEA	GO_REF:0000001	null	BGO:0035556	PVX_093610.1	
+Biological Process	GO:0035556	null	intracellular signal transduction	gouniprot	IEA	null	null	BGO:0035556	PVX_093610.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr01	plasmodb	678286 - 684855 (-)	pvivSal1	678286	684855	-	673286	689855	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_093610.1	9.47	213252	no	no	plasmodb	pvivSal1	1896	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_093610.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_093610.1;genepage=1	PVX_093610.1-p1%3A1..1896	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_093610.1-p1%3A1..1896&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_093610.1-p1%3A1..1896&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

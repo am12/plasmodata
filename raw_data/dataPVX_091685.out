@@ -1,0 +1,95 @@
+Gene ID: PVX_091685
+Chromosome: 9
+Product Description: tyrosine kinase-like protein, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GXJ2	alternate ID	
+A0A1G4HD20	alternate ID	
+A0A564ZUR1	alternate ID	
+A5K4M5	alternate ID	
+EDL45603.1	alternate ID	
+UPI000153EC76	alternate ID	
+XP_001615330.1	alternate ID	
+Pv091685	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_091685	AK88_02681	Plasmodium fragile strain nilgiri	TKL protein kinase	yes	
+PVX_091685	HEP_00212600	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	tyrosine kinase-like protein, putative	yes	
+PVX_091685	PADL01_1119400	Plasmodium adleri G01	tyrosine kinase-like protein	yes	
+PVX_091685	PBANKA_0927000	Plasmodium berghei ANKA	tyrosine kinase-like protein, putative	yes	
+PVX_091685	PBILCG01_1118400	Plasmodium billcollinsi G01	tyrosine kinase-like protein, putative	yes	
+PVX_091685	PBLACG01_1119000	Plasmodium blacklocki G01	tyrosine kinase-like protein	yes	
+PVX_091685	PCHAS_0917300	Plasmodium chabaudi chabaudi	tyrosine kinase-like protein, putative	yes	
+PVX_091685	PCOAH_00025290	Plasmodium coatneyi Hackeri	Protein kinase	yes	
+PVX_091685	PCYB_092730	Plasmodium cynomolgi strain B	protein kinase domain containing protein	yes	
+PVX_091685	PF3D7_1121300	Plasmodium falciparum 3D7	tyrosine kinase-like protein	yes	
+PVX_091685	PGABG01_1119100	Plasmodium gaboni strain G01	tyrosine kinase-like protein	yes	
+PVX_091685	PGAL8A_00347900	Plasmodium gallinaceum 8A	tyrosine kinase-like protein, putative	yes	
+PVX_091685	PGSY75_1121300	Plasmodium gaboni strain SY75	tyrosine kinase-like protein	yes	
+PVX_091685	PKA1H_090024800	Plasmodium knowlesi strain A1H1	tyrosine kinase-like protein, putative	yes	
+PVX_091685	PKNH_0919000	Plasmodium knowlesi strain H	tyrosine kinase-like protein, putative	yes	
+PVX_091685	PKNOH_S120137800	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Protein kinase	yes	
+PVX_091685	PPRFG01_1122000	Plasmodium praefalciparum strain G01	tyrosine kinase-like protein	yes	
+PVX_091685	PRCDC_1119700	Plasmodium reichenowi CDC	tyrosine kinase-like protein, putative	yes	
+PVX_091685	PRELSG_0918100	Plasmodium relictum SGS1-like	tyrosine kinase-like protein, putative	yes	
+PVX_091685	PRG01_1118500	Plasmodium reichenowi G01	tyrosine kinase-like protein	yes	
+PVX_091685	PVBDA_0901910	Plasmodium vinckei brucechwatti DA	Protein kinase domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S6D3]	yes	
+PVX_091685	PVLDE_0901890	Plasmodium vinckei lentum DE	Protein kinase domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S3X0]	yes	
+PVX_091685	PVL_090016300	Plasmodium vivax-like Pvl01	tyrosine kinase-like protein, putative	yes	
+PVX_091685	PVP01_0921900	Plasmodium vivax P01	tyrosine kinase-like protein, putative	yes	
+PVX_091685	PVPCR_0901890	Plasmodium vinckei petteri CR 2020	Protein kinase domain-containing protein [Source:UniProtKB/TrEMBL;Acc:W7B4K4]	yes	
+PVX_091685	PVSEL_0901880	Plasmodium vinckei Cameroon EL	Protein kinase domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SY83]	yes	
+PVX_091685	PVVCY_0901930	Plasmodium vinckei vinckei CY	Protein kinase domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A449BSL1]	yes	
+PVX_091685	PY07273	Plasmodium yoelii yoelii 17XNL	receptor protein kinase, putative, 5' partial-related	yes	
+PVX_091685	PY17X_0929000	Plasmodium yoelii yoelii 17X	tyrosine kinase-like protein, putative	yes	
+PVX_091685	PYYM_0928400	Plasmodium yoelii yoelii YM	tyrosine kinase-like protein, putative	yes	
+PVX_091685	PcyM_0924300	Plasmodium cynomolgi strain M	tyrosine kinase-like protein, putative	yes	
+PVX_091685	Pf7G8_110024900	Plasmodium falciparum 7G8	tyrosine kinase-like protein	yes	
+PVX_091685	PfCD01_110026700	Plasmodium falciparum CD01	tyrosine kinase-like protein	yes	
+PVX_091685	PfDd2_110024300	Plasmodium falciparum Dd2	tyrosine kinase-like protein	yes	
+PVX_091685	PfGA01_110025500	Plasmodium falciparum GA01	tyrosine kinase-like protein	yes	
+PVX_091685	PfGB4_110027800	Plasmodium falciparum GB4	tyrosine kinase-like protein	yes	
+PVX_091685	PfGN01_110025800	Plasmodium falciparum GN01	tyrosine kinase-like protein	yes	
+PVX_091685	PfHB3_110024500	Plasmodium falciparum HB3	tyrosine kinase-like protein	yes	
+PVX_091685	PfIT_110025600	Plasmodium falciparum IT	tyrosine kinase-like protein	yes	
+PVX_091685	PfKE01_110025800	Plasmodium falciparum KE01	tyrosine kinase-like protein	yes	
+PVX_091685	PfKH01_110025400	Plasmodium falciparum KH01	tyrosine kinase-like protein	yes	
+PVX_091685	PfKH02_110026300	Plasmodium falciparum KH02	tyrosine kinase-like protein	yes	
+PVX_091685	PfML01_110026100	Plasmodium falciparum ML01	tyrosine kinase-like protein	yes	
+PVX_091685	PfSD01_110023900	Plasmodium falciparum SD01	tyrosine kinase-like protein	yes	
+PVX_091685	PfSN01_110024400	Plasmodium falciparum SN01	tyrosine kinase-like protein	yes	
+PVX_091685	PfTG01_110025700	Plasmodium falciparum TG01	tyrosine kinase-like protein	yes	
+PVX_091685	PmUG01_09030500	Plasmodium malariae UG01	tyrosine kinase-like protein, putative	yes	
+PVX_091685	PocGH01_09027500	Plasmodium ovale curtisi GH01	tyrosine kinase-like protein, putative	yes	
+PVX_091685	YYE_02881	Plasmodium vinckei vinckei strain vinckei	TKL protein kinase	yes	
+PVX_091685	YYG_01821	Plasmodium vinckei petteri strain CR	TKL protein kinase	yes	
+PVX_091685	HEP_00230700	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	hypothetical protein	no	
+PVX_091685	PY06791	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVX_091685	HEP_00493400	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	hypothetical protein	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0004672	null	protein kinase activity	gouniprot	IEA	null	null	MGO:0004672	PVX_091685.1	
+Molecular Function	GO:0004674	null	protein serine/threonine kinase activity	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0004674	PVX_091685.1	
+Molecular Function	GO:0004713	null	protein tyrosine kinase activity	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0004713	PVX_091685.1	
+Molecular Function	GO:0005524	null	ATP binding	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0005524	PVX_091685.1	
+Molecular Function	GO:0005524	null	ATP binding	gouniprot	IEA	null	null	MGO:0005524	PVX_091685.1	
+Biological Process	GO:0006468	null	protein phosphorylation	GeneDB_Pvivax	IEA	GO_REF:0000001	null	BGO:0006468	PVX_091685.1	
+Biological Process	GO:0006468	null	protein phosphorylation	interpro2go	IEA	null	null	BGO:0006468	PVX_091685.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr09	plasmodb	716664 - 721501 (-)	pvivSal1	716664	721501	-	711664	726501	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_091685.1	8.49	174893	no	no	plasmodb	pvivSal1	1562	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_091685.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_091685.1;genepage=1	PVX_091685.1-p1%3A1..1562	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_091685.1-p1%3A1..1562&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_091685.1-p1%3A1..1562&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

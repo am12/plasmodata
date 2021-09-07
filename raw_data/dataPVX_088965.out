@@ -1,0 +1,148 @@
+Gene ID: PVX_088965
+Chromosome: 5
+Product Description: SET domain protein, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GTB1	alternate ID	
+A0A1G4H8K2	alternate ID	
+A0A564ZSN7	alternate ID	
+A5K5H3	alternate ID	
+EDL45158.1	alternate ID	
+UPI000153E63A	alternate ID	
+XP_001614885.1	alternate ID	
+Pv088965	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_088965	AK88_00734	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_088965	C922_02688	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_088965	PADL01_0827000	Plasmodium adleri G01	SET domain protein, putative	yes	
+PVX_088965	PBANKA_0702900	Plasmodium berghei ANKA	SET domain protein, putative	yes	
+PVX_088965	PBILCG01_0832200	Plasmodium billcollinsi G01	SET domain protein, putative	yes	
+PVX_088965	PBLACG01_0827600	Plasmodium blacklocki G01	SET domain protein, putative	yes	
+PVX_088965	PCHAS_0935100	Plasmodium chabaudi chabaudi	SET domain protein, putative	yes	
+PVX_088965	PCOAH_00010210	Plasmodium coatneyi Hackeri	SET domain	yes	
+PVX_088965	PCYB_051350	Plasmodium cynomolgi strain B	SET domain	yes	
+PVX_088965	PF3D7_0827800	Plasmodium falciparum 3D7	SET domain protein, putative	yes	
+PVX_088965	PGABG01_0827800	Plasmodium gaboni strain G01	SET domain protein, putative	yes	
+PVX_088965	PGAL8A_00121000	Plasmodium gallinaceum 8A	SET domain protein, putative	yes	
+PVX_088965	PGSY75_0827800	Plasmodium gaboni strain SY75	putative SET domain protein	yes	
+PVX_088965	PKA1H_130026800	Plasmodium knowlesi strain A1H1	SET domain protein, putative	yes	
+PVX_088965	PKNH_1321900	Plasmodium knowlesi strain H	SET domain protein, putative	yes	
+PVX_088965	PKNOH_S04343000	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative SET domain protein	yes	
+PVX_088965	PPRFG01_0829300	Plasmodium praefalciparum strain G01	SET domain protein, putative	yes	
+PVX_088965	PRCDC_0827100	Plasmodium reichenowi CDC	SET domain protein, putative	yes	
+PVX_088965	PRELSG_1310100	Plasmodium relictum SGS1-like	SET domain protein, putative	yes	
+PVX_088965	PRG01_0830700	Plasmodium reichenowi G01	SET domain protein, putative	yes	
+PVX_088965	PVBDA_0700350	Plasmodium vinckei brucechwatti DA	SET domain protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7S144]	yes	
+PVX_088965	PVLDE_0701420	Plasmodium vinckei lentum DE	SET domain protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7S1Q5]	yes	
+PVX_088965	PVP01_0506600	Plasmodium vivax P01	SET domain protein, putative	yes	
+PVX_088965	PVPCR_0700380	Plasmodium vinckei petteri CR 2020	SET domain protein, putative [Source:UniProtKB/TrEMBL;Acc:W7AYZ9]	yes	
+PVX_088965	PVSEL_0700370	Plasmodium vinckei Cameroon EL	SET domain protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SSF5]	yes	
+PVX_088965	PVVCY_0700280	Plasmodium vinckei vinckei CY	SET domain protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A081IB76]	yes	
+PVX_088965	PY00637	Plasmodium yoelii yoelii 17XNL	ERYTHROCYTE MEMBRANE PROTEIN PFEMP3	yes	
+PVX_088965	PY17X_0703200	Plasmodium yoelii yoelii 17X	SET domain protein, putative	yes	
+PVX_088965	PYYM_0703100	Plasmodium yoelii yoelii YM	SET domain protein, putative	yes	
+PVX_088965	PcyM_0505400	Plasmodium cynomolgi strain M	SET domain protein, putative	yes	
+PVX_088965	Pf7G8_080032800	Plasmodium falciparum 7G8	SET domain protein, putative	yes	
+PVX_088965	PfCD01_080033300	Plasmodium falciparum CD01	SET domain protein, putative	yes	
+PVX_088965	PfDd2_080032900	Plasmodium falciparum Dd2	SET domain protein, putative	yes	
+PVX_088965	PfGA01_080031400	Plasmodium falciparum GA01	SET domain protein, putative	yes	
+PVX_088965	PfGB4_080032500	Plasmodium falciparum GB4	SET domain protein, putative	yes	
+PVX_088965	PfGN01_080033400	Plasmodium falciparum GN01	SET domain protein, putative	yes	
+PVX_088965	PfHB3_080033200	Plasmodium falciparum HB3	SET domain protein, putative	yes	
+PVX_088965	PfIT_080032700	Plasmodium falciparum IT	SET domain protein, putative	yes	
+PVX_088965	PfKE01_080033300	Plasmodium falciparum KE01	SET domain protein, putative	yes	
+PVX_088965	PfKH01_080032800	Plasmodium falciparum KH01	SET domain protein, putative	yes	
+PVX_088965	PfKH02_080033300	Plasmodium falciparum KH02	SET domain protein, putative	yes	
+PVX_088965	PfSD01_080033100	Plasmodium falciparum SD01	SET domain protein, putative	yes	
+PVX_088965	PfSN01_080032300	Plasmodium falciparum SN01	SET domain protein, putative	yes	
+PVX_088965	PfTG01_080033600	Plasmodium falciparum TG01	SET domain protein, putative	yes	
+PVX_088965	PmUG01_05018200	Plasmodium malariae UG01	SET domain protein, putative	yes	
+PVX_088965	PocGH01_05013100	Plasmodium ovale curtisi GH01	SET domain protein, putative	yes	
+PVX_088965	YYE_04380	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVX_088965	YYG_04259	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+PVX_088965	AK88_03943	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVX_088965	C922_04087	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_088965	HEP_00152100	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	conserved protein, unknown function	no	
+PVX_088965	PADL01_1110600	Plasmodium adleri G01	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PBANKA_0935200	Plasmodium berghei ANKA	nucleic acid binding protein, putative	no	
+PVX_088965	PBILCG01_1109600	Plasmodium billcollinsi G01	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PBLACG01_1109900	Plasmodium blacklocki G01	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PCHAS_0909100	Plasmodium chabaudi chabaudi	nucleic acid binding protein, putative	no	
+PVX_088965	PCOAH_00024400	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVX_088965	PCYB_091870	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVX_088965	PF3D7_1112400	Plasmodium falciparum 3D7	nucleic acid binding protein, putative	no	
+PVX_088965	PGABG01_1109500	Plasmodium gaboni strain G01	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PGAL8A_00339300	Plasmodium gallinaceum 8A	nucleic acid binding protein, putative	no	
+PVX_088965	PGSY75_1112400	Plasmodium gaboni strain SY75	hypothetical protein	no	
+PVX_088965	PKA1H_090015600	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PKNH_0910100	Plasmodium knowlesi strain H	nucleic acid binding protein, putative	no	
+PVX_088965	PKNOH_S120128500	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVX_088965	PPRFG01_1113100	Plasmodium praefalciparum strain G01	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PRCDC_1110900	Plasmodium reichenowi CDC	nucleic acid binding protein, putative	no	
+PVX_088965	PRELSG_0909400	Plasmodium relictum SGS1-like	nucleic acid binding protein, putative	no	
+PVX_088965	PRG01_1109600	Plasmodium reichenowi G01	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PVBDA_0901090	Plasmodium vinckei brucechwatti DA	unspecified product	no	
+PVX_088965	PVLDE_0901080	Plasmodium vinckei lentum DE	unspecified product	no	
+PVX_088965	PVL_000136400	Plasmodium vivax-like Pvl01	SET domain protein, putative	no	
+PVX_088965	PVL_030011400	Plasmodium vivax-like Pvl01	hypothetical protein	no	
+PVX_088965	PVL_090010500	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PVP01_0913200	Plasmodium vivax P01	nucleic acid binding protein, putative	no	
+PVX_088965	PVPCR_0901060	Plasmodium vinckei petteri CR 2020	unspecified product	no	
+PVX_088965	PVSEL_0901050	Plasmodium vinckei Cameroon EL	unspecified product	no	
+PVX_088965	PVVCY_0901100	Plasmodium vinckei vinckei CY	unspecified product	no	
+PVX_088965	PVX_091270	Plasmodium vivax Sal-1	hypothetical protein, conserved	no	
+PVX_088965	PY04594	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVX_088965	PY17X_0937200	Plasmodium yoelii yoelii 17X	nucleic acid binding protein, putative	no	
+PVX_088965	PYYM_0936600	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PcyM_0914600	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	no	
+PVX_088965	Pf7G8_110016100	Plasmodium falciparum 7G8	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PfCD01_110017900	Plasmodium falciparum CD01	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PfDd2_110015500	Plasmodium falciparum Dd2	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PfGA01_110016700	Plasmodium falciparum GA01	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PfGB4_110019000	Plasmodium falciparum GB4	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PfGN01_110017000	Plasmodium falciparum GN01	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PfHB3_110015600	Plasmodium falciparum HB3	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PfIT_110016800	Plasmodium falciparum IT	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PfKE01_110017000	Plasmodium falciparum KE01	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PfKH01_110016600	Plasmodium falciparum KH01	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PfKH02_110017500	Plasmodium falciparum KH02	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PfML01_110017300	Plasmodium falciparum ML01	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PfSD01_110015100	Plasmodium falciparum SD01	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PfSN01_110015600	Plasmodium falciparum SN01	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PfTG01_110016900	Plasmodium falciparum TG01	conserved Plasmodium protein, unknown function	no	
+PVX_088965	PmUG01_09021900	Plasmodium malariae UG01	nucleic acid binding protein, putative	no	
+PVX_088965	PocGH01_09018700	Plasmodium ovale curtisi GH01	nucleic acid binding protein, putative	no	
+PVX_088965	YYE_02799	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVX_088965	YYG_01741	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0005515	null	protein binding	interpro2go	IEA	null	null	MGO:0005515	PVX_088965.1	
+Cellular Component	GO:0005634	null	nucleus	GeneDB_Pvivax	IEA	GO_REF:0000001	null	CGO:0005634	PVX_088965.1	
+Cellular Component	GO:0005634	null	nucleus	gouniprot	IEA	null	null	CGO:0005634	PVX_088965.1	
+Biological Process	GO:0006325	null	chromatin organization	GeneDB_Pvivax	IEA	GO_REF:0000001	null	BGO:0006325	PVX_088965.1	
+Molecular Function	GO:0008270	null	zinc ion binding	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0008270	PVX_088965.1	
+Molecular Function	GO:0008270	null	zinc ion binding	gouniprot	IEA	null	null	MGO:0008270	PVX_088965.1	
+Molecular Function	GO:0018024	null	histone-lysine N-methyltransferase activity	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0018024	PVX_088965.1	
+Molecular Function	GO:0018024	null	histone-lysine N-methyltransferase activity	gouniprot	IEA	null	null	MGO:0018024	PVX_088965.1	
+Biological Process	GO:0034968	null	histone lysine methylation	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR007728	BGO:0034968	PVX_088965.1	
+Biological Process	GO:0034968	null	histone lysine methylation	interpro2go	IEA	null	null	BGO:0034968	PVX_088965.1	
+Molecular Function	GO:0042393	null	histone binding	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR003105	MGO:0042393	PVX_088965.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr05	plasmodb	188264 - 194365 (-)	pvivSal1	188264	194365	-	183264	199365	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_088965.1	8.79	224510	no	no	plasmodb	pvivSal1	2033	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_088965.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_088965.1;genepage=1	PVX_088965.1-p1%3A1..2033	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_088965.1-p1%3A1..2033&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_088965.1-p1%3A1..2033&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

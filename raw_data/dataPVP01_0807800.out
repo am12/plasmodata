@@ -1,0 +1,66 @@
+Gene ID: PVP01_0807800
+Chromosome: 8
+Product Description: PHD finger protein PHD1, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GW29	alternate ID	
+A0A1G4HBE8	alternate ID	
+A0A564ZTC6	alternate ID	
+UPI00090B6DFB	alternate ID	
+VUZ95207.1	alternate ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_0807800	AK88_02582	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVP01_0807800	C922_02195	Plasmodium inui San Antonio 1	DNA (cytosine-5-)-methyltransferase	yes	
+PVP01_0807800	PBLACG01_1006200	Plasmodium blacklocki G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PCOAH_00022710	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVP01_0807800	PCYB_081740	Plasmodium cynomolgi strain B	hypothetical protein	yes	
+PVP01_0807800	PF3D7_1008100	Plasmodium falciparum 3D7	PHD finger protein PHD1	yes	
+PVP01_0807800	PGABG01_1006100	Plasmodium gaboni strain G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PGSY75_1008100	Plasmodium gaboni strain SY75	hypothetical protein	yes	
+PVP01_0807800	PKA1H_080011900	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PKNH_0807100	Plasmodium knowlesi strain H	PHD finger protein PHD1, putative	yes	
+PVP01_0807800	PKNOH_S100034900	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	yes	
+PVP01_0807800	PPRFG01_1009300	Plasmodium praefalciparum strain G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PRCDC_1007500	Plasmodium reichenowi CDC	PHD finger protein PHD1, putative	yes	
+PVP01_0807800	PRG01_1006700	Plasmodium reichenowi G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PVL_080012500	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PVX_094600	Plasmodium vivax Sal-1	hypothetical protein, conserved	yes	
+PVP01_0807800	PcyM_0807700	Plasmodium cynomolgi strain M	zinc finger protein, putative	yes	
+PVP01_0807800	Pf7G8_100012600	Plasmodium falciparum 7G8	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PfCD01_100013400	Plasmodium falciparum CD01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PfDd2_100013500	Plasmodium falciparum Dd2	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PfGA01_100013500	Plasmodium falciparum GA01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PfGB4_100013200	Plasmodium falciparum GB4	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PfGN01_100013800	Plasmodium falciparum GN01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PfHB3_100012600	Plasmodium falciparum HB3	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PfIT_100012200	Plasmodium falciparum IT	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PfKE01_100013500	Plasmodium falciparum KE01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PfKH01_100012800	Plasmodium falciparum KH01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PfKH02_100013600	Plasmodium falciparum KH02	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PfML01_100012500	Plasmodium falciparum ML01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PfSD01_100012900	Plasmodium falciparum SD01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PfSN01_100013600	Plasmodium falciparum SN01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0807800	PfTG01_100013400	Plasmodium falciparum TG01	conserved Plasmodium protein, unknown function	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0035064	null	methylated histone binding	GeneDB	ISO	PMID:31728527	GeneDB:PF3D7_1008100	MGO:0035064	PVP01_0807800.1	
+Molecular Function	GO:0046872	null	metal ion binding	gouniprot	IEA	null	null	MGO:0046872	PVP01_0807800.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_08_v2	plasmodb	343738 - 357268 (+)	pvivP01	343738	357268	+	338738	362268	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_0807800.1	8.79	404591	no	no	plasmodb	pvivP01	3603	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_0807800.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_0807800.1;genepage=1	PVP01_0807800.1-p1%3A1..3603	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_0807800.1-p1%3A1..3603&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_0807800.1-p1%3A1..3603&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

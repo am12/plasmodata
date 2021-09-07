@@ -1,0 +1,91 @@
+Gene ID: PVX_119330
+Chromosome: 8
+Product Description: inner membrane complex protein 1e, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GX23	alternate ID	
+A0A1G4HC69	alternate ID	
+A0A564ZVF2	alternate ID	
+A5KB58	alternate ID	
+EDL43336.1	alternate ID	
+Q962K9	alternate ID	
+UPI000153F6F5	alternate ID	
+XP_001613063.1	alternate ID	
+Pv119330	previous ID	
+ALV2	synonym	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_119330	AK88_05147	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_119330	C922_03973	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_119330	PADL01_0302900	Plasmodium adleri G01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PBANKA_0402700	Plasmodium berghei ANKA	inner membrane complex protein 1e	yes	
+PVX_119330	PBILCG01_0303500	Plasmodium billcollinsi G01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PBLACG01_0304100	Plasmodium blacklocki G01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PCHAS_0403600	Plasmodium chabaudi chabaudi	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PCOAH_00019680	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVX_119330	PCYB_084510	Plasmodium cynomolgi strain B	hypothetical protein	yes	
+PVX_119330	PF3D7_0304100	Plasmodium falciparum 3D7	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PGABG01_0303400	Plasmodium gaboni strain G01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PGAL8A_00003400	Plasmodium gallinaceum 8A	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PGSY75_0304100	Plasmodium gaboni strain SY75	putative inner membrane complex protein 1e	yes	
+PVX_119330	PKA1H_080044300	Plasmodium knowlesi strain A1H1	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PKNH_0839000	Plasmodium knowlesi strain H	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PKNOH_S100067900	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Inner membrane complex protein 1e	yes	
+PVX_119330	PPRFG01_0305400	Plasmodium praefalciparum strain G01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PRCDC_0303400	Plasmodium reichenowi CDC	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PRELSG_0831600	Plasmodium relictum SGS1-like	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PRG01_0307500	Plasmodium reichenowi G01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PVBDA_0400460	Plasmodium vinckei brucechwatti DA	Inner membrane complex protein 1e, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7RXG3]	yes	
+PVX_119330	PVLDE_0400490	Plasmodium vinckei lentum DE	Inner membrane complex protein 1e, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7RVA5]	yes	
+PVX_119330	PVL_080031300	Plasmodium vivax-like Pvl01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PVP01_0836100	Plasmodium vivax P01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PVPCR_0400500	Plasmodium vinckei petteri CR 2020	Inner membrane complex protein 1e, putative [Source:UniProtKB/TrEMBL;Acc:W7AC08]	yes	
+PVX_119330	PVSEL_0400470	Plasmodium vinckei Cameroon EL	Inner membrane complex protein 1e, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SES3]	yes	
+PVX_119330	PVVCY_0400330	Plasmodium vinckei vinckei CY	Inner membrane complex protein 1e, putative [Source:UniProtKB/TrEMBL;Acc:A0A081IBS2]	yes	
+PVX_119330	PY03527	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVX_119330	PY17X_0404900	Plasmodium yoelii yoelii 17X	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PYYM_0405100	Plasmodium yoelii yoelii YM	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PcyM_0840200	Plasmodium cynomolgi strain M	inner membrane complex protein 1e, putative	yes	
+PVX_119330	Pf7G8_030009900	Plasmodium falciparum 7G8	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PfCD01_030009500	Plasmodium falciparum CD01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PfDd2_030009100	Plasmodium falciparum Dd2	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PfGA01_030010700	Plasmodium falciparum GA01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PfGB4_030009700	Plasmodium falciparum GB4	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PfGN01_030009700	Plasmodium falciparum GN01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PfHB3_030007900	Plasmodium falciparum HB3	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PfIT_030008900	Plasmodium falciparum IT	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PfKE01_030008500	Plasmodium falciparum KE01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PfKH01_030009000	Plasmodium falciparum KH01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PfKH02_030009600	Plasmodium falciparum KH02	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PfML01_030009100	Plasmodium falciparum ML01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PfSD01_030009200	Plasmodium falciparum SD01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PfSN01_030009800	Plasmodium falciparum SN01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PfTG01_030010500	Plasmodium falciparum TG01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PmUG01_08052100	Plasmodium malariae UG01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	PocGH01_08043800	Plasmodium ovale curtisi GH01	inner membrane complex protein 1e, putative	yes	
+PVX_119330	YYE_04165	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVX_119330	YYG_03879	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+PVX_119330	HEP_00507300	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	inner membrane complex protein 1e, putative	no	
+PVX_119330	HEP_00508900	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	inner membrane complex protein 1e, putative	no	
+PVX_119330	PVVCY_1003100	Plasmodium vinckei vinckei CY	Inner membrane complex protein 1l, putative [Source:UniProtKB/TrEMBL;Acc:A0A449BU70]	no	
+PVX_119330	YYE_02090	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr08	plasmodb	1553670 - 1555262 (-)	pvivSal1	1553670	1555262	-	1548670	1560262	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_119330.1	7.34	59934	no	no	plasmodb	pvivSal1	530	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_119330.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_119330.1;genepage=1	PVX_119330.1-p1%3A1..530	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_119330.1-p1%3A1..530&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_119330.1-p1%3A1..530&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

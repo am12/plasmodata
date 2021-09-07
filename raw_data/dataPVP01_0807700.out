@@ -1,0 +1,71 @@
+Gene ID: PVP01_0807700
+Chromosome: 8
+Product Description: histone deacetylase 2, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GW42	alternate ID	
+A0A1G4HBE9	alternate ID	
+A0A564ZVD6	alternate ID	
+UPI00090CBA9E	alternate ID	
+VUZ95206.1	alternate ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_0807700	AK88_02581	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVP01_0807700	C922_02196	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVP01_0807700	PADL01_1006500	Plasmodium adleri G01	histone deacetylase 2	yes	
+PVP01_0807700	PBLACG01_1006100	Plasmodium blacklocki G01	histone deacetylase 2	yes	
+PVP01_0807700	PCOAH_00022720	Plasmodium coatneyi Hackeri	Histone deacetylase	yes	
+PVP01_0807700	PCYB_081730	Plasmodium cynomolgi strain B	histone deacetylase	yes	
+PVP01_0807700	PF3D7_1008000	Plasmodium falciparum 3D7	histone deacetylase 2	yes	
+PVP01_0807700	PGAL8A_00384100	Plasmodium gallinaceum 8A	histone deacetylase 2, putative	yes	
+PVP01_0807700	PKA1H_080011800	Plasmodium knowlesi strain A1H1	histone deacetylase 2, putative	yes	
+PVP01_0807700	PKNH_0807000	Plasmodium knowlesi strain H	histone deacetylase 2, putative	yes	
+PVP01_0807700	PKNOH_S100034800	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Histone deacetylase 2	yes	
+PVP01_0807700	PPRFG01_1009200	Plasmodium praefalciparum strain G01	histone deacetylase 2	yes	
+PVP01_0807700	PRELSG_0805700	Plasmodium relictum SGS1-like	histone deacetylase 2, putative	yes	
+PVP01_0807700	PVL_080012400	Plasmodium vivax-like Pvl01	histone deacetylase 2, putative	yes	
+PVP01_0807700	PVX_094595	Plasmodium vivax Sal-1	histone deacetylase 2, putative	yes	
+PVP01_0807700	PY07179	Plasmodium yoelii yoelii 17XNL	Histone deacetylase family, putative	yes	
+PVP01_0807700	PY17X_1209400	Plasmodium yoelii yoelii 17X	histone deacetylase 2, putative	yes	
+PVP01_0807700	PYYM_1208800	Plasmodium yoelii yoelii YM	histone deacetylase 2, putative	yes	
+PVP01_0807700	PcyM_0807600	Plasmodium cynomolgi strain M	histone deacetylase 2, putative	yes	
+PVP01_0807700	Pf7G8_100012500	Plasmodium falciparum 7G8	histone deacetylase 2	yes	
+PVP01_0807700	PfCD01_100013300	Plasmodium falciparum CD01	histone deacetylase 2	yes	
+PVP01_0807700	PfDd2_100013400	Plasmodium falciparum Dd2	histone deacetylase 2	yes	
+PVP01_0807700	PfGA01_100013400	Plasmodium falciparum GA01	histone deacetylase 2	yes	
+PVP01_0807700	PfGB4_100013100	Plasmodium falciparum GB4	histone deacetylase 2	yes	
+PVP01_0807700	PfGN01_100013700	Plasmodium falciparum GN01	histone deacetylase 2	yes	
+PVP01_0807700	PfHB3_100012500	Plasmodium falciparum HB3	histone deacetylase 2	yes	
+PVP01_0807700	PfIT_100012100	Plasmodium falciparum IT	histone deacetylase 2	yes	
+PVP01_0807700	PfKE01_100013400	Plasmodium falciparum KE01	histone deacetylase 2	yes	
+PVP01_0807700	PfKH01_100012700	Plasmodium falciparum KH01	histone deacetylase 2	yes	
+PVP01_0807700	PfKH02_100013500	Plasmodium falciparum KH02	histone deacetylase 2	yes	
+PVP01_0807700	PfML01_100012400	Plasmodium falciparum ML01	histone deacetylase 2	yes	
+PVP01_0807700	PfSD01_100012800	Plasmodium falciparum SD01	histone deacetylase 2	yes	
+PVP01_0807700	PfSN01_100013500	Plasmodium falciparum SN01	histone deacetylase 2	yes	
+PVP01_0807700	PfTG01_100013300	Plasmodium falciparum TG01	histone deacetylase 2	yes	
+PVP01_0807700	PmUG01_08023800	Plasmodium malariae UG01	histone deacetylase 2, putative	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0016301	null	kinase activity	GeneDB	IEA	GO_REF:0000002	InterPro:IPR005522	MGO:0016301	PVP01_0807700.1	
+Molecular Function	GO:0016301	null	kinase activity	gouniprot	IEA	null	null	MGO:0016301	PVP01_0807700.1	
+Biological Process	GO:0032958	null	inositol phosphate biosynthetic process	GeneDB	IEA	GO_REF:0000002	InterPro:IPR005522	BGO:0032958	PVP01_0807700.1	
+Biological Process	GO:0032958	null	inositol phosphate biosynthetic process	gouniprot	IEA	null	null	BGO:0032958	PVP01_0807700.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_08_v2	plasmodb	332177 - 342888 (+)	pvivP01	332177	342888	+	327177	347888	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_0807700.1	9.7	250061	no	no	plasmodb	pvivP01	2242	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_0807700.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_0807700.1;genepage=1	PVP01_0807700.1-p1%3A1..2242	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_0807700.1-p1%3A1..2242&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_0807700.1-p1%3A1..2242&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

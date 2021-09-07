@@ -1,0 +1,84 @@
+Gene ID: PVX_080380
+Chromosome: 10
+Product Description: FACT complex subunit SPT16, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4HEE1	alternate ID	
+A0A564ZW06	alternate ID	
+A5K9I5	alternate ID	
+EDL44057.1	alternate ID	
+UPI000153E7B5	alternate ID	
+XP_001613784.1	alternate ID	
+Pv080380	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_080380	AK88_03215	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_080380	C922_01315	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_080380	PADL01_0516400	Plasmodium adleri G01	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PBANKA_1232200	Plasmodium berghei ANKA	FACT complex subunit SPT16	yes	
+PVX_080380	PBILCG01_0516100	Plasmodium billcollinsi G01	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PBLACG01_0517100	Plasmodium blacklocki G01	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PCHAS_1232800	Plasmodium chabaudi chabaudi	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PCOAH_00029890	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVX_080380	PCYB_102440	Plasmodium cynomolgi strain B	transcriptional regulator	yes	
+PVX_080380	PF3D7_0517400	Plasmodium falciparum 3D7	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PGABG01_0516400	Plasmodium gaboni strain G01	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PGAL8A_00038900	Plasmodium gallinaceum 8A	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PGSY75_0517400	Plasmodium gaboni strain SY75	putative FACT complex subunit SPT16	yes	
+PVX_080380	PKA1H_100021000	Plasmodium knowlesi strain A1H1	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PKNH_1015900	Plasmodium knowlesi strain H	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PKNOH_S07453900	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative FACT complex subunit SPT16	yes	
+PVX_080380	PPRFG01_0518800	Plasmodium praefalciparum strain G01	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PRCDC_0516500	Plasmodium reichenowi CDC	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PRELSG_1014500	Plasmodium relictum SGS1-like	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PRG01_0516700	Plasmodium reichenowi G01	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PVBDA_1203440	Plasmodium vinckei brucechwatti DA	FACT complex subunit [Source:UniProtKB/TrEMBL;Acc:A0A6V7SKX9]	yes	
+PVX_080380	PVLDE_1203440	Plasmodium vinckei lentum DE	FACT complex subunit [Source:UniProtKB/TrEMBL;Acc:A0A6V7SLG5]	yes	
+PVX_080380	PVL_000161400	Plasmodium vivax-like Pvl01	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PVP01_1016600	Plasmodium vivax P01	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PVPCR_1203330	Plasmodium vinckei petteri CR 2020	FACT complex subunit [Source:UniProtKB/TrEMBL;Acc:W7AM15]	yes	
+PVX_080380	PVSEL_1203000	Plasmodium vinckei Cameroon EL	FACT complex subunit [Source:UniProtKB/TrEMBL;Acc:A0A6V7T9Z3]	yes	
+PVX_080380	PVVCY_1203310	Plasmodium vinckei vinckei CY	FACT complex subunit [Source:UniProtKB/TrEMBL;Acc:A0A449BX30]	yes	
+PVX_080380	PY05380	Plasmodium yoelii yoelii 17XNL	DUF140-related	yes	
+PVX_080380	PY17X_1235600	Plasmodium yoelii yoelii 17X	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PYYM_1234800	Plasmodium yoelii yoelii YM	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PcyM_1014900	Plasmodium cynomolgi strain M	FACT complex subunit SPT16, putative	yes	
+PVX_080380	Pf7G8_050022600	Plasmodium falciparum 7G8	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PfCD01_050023700	Plasmodium falciparum CD01	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PfGA01_050021800	Plasmodium falciparum GA01	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PfHB3_050022400	Plasmodium falciparum HB3	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PfIT_050022600	Plasmodium falciparum IT	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PfKH02_050022900	Plasmodium falciparum KH02	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PfML01_050022300	Plasmodium falciparum ML01	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PfSD01_050022300	Plasmodium falciparum SD01	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PfSN01_050022500	Plasmodium falciparum SN01	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PmUG01_10027300	Plasmodium malariae UG01	FACT complex subunit SPT16, putative	yes	
+PVX_080380	PocGH01_10024200	Plasmodium ovale curtisi GH01	FACT complex subunit SPT16, putative	yes	
+PVX_080380	YYE_01662	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVX_080380	YYG_02254	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+PVX_080380	HEP_00404300	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	FACT complex subunit SPT16, putative	no	
+PVX_080380	HEP_00493500	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	hypothetical protein	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Biological Process	GO:0006260	null	DNA replication	gouniprot	IEA	null	null	BGO:0006260	PVX_080380.1	
+Biological Process	GO:0006281	null	DNA repair	gouniprot	IEA	null	null	BGO:0006281	PVX_080380.1	
+Biological Process	GO:0006351	null	transcription, DNA-templated	GeneDB_Pvivax	IEA	GO_REF:0000001	null	BGO:0006351	PVX_080380.1	
+Cellular Component	GO:0035101	null	FACT complex	gouniprot	IEA	null	null	CGO:0035101	PVX_080380.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr10	plasmodb	618089 - 621496 (-)	pvivSal1	618089	621496	-	613089	626496	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_080380.1	4.92	121815	no	no	plasmodb	pvivSal1	1056	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_080380.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_080380.1;genepage=1	PVX_080380.1-p1%3A1..1056	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_080380.1-p1%3A1..1056&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_080380.1-p1%3A1..1056&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

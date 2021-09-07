@@ -1,0 +1,387 @@
+Gene ID: PVX_117575
+Chromosome: 12
+Product Description: hypothetical protein, conserved
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4H269	alternate ID	
+A0A1G4HHD7	alternate ID	
+A5K3H8	alternate ID	
+EDL46082.1	alternate ID	
+UPI000153DF3D	alternate ID	
+XP_001615809.1	alternate ID	
+Pv117575	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_117575	PKA1H_120028800	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	yes	
+PVX_117575	PKNH_1224000	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	yes	
+PVX_117575	PKNOH_S110094900	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	yes	
+PVX_117575	PRELSG_1223100	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	yes	
+PVX_117575	PVL_120033800	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	yes	
+PVX_117575	PVP01_1249100	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	yes	
+PVX_117575	AK88_00405	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVX_117575	AK88_01298	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVX_117575	AK88_01348	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVX_117575	AK88_01445	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVX_117575	AK88_01485	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVX_117575	AK88_01487	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVX_117575	AK88_02000	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVX_117575	AK88_02018	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVX_117575	AK88_02717	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVX_117575	AK88_03773	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVX_117575	AK88_04022	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVX_117575	AK88_04115	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVX_117575	AK88_04883	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVX_117575	C922_00358	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_117575	C922_00915	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_117575	C922_01351	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_117575	C922_02830	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_117575	C922_02990	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_117575	C922_03081	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_117575	C922_03112	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_117575	C922_03353	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_117575	C922_03419	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_117575	C922_03560	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_117575	C922_04134	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_117575	C922_04781	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_117575	C922_05241	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_117575	C922_05344	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_117575	C922_05801	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_117575	HEP_00015200	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	transcription elongation factor SPT6, putative	no	
+PVX_117575	HEP_00213600	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	conserved protein, unknown function	no	
+PVX_117575	HEP_00225400	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	HEP_00289400	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	hypothetical protein	no	
+PVX_117575	HEP_00294200	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	Pentapeptide repeats (8 copies), putative	no	
+PVX_117575	HEP_00310500	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	hypothetical protein	no	
+PVX_117575	HEP_00338500	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	conserved protein, unknown function	no	
+PVX_117575	HEP_00466700	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	HEP_00467000	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	HEP_00530000	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	HEP_00536200	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PADL01_0035500	Plasmodium adleri G01	chromatin remodeling protein, putative	no	
+PVX_117575	PADL01_0403900	Plasmodium adleri G01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PADL01_1012200	Plasmodium adleri G01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PADL01_1434500	Plasmodium adleri G01	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PBANKA_0311700	Plasmodium berghei ANKA	rhoptry neck protein 6, putative	no	
+PVX_117575	PBANKA_0519100	Plasmodium berghei ANKA	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PBANKA_0519400	Plasmodium berghei ANKA	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PBANKA_0804500	Plasmodium berghei ANKA	rhoptry-associated membrane antigen, putative	no	
+PVX_117575	PBANKA_1002000	Plasmodium berghei ANKA	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PBANKA_1010300	Plasmodium berghei ANKA	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PBANKA_1345800	Plasmodium berghei ANKA	RNA-binding protein, putative	no	
+PVX_117575	PBANKA_1350500	Plasmodium berghei ANKA	parasitophorous vacuolar protein 3	no	
+PVX_117575	PBILCG01_0403200	Plasmodium billcollinsi G01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PBILCG01_1435100	Plasmodium billcollinsi G01	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PBLACG01_0401800	Plasmodium blacklocki G01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PBLACG01_1134800	Plasmodium blacklocki G01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PBLACG01_1433900	Plasmodium blacklocki G01	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PCHAS_0419500	Plasmodium chabaudi chabaudi	PIR protein	no	
+PVX_117575	PCHAS_0519000	Plasmodium chabaudi chabaudi	conserved Plasmodium membrane protein, unknown function	no	
+PVX_117575	PCHAS_0519300	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PCHAS_0519500	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PCHAS_0519600	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PCHAS_0608100	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PCHAS_1002900	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PCHAS_1011200	Plasmodium chabaudi chabaudi	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PCHAS_1119100	Plasmodium chabaudi chabaudi	merozoite surface protein 10, putative	no	
+PVX_117575	PCHAS_1454800	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PCOAH_00006070	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVX_117575	PCOAH_00007910	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVX_117575	PCOAH_00008410	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVX_117575	PCOAH_00009410	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVX_117575	PCOAH_00013530	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVX_117575	PCOAH_00013770	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVX_117575	PCOAH_00015380	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVX_117575	PCOAH_00021230	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVX_117575	PCOAH_00025810	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVX_117575	PCOAH_00027370	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVX_117575	PCOAH_00031420	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVX_117575	PCOAH_00036140	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVX_117575	PCOAH_00043620	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVX_117575	PCYB_011430	Plasmodium cynomolgi strain B	rhoptry associated membrane antigen	no	
+PVX_117575	PCYB_031200	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVX_117575	PCYB_062940	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVX_117575	PCYB_091500	Plasmodium cynomolgi strain B	IWS1-like protein	no	
+PVX_117575	PCYB_093090	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVX_117575	PCYB_094570	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVX_117575	PCYB_103830	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVX_117575	PCYB_113710	Plasmodium cynomolgi strain B	merozoite surface protein 10 putative	no	
+PVX_117575	PCYB_123860	Plasmodium cynomolgi strain B	Micro-fibrillar-associated protein 1 C-terminus domain containing protein	no	
+PVX_117575	PCYB_132440	Plasmodium cynomolgi strain B	P-loop containing nucleoside triphospahte hydrolase	no	
+PVX_117575	PF3D7_1434500	Plasmodium falciparum 3D7	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PGABG01_0402500	Plasmodium gaboni strain G01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PGABG01_1433200	Plasmodium gaboni strain G01	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PGAL8A_00047400	Plasmodium gallinaceum 8A	rhoptry-associated membrane antigen, putative	no	
+PVX_117575	PGAL8A_00306000	Plasmodium gallinaceum 8A	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PGAL8A_00342400	Plasmodium gallinaceum 8A	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PGAL8A_00473500	Plasmodium gallinaceum 8A	merozoite surface protein 3	no	
+PVX_117575	PGAL8A_00473600	Plasmodium gallinaceum 8A	merozoite surface protein 3	no	
+PVX_117575	PGAL8A_00473700	Plasmodium gallinaceum 8A	merozoite surface protein 3	no	
+PVX_117575	PGAL8A_00494700	Plasmodium gallinaceum 8A	MSP3-like protein	no	
+PVX_117575	PGAL8A_00494800	Plasmodium gallinaceum 8A	MSP3-like protein	no	
+PVX_117575	PGAL8A_00494900	Plasmodium gallinaceum 8A	MSP3-like protein	no	
+PVX_117575	PGAL8A_00495000	Plasmodium gallinaceum 8A	MSP3-like protein	no	
+PVX_117575	PGAL8A_00495100	Plasmodium gallinaceum 8A	MSP3-like protein	no	
+PVX_117575	PGSY75_0404300	Plasmodium gaboni strain SY75	hypothetical protein	no	
+PVX_117575	PGSY75_1036500	Plasmodium gaboni strain SY75	putative protein, unknown function	no	
+PVX_117575	PGSY75_1330800	Plasmodium gaboni strain SY75	hypothetical protein	no	
+PVX_117575	PGSY75_1434500	Plasmodium gaboni strain SY75	putative dynein-related AAA-type ATPase	no	
+PVX_117575	PKA1H_010010600	Plasmodium knowlesi strain A1H1	rhoptry-associated membrane antigen, putative	no	
+PVX_117575	PKA1H_030007300	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PKA1H_040010000	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PKA1H_040020800	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PKA1H_040026300	Plasmodium knowlesi strain A1H1	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PKA1H_060026000	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PKA1H_080018400	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PKA1H_090043700	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PKA1H_130012400	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PKA1H_130032900	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PKNH_0105800	Plasmodium knowlesi strain H	rhoptry-associated membrane antigen, putative	no	
+PVX_117575	PKNH_0302300	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PKNH_0405300	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PKNH_0415900	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PKNH_0421100	Plasmodium knowlesi strain H	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PKNH_0620300	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PKNH_0813600	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PKNH_0938000	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PKNH_1206400	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PKNH_1307700	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PKNOH_S01014100	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Rhoptry-associated membrane antigen	no	
+PVX_117575	PKNOH_S02294600	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVX_117575	PKNOH_S03335600	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVX_117575	PKNOH_S08479200	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVX_117575	PKNOH_S08487800	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative p-loop containing nucleoside triphospahte hydrolase	no	
+PVX_117575	PKNOH_S08493200	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Transmission-blocking target antigen s230	no	
+PVX_117575	PKNOH_S08503800	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVX_117575	PKNOH_S100041600	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVX_117575	PKNOH_S110076900	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVX_117575	PKNOH_S120156700	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVX_117575	PPRFG01_1237200	Plasmodium praefalciparum strain G01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PPRFG01_1435200	Plasmodium praefalciparum strain G01	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PRCDC_0401900	Plasmodium reichenowi CDC	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PRCDC_1433800	Plasmodium reichenowi CDC	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PRELSG_0105200	Plasmodium relictum SGS1-like	rhoptry-associated membrane antigen, putative	no	
+PVX_117575	PRELSG_0200100	Plasmodium relictum SGS1-like	conserved protein, unknown function	no	
+PVX_117575	PRELSG_1266000	Plasmodium relictum SGS1-like	RNA-binding protein, putative	no	
+PVX_117575	PRELSG_1316600	Plasmodium relictum SGS1-like	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PRG01_0406100	Plasmodium reichenowi G01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PRG01_1434500	Plasmodium reichenowi G01	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PVBDA_0501710	Plasmodium vinckei brucechwatti DA	unspecified product	no	
+PVX_117575	PVBDA_0501950	Plasmodium vinckei brucechwatti DA	unspecified product	no	
+PVX_117575	PVBDA_0501970	Plasmodium vinckei brucechwatti DA	CCAT-binding transcription factor-like protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7RXG4]	no	
+PVX_117575	PVBDA_0501990	Plasmodium vinckei brucechwatti DA	unspecified product	no	
+PVX_117575	PVBDA_0502000	Plasmodium vinckei brucechwatti DA	unspecified product	no	
+PVX_117575	PVBDA_0800440	Plasmodium vinckei brucechwatti DA	RanBD1 domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S179]	no	
+PVX_117575	PVBDA_0801300	Plasmodium vinckei brucechwatti DA	VWFA domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S3W8]	no	
+PVX_117575	PVBDA_1000200	Plasmodium vinckei brucechwatti DA	Erythrocyte membrane antigen 1 [Source:UniProtKB/TrEMBL;Acc:A0A6V7S6Y0]	no	
+PVX_117575	PVBDA_1000660	Plasmodium vinckei brucechwatti DA	unspecified product	no	
+PVX_117575	PVBDA_1402690	Plasmodium vinckei brucechwatti DA	unspecified product	no	
+PVX_117575	PVLDE_0501680	Plasmodium vinckei lentum DE	unspecified product	no	
+PVX_117575	PVLDE_0501920	Plasmodium vinckei lentum DE	unspecified product	no	
+PVX_117575	PVLDE_0501960	Plasmodium vinckei lentum DE	unspecified product	no	
+PVX_117575	PVLDE_0501970	Plasmodium vinckei lentum DE	unspecified product	no	
+PVX_117575	PVLDE_0800440	Plasmodium vinckei lentum DE	RanBD1 domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S271]	no	
+PVX_117575	PVLDE_0801290	Plasmodium vinckei lentum DE	VWFA domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S1F6]	no	
+PVX_117575	PVLDE_1000150	Plasmodium vinckei lentum DE	Erythrocyte membrane antigen 1 [Source:UniProtKB/TrEMBL;Acc:A0A6V7S7M6]	no	
+PVX_117575	PVLDE_1000660	Plasmodium vinckei lentum DE	Rhoptry-associated membrane antigen, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7S5Y7]	no	
+PVX_117575	PVLDE_1200160	Plasmodium vinckei lentum DE	PIR protein CIR protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SGV9]	no	
+PVX_117575	PVL_000009200	Plasmodium vivax-like Pvl01	hypothetical protein	no	
+PVX_117575	PVL_000029600	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVL_000075000	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVL_000147300	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVL_000179400	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVL_000207300	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVL_060013000	Plasmodium vivax-like Pvl01	merozoite TRAP-like protein, putative	no	
+PVX_117575	PVL_060018700	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVL_060018800	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVL_070014200	Plasmodium vivax-like Pvl01	BSD-domain protein, putative	no	
+PVX_117575	PVL_080018400	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVL_130005100	Plasmodium vivax-like Pvl01	Plasmodium exported protein, unknown function	no	
+PVX_117575	PVL_130013900	Plasmodium vivax-like Pvl01	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PVL_130030800	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVP01_0303600	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVP01_0620200	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVP01_0620300	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVP01_0620800	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVP01_0734700	Plasmodium vivax P01	hypothetical protein	no	
+PVX_117575	PVP01_0813900	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVP01_0925500	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVP01_0940300	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVP01_1030700	Plasmodium vivax P01	hypothetical protein	no	
+PVX_117575	PVP01_1030900	Plasmodium vivax P01	merozoite surface protein 3	no	
+PVX_117575	PVP01_1129100	Plasmodium vivax P01	merozoite surface protein 10, putative	no	
+PVX_117575	PVP01_1202900	Plasmodium vivax P01	conserved protein, unknown function	no	
+PVX_117575	PVP01_1271400	Plasmodium vivax P01	Plasmodium exported protein, unknown function	no	
+PVX_117575	PVP01_1306900	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVP01_1315000	Plasmodium vivax P01	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PVP01_1468700	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVPCR_0301300	Plasmodium vinckei petteri CR 2020	Rhoptry neck protein 6, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SGN3]	no	
+PVX_117575	PVPCR_0501790	Plasmodium vinckei petteri CR 2020	unspecified product	no	
+PVX_117575	PVPCR_0503160	Plasmodium vinckei petteri CR 2020	unspecified product	no	
+PVX_117575	PVPCR_0503440	Plasmodium vinckei petteri CR 2020	unspecified product	no	
+PVX_117575	PVPCR_0503450	Plasmodium vinckei petteri CR 2020	unspecified product	no	
+PVX_117575	PVPCR_0600800	Plasmodium vinckei petteri CR 2020	unspecified product	no	
+PVX_117575	PVPCR_0800430	Plasmodium vinckei petteri CR 2020	RanBD1 domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SSH2]	no	
+PVX_117575	PVPCR_0801280	Plasmodium vinckei petteri CR 2020	VWFA domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SWJ7]	no	
+PVX_117575	PVPCR_1000640	Plasmodium vinckei petteri CR 2020	Rhoptry-associated membrane antigen, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7T0V1]	no	
+PVX_117575	PVSEL_0301320	Plasmodium vinckei Cameroon EL	Rhoptry neck protein 6, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SFA2]	no	
+PVX_117575	PVSEL_0503430	Plasmodium vinckei Cameroon EL	unspecified product	no	
+PVX_117575	PVSEL_0503440	Plasmodium vinckei Cameroon EL	unspecified product	no	
+PVX_117575	PVSEL_0800590	Plasmodium vinckei Cameroon EL	RanBD1 domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7STT0]	no	
+PVX_117575	PVSEL_0801420	Plasmodium vinckei Cameroon EL	VWFA domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SUK6]	no	
+PVX_117575	PVVCY_0301260	Plasmodium vinckei vinckei CY	Rhoptry neck protein 6, putative [Source:UniProtKB/TrEMBL;Acc:A0A081IA06]	no	
+PVX_117575	PVVCY_0501940	Plasmodium vinckei vinckei CY	unspecified product	no	
+PVX_117575	PVVCY_0501950	Plasmodium vinckei vinckei CY	CCAT-binding transcription factor-like protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A449BPC4]	no	
+PVX_117575	PVVCY_0501970	Plasmodium vinckei vinckei CY	unspecified product	no	
+PVX_117575	PVVCY_0501980	Plasmodium vinckei vinckei CY	unspecified product	no	
+PVX_117575	PVVCY_0800230	Plasmodium vinckei vinckei CY	RanBD1 domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A449BQZ8]	no	
+PVX_117575	PVVCY_0801080	Plasmodium vinckei vinckei CY	VWFA domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A449BR48]	no	
+PVX_117575	PVVCY_0803530	Plasmodium vinckei vinckei CY	PIR protein CIR protein [Source:UniProtKB/TrEMBL;Acc:A0A449BUK6]	no	
+PVX_117575	PVVCY_1000620	Plasmodium vinckei vinckei CY	Rhoptry-associated membrane antigen, putative [Source:UniProtKB/TrEMBL;Acc:A0A449BTP5]	no	
+PVX_117575	PVVCY_1100040	Plasmodium vinckei vinckei CY	PIR protein CIR protein [Source:UniProtKB/TrEMBL;Acc:A0A449BUK6]	no	
+PVX_117575	PVVCY_1200020	Plasmodium vinckei vinckei CY	PIR protein CIR protein [Source:UniProtKB/TrEMBL;Acc:A0A449BW21]	no	
+PVX_117575	PVX_001030	Plasmodium vivax Sal-1	hypothetical protein, conserved	no	
+PVX_117575	PVX_003555	Plasmodium vivax Sal-1	Plasmodium exported protein, unknown function	no	
+PVX_117575	PVX_082480	Plasmodium vivax Sal-1	hypothetical protein, conserved	no	
+PVX_117575	PVX_083485	Plasmodium vivax Sal-1	hypothetical protein, conserved	no	
+PVX_117575	PVX_084425	Plasmodium vivax Sal-1	hypothetical protein, conserved	no	
+PVX_117575	PVX_084810	Plasmodium vivax Sal-1	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PVX_091860	Plasmodium vivax Sal-1	hypothetical protein	no	
+PVX_117575	PVX_092580	Plasmodium vivax Sal-1	hypothetical protein	no	
+PVX_117575	PVX_094905	Plasmodium vivax Sal-1	hypothetical protein, conserved	no	
+PVX_117575	PVX_097735	Plasmodium vivax Sal-1	hypothetical protein	no	
+PVX_117575	PVX_110940	Plasmodium vivax Sal-1	hypothetical protein, conserved	no	
+PVX_117575	PVX_110965	Plasmodium vivax Sal-1	hypothetical protein	no	
+PVX_117575	PVX_110970	Plasmodium vivax Sal-1	hypothetical protein	no	
+PVX_117575	PVX_111410	Plasmodium vivax Sal-1	hypothetical protein, conserved	no	
+PVX_117575	PVX_114145	Plasmodium vivax Sal-1	merozoite surface protein 10, putative	no	
+PVX_117575	PVX_115470	Plasmodium vivax Sal-1	Pv-fam-d protein	no	
+PVX_117575	PY00143	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVX_117575	PY00532	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVX_117575	PY00634	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVX_117575	PY01014	Plasmodium yoelii yoelii 17XNL	retinitis pigmentosa GTPase regulator-like protein	no	
+PVX_117575	PY01047	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVX_117575	PY01343	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVX_117575	PY01919	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVX_117575	PY02209	Plasmodium yoelii yoelii 17XNL	protein gar2	no	
+PVX_117575	PY02260	Plasmodium yoelii yoelii 17XNL	ring-infested erythrocyte surface antigen	no	
+PVX_117575	PY02600	Plasmodium yoelii yoelii 17XNL	Drosophila melanogaster CG15040 gene product	no	
+PVX_117575	PY03140	Plasmodium yoelii yoelii 17XNL	Drosophila melanogaster SD07158p-related	no	
+PVX_117575	PY03141	Plasmodium yoelii yoelii 17XNL	dentin sialophosphoprotein precursor	no	
+PVX_117575	PY04167	Plasmodium yoelii yoelii 17XNL	mature-parasite-infected erythrocyte surface antigen	no	
+PVX_117575	PY04532	Plasmodium yoelii yoelii 17XNL	glutamic acid-rich protein precursor, putative	no	
+PVX_117575	PY17X_0108800	Plasmodium yoelii yoelii 17X	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PY17X_0517600	Plasmodium yoelii yoelii 17X	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PY17X_0520500	Plasmodium yoelii yoelii 17X	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PY17X_0608800	Plasmodium yoelii yoelii 17X	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PY17X_0807600	Plasmodium yoelii yoelii 17X	rhoptry-associated membrane antigen, putative	no	
+PVX_117575	PY17X_1003400	Plasmodium yoelii yoelii 17X	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PY17X_1011900	Plasmodium yoelii yoelii 17X	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PY17X_1215400	Plasmodium yoelii yoelii 17X	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PY17X_1467700	Plasmodium yoelii yoelii 17X	fam-c protein	no	
+PVX_117575	PYYM_0108200	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PYYM_0517000	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PYYM_0519900	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PYYM_0608000	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PYYM_0835200	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PYYM_1003400	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PYYM_1011900	Plasmodium yoelii yoelii YM	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PYYM_1214800	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PcyM_0108200	Plasmodium cynomolgi strain M	rhoptry-associated membrane antigen, putative	no	
+PVX_117575	PcyM_0306300	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PcyM_0528300	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PcyM_0625100	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PcyM_0814500	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PcyM_0928800	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PcyM_1272700	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PcyM_1317100	Plasmodium cynomolgi strain M	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	Pf7G8_140039700	Plasmodium falciparum 7G8	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PfCD01_120022600	Plasmodium falciparum CD01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PfCD01_140039900	Plasmodium falciparum CD01	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PfDd2_100040400	Plasmodium falciparum Dd2	S-antigen protein, putative	no	
+PVX_117575	PfDd2_130028300	Plasmodium falciparum Dd2	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PfDd2_140038900	Plasmodium falciparum Dd2	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PfGA01_140040000	Plasmodium falciparum GA01	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PfGB4_120022600	Plasmodium falciparum GB4	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PfGB4_140040600	Plasmodium falciparum GB4	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PfGN01_140039800	Plasmodium falciparum GN01	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PfHB3_020007200	Plasmodium falciparum HB3	gamete antigen 27/25, putative	no	
+PVX_117575	PfHB3_140040200	Plasmodium falciparum HB3	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PfIT_120023000	Plasmodium falciparum IT	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PfIT_140040900	Plasmodium falciparum IT	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PfKE01_100019100	Plasmodium falciparum KE01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PfKE01_140039400	Plasmodium falciparum KE01	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PfKH02_140040200	Plasmodium falciparum KH02	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PfML01_100011100	Plasmodium falciparum ML01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PfML01_140011400	Plasmodium falciparum ML01	hypothetical protein	no	
+PVX_117575	PfSN01_050022300	Plasmodium falciparum SN01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PfSN01_140041700	Plasmodium falciparum SN01	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PfTG01_050022300	Plasmodium falciparum TG01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PfTG01_120023000	Plasmodium falciparum TG01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PfTG01_140039800	Plasmodium falciparum TG01	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PmUG01_02015400	Plasmodium malariae UG01	ELM2 domain-containing protein, putative	no	
+PVX_117575	PmUG01_06022500	Plasmodium malariae UG01	merozoite surface protein 3, putative	no	
+PVX_117575	PmUG01_06022600	Plasmodium malariae UG01	merozoite surface protein 3, putative	no	
+PVX_117575	PmUG01_10046400	Plasmodium malariae UG01	hypothetical protein	no	
+PVX_117575	PmUG01_10046500	Plasmodium malariae UG01	hypothetical protein	no	
+PVX_117575	PmUG01_10046800	Plasmodium malariae UG01	hypothetical protein	no	
+PVX_117575	PmUG01_11054200	Plasmodium malariae UG01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PmUG01_12033700	Plasmodium malariae UG01	RNA-binding protein, putative	no	
+PVX_117575	PmUG01_13025800	Plasmodium malariae UG01	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	PocGH01_00013100	Plasmodium ovale curtisi GH01	hypothetical protein	no	
+PVX_117575	PocGH01_00028800	Plasmodium ovale curtisi GH01	PIR protein	no	
+PVX_117575	PocGH01_00039200	Plasmodium ovale curtisi GH01	Plasmodium exported protein, unknown function	no	
+PVX_117575	PocGH01_00041600	Plasmodium ovale curtisi GH01	PIR protein	no	
+PVX_117575	PocGH01_00123400	Plasmodium ovale curtisi GH01	hypothetical protein	no	
+PVX_117575	PocGH01_00173100	Plasmodium ovale curtisi GH01	Plasmodium exported protein, unknown function	no	
+PVX_117575	PocGH01_03011700	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PocGH01_04015200	Plasmodium ovale curtisi GH01	rhoptry neck protein 6, putative	no	
+PVX_117575	PocGH01_06020100	Plasmodium ovale curtisi GH01	U3 small nucleolar ribonucleoprotein protein MPP10, putative	no	
+PVX_117575	PocGH01_06028400	Plasmodium ovale curtisi GH01	hypothetical protein	no	
+PVX_117575	PocGH01_06028700	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PocGH01_08022200	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PocGH01_09046400	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PocGH01_12032100	Plasmodium ovale curtisi GH01	RNA-binding protein, putative	no	
+PVX_117575	PocGH01_13017700	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PocGH01_13025800	Plasmodium ovale curtisi GH01	dynein-related AAA-type ATPase, putative	no	
+PVX_117575	YYE_01337	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVX_117575	YYE_01846	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVX_117575	YYE_03181	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVX_117575	YYE_03264	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVX_117575	YYE_03561	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVX_117575	YYE_03920	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVX_117575	YYE_03921	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVX_117575	YYE_03922	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVX_117575	YYE_03924	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVX_117575	YYE_03925	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVX_117575	YYE_04698	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVX_117575	YYG_01094	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVX_117575	YYG_02580	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVX_117575	YYG_02664	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVX_117575	YYG_02935	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVX_117575	YYG_02936	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVX_117575	YYG_02964	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVX_117575	YYG_03100	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVX_117575	YYG_03772	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVX_117575	YYG_04831	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVX_117575	PmUG01_10047300	Plasmodium malariae UG01	conserved Plasmodium protein, unknown function	no	
+PVX_117575	PVX_101470	Plasmodium vivax Sal-1	hypothetical protein	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr12	plasmodb	1968406 - 1969869 (+)	pvivSal1	1968406	1969869	+	1963406	1974869	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_117575.1	4.07	55606	no	no	plasmodb	pvivSal1	487	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_117575.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_117575.1;genepage=1	PVX_117575.1-p1%3A1..487	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_117575.1-p1%3A1..487&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_117575.1-p1%3A1..487&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

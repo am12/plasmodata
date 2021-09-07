@@ -1,0 +1,71 @@
+Gene ID: PVP01_1226200
+Chromosome: 12
+Product Description: conserved Plasmodium protein, unknown function
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4H1J7	alternate ID	
+A0A1G4HGQ6	alternate ID	
+A0A564ZYP8	alternate ID	
+UPI00090A41B6	alternate ID	
+VUZ97537.1	alternate ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_1226200	AK88_00338	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVP01_1226200	C922_01780	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVP01_1226200	PADL01_1327200	Plasmodium adleri G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PBLACG01_1326500	Plasmodium blacklocki G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PCHAS_1348000	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PCOAH_00043010	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVP01_1226200	PCYB_123450	Plasmodium cynomolgi strain B	hypothetical protein	yes	
+PVP01_1226200	PF3D7_1328200	Plasmodium falciparum 3D7	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PGABG01_1326400	Plasmodium gaboni strain G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PGAL8A_00240500	Plasmodium gallinaceum 8A	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PGSY75_1328200	Plasmodium gaboni strain SY75	hypothetical protein	yes	
+PVP01_1226200	PKNH_1200400	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PKNOH_S110070900	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	yes	
+PVP01_1226200	PPRFG01_1330200	Plasmodium praefalciparum strain G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PRCDC_1327200	Plasmodium reichenowi CDC	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PRELSG_1268600	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PRG01_1330400	Plasmodium reichenowi G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PVLDE_1305060	Plasmodium vinckei lentum DE	unspecified product	yes	
+PVP01_1226200	PVL_120020400	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PVPCR_0502500	Plasmodium vinckei petteri CR 2020	unspecified product	yes	
+PVP01_1226200	PVSEL_0502510	Plasmodium vinckei Cameroon EL	unspecified product	yes	
+PVP01_1226200	PVX_082360	Plasmodium vivax Sal-1	hypothetical protein, conserved	yes	
+PVP01_1226200	PY04955	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVP01_1226200	PcyM_1229900	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	Pf7G8_130032700	Plasmodium falciparum 7G8	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PfCD01_130033800	Plasmodium falciparum CD01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PfDd2_130034100	Plasmodium falciparum Dd2	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PfGA01_130034400	Plasmodium falciparum GA01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PfGB4_130034200	Plasmodium falciparum GB4	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PfHB3_130034600	Plasmodium falciparum HB3	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PfIT_130033500	Plasmodium falciparum IT	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PfKE01_130033900	Plasmodium falciparum KE01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PfKH01_130032500	Plasmodium falciparum KH01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PfKH02_130031200	Plasmodium falciparum KH02	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PfSD01_130035000	Plasmodium falciparum SD01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PfSN01_130031300	Plasmodium falciparum SN01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PfTG01_130034000	Plasmodium falciparum TG01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	PocGH01_12034200	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1226200	YYG_03029	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_12_v2	plasmodb	1021448 - 1031727 (-)	pvivP01	1021448	1031727	-	1016448	1036727	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_1226200.1	6.95	296820	no	no	plasmodb	pvivP01	2613	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_1226200.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_1226200.1;genepage=1	PVP01_1226200.1-p1%3A1..2613	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_1226200.1-p1%3A1..2613&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_1226200.1-p1%3A1..2613&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

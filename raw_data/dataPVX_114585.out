@@ -1,0 +1,76 @@
+Gene ID: PVX_114585
+Chromosome: 11
+Product Description: SET domain containing protein
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GZT6	alternate ID	
+A0A1G4HF52	alternate ID	
+A0A564ZX47	alternate ID	
+A5K2C8	alternate ID	
+EDL46578.1	alternate ID	
+UPI000154521F	alternate ID	
+XP_001616305.1	alternate ID	
+Pv114585	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_114585	AK88_04531	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_114585	PBILCG01_0630200	Plasmodium billcollinsi G01	SET domain protein, putative	yes	
+PVX_114585	PCOAH_00033830	Plasmodium coatneyi Hackeri	SET-domain protein	yes	
+PVX_114585	PF3D7_0629700	Plasmodium falciparum 3D7	SET domain protein, putative	yes	
+PVX_114585	PGABG01_0628500	Plasmodium gaboni strain G01	SET domain protein, putative	yes	
+PVX_114585	PGAL8A_00158200	Plasmodium gallinaceum 8A	SET domain protein, putative	yes	
+PVX_114585	PGSY75_0629700	Plasmodium gaboni strain SY75	putative SET domain protein	yes	
+PVX_114585	PKA1H_110024900	Plasmodium knowlesi strain A1H1	SET domain protein, putative	yes	
+PVX_114585	PKNH_1119800	Plasmodium knowlesi strain H	SET domain protein, putative	yes	
+PVX_114585	PKNOH_S130186000	Plasmodium knowlesi strain Malayan Strain Pk1 A	Histone-lysine N-methyltransferase	yes	
+PVX_114585	PPRFG01_0628400	Plasmodium praefalciparum strain G01	SET domain protein, putative	yes	
+PVX_114585	PRCDC_0628100	Plasmodium reichenowi CDC	SET domain protein, putative	yes	
+PVX_114585	PRELSG_1118600	Plasmodium relictum SGS1-like	SET domain protein, putative	yes	
+PVX_114585	PRG01_0629300	Plasmodium reichenowi G01	SET domain protein, putative	yes	
+PVX_114585	PVP01_1119800	Plasmodium vivax P01	SET domain protein, putative	yes	
+PVX_114585	PY02230	Plasmodium yoelii yoelii 17XNL	similar to KIAA0304 gene product-related	yes	
+PVX_114585	Pf7G8_060034700	Plasmodium falciparum 7G8	SET domain protein, putative	yes	
+PVX_114585	PfCD01_060035100	Plasmodium falciparum CD01	SET domain protein, putative	yes	
+PVX_114585	PfDd2_060034400	Plasmodium falciparum Dd2	SET domain protein, putative	yes	
+PVX_114585	PfGA01_060034700	Plasmodium falciparum GA01	SET domain protein, putative	yes	
+PVX_114585	PfGB4_060034200	Plasmodium falciparum GB4	SET domain protein, putative	yes	
+PVX_114585	PfGN01_060035400	Plasmodium falciparum GN01	SET domain protein, putative	yes	
+PVX_114585	PfHB3_060033900	Plasmodium falciparum HB3	SET domain protein, putative	yes	
+PVX_114585	PfIT_060033500	Plasmodium falciparum IT	SET domain protein, putative	yes	
+PVX_114585	PfKE01_060035800	Plasmodium falciparum KE01	SET domain protein, putative	yes	
+PVX_114585	PfKH01_060036700	Plasmodium falciparum KH01	SET domain protein, putative	yes	
+PVX_114585	PfKH02_060036200	Plasmodium falciparum KH02	SET domain protein, putative	yes	
+PVX_114585	PfML01_060033500	Plasmodium falciparum ML01	SET domain protein, putative	yes	
+PVX_114585	PfSD01_060033600	Plasmodium falciparum SD01	SET domain protein, putative	yes	
+PVX_114585	PfSN01_060034500	Plasmodium falciparum SN01	SET domain protein, putative	yes	
+PVX_114585	PfTG01_060035000	Plasmodium falciparum TG01	SET domain protein, putative	yes	
+PVX_114585	PmUG01_11033900	Plasmodium malariae UG01	SET domain protein, putative	yes	
+PVX_114585	PocGH01_11027600	Plasmodium ovale curtisi GH01	SET domain protein, putative	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0003677	null	DNA binding	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0003677	PVX_114585.1	
+Molecular Function	GO:0005515	null	protein binding	interpro2go	IEA	null	null	MGO:0005515	PVX_114585.1	
+Biological Process	GO:0006355	null	regulation of transcription, DNA-templated	GeneDB_Pvivax	IEA	GO_REF:0000001	null	BGO:0006355	PVX_114585.1	
+Molecular Function	GO:0008168	null	methyltransferase activity	gouniprot	IEA	null	null	MGO:0008168	PVX_114585.1	
+Molecular Function	GO:0008270	null	zinc ion binding	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR001965	MGO:0008270	PVX_114585.1	
+Molecular Function	GO:0019904	null	protein domain specific binding	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0019904	PVX_114585.1	
+Biological Process	GO:0032259	null	methylation	gouniprot	IEA	null	null	BGO:0032259	PVX_114585.1	
+Molecular Function	GO:0046872	null	metal ion binding	gouniprot	IEA	null	null	MGO:0046872	PVX_114585.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr11	plasmodb	795907 - 816553 (-)	pvivSal1	795907	816553	-	790907	821553	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_114585.1	9.3	742079	no	no	plasmodb	pvivSal1	6587	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_114585.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_114585.1;genepage=1	PVX_114585.1-p1%3A1..6587	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_114585.1-p1%3A1..6587&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_114585.1-p1%3A1..6587&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

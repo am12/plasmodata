@@ -1,0 +1,79 @@
+Gene ID: PVP01_1329500
+Chromosome: 13
+Product Description: conserved Plasmodium protein, unknown function
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4H3G0	alternate ID	
+A0A1G4HIY2	alternate ID	
+A0A565A317	alternate ID	
+UPI00090C147A	alternate ID	
+VUZ98348.1	alternate ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_1329500	AK88_00517	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVP01_1329500	C922_03660	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVP01_1329500	PADL01_1419100	Plasmodium adleri G01	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PBILCG01_1420100	Plasmodium billcollinsi G01	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PBLACG01_1418400	Plasmodium blacklocki G01	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PCHAS_1024600	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	yes	
+PVP01_1329500	PCOAH_00049410	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVP01_1329500	PF3D7_1419400	Plasmodium falciparum 3D7	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PGABG01_1417800	Plasmodium gaboni strain G01	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PGSY75_1419400	Plasmodium gaboni strain SY75	putative membrane protein	yes	
+PVP01_1329500	PKNH_1338600	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	yes	
+PVP01_1329500	PKNOH_S05382500	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	yes	
+PVP01_1329500	PPRFG01_1419800	Plasmodium praefalciparum strain G01	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PRCDC_1418700	Plasmodium reichenowi CDC	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PRELSG_1331600	Plasmodium relictum SGS1-like	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PRG01_1419100	Plasmodium reichenowi G01	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PVBDA_1002900	Plasmodium vinckei brucechwatti DA	unspecified product	yes	
+PVP01_1329500	PVL_130021300	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1329500	PVX_085510	Plasmodium vivax Sal-1	hypothetical protein, conserved	yes	
+PVP01_1329500	PY04018	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVP01_1329500	PY05087	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVP01_1329500	PY17X_1025700	Plasmodium yoelii yoelii 17X	conserved Plasmodium protein, unknown function	yes	
+PVP01_1329500	PYYM_1025400	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	yes	
+PVP01_1329500	Pf7G8_140024900	Plasmodium falciparum 7G8	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PfCD01_140025100	Plasmodium falciparum CD01	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PfDd2_140024200	Plasmodium falciparum Dd2	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PfGA01_140025200	Plasmodium falciparum GA01	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PfGB4_140025800	Plasmodium falciparum GB4	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PfGN01_140024900	Plasmodium falciparum GN01	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PfHB3_140025400	Plasmodium falciparum HB3	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PfIT_140026100	Plasmodium falciparum IT	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PfKE01_140024700	Plasmodium falciparum KE01	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PfKH01_140025100	Plasmodium falciparum KH01	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PfKH02_140025400	Plasmodium falciparum KH02	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PfML01_140024900	Plasmodium falciparum ML01	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PfSD01_140023000	Plasmodium falciparum SD01	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PfSN01_140026800	Plasmodium falciparum SN01	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PfTG01_140025000	Plasmodium falciparum TG01	conserved Plasmodium membrane protein, unknown function	yes	
+PVP01_1329500	PmUG01_13039500	Plasmodium malariae UG01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1329500	PocGH01_13040400	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1329500	PocGH01_00134800	Plasmodium ovale curtisi GH01	PIR protein	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+1801	1818	MTLIYSLFSNYLLLLFLL	null	PVP01_1329500.1	
+1886	1908	LYSTNVYSSLYIYLLDVSLSYLF	null	PVP01_1329500.1	
+1912	1930	IGIAYVQSILALLLFYNYV	null	PVP01_1329500.1	
+1937	1955	LLFYKSGAALLTIFLVKII	null	PVP01_1329500.1	
+1965	1987	LITCFLYSVLHSVFYILCNVFTH	null	PVP01_1329500.1	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Cellular Component	GO:0016021	null	integral component of membrane	gouniprot	IEA	null	null	CGO:0016021	PVP01_1329500.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_13_v2	plasmodb	1246409 - 1253045 (+)	pvivP01	1246409	1253045	+	1241409	1258045	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_1329500.1	6.64	231626	no	yes	plasmodb	pvivP01	2061	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_1329500.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_1329500.1;genepage=1	PVP01_1329500.1-p1%3A1..2061	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_1329500.1-p1%3A1..2061&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_1329500.1-p1%3A1..2061&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

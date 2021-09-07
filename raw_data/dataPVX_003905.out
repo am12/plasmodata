@@ -1,0 +1,100 @@
+Gene ID: PVX_003905
+Chromosome: 4
+Product Description: 6-cysteine protein
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A5KBP3	alternate ID	
+EDL43293.1	alternate ID	
+H1AAB1	alternate ID	
+H1AAB3	alternate ID	
+H1AAB7	alternate ID	
+H1AAC8	alternate ID	
+H1AAD5	alternate ID	
+H1AAD8	alternate ID	
+H1AAF1	alternate ID	
+H1AAI9	alternate ID	
+H1AAL6	alternate ID	
+H1AAL7	alternate ID	
+UPI000153FBBD	alternate ID	
+XP_001613020.1	alternate ID	
+Pv003905	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_003905	AK88_03826	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_003905	C922_02806	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_003905	PADL01_0207700	Plasmodium adleri G01	transmission-blocking target antigen s230	yes	
+PVX_003905	PBANKA_0306100	Plasmodium berghei ANKA	6-cysteine protein P230	yes	
+PVX_003905	PBILCG01_0211600	Plasmodium billcollinsi G01	transmission-blocking target antigen s230	yes	
+PVX_003905	PBLACG01_0205700	Plasmodium blacklocki G01	transmission-blocking target antigen s230	yes	
+PVX_003905	PCHAS_0308300	Plasmodium chabaudi chabaudi	6-cysteine protein P230	yes	
+PVX_003905	PCYB_042090	Plasmodium cynomolgi strain B	transmission-blocking target antigen Pcys230	yes	
+PVX_003905	PF3D7_0209000	Plasmodium falciparum 3D7	6-cysteine protein P230	yes	
+PVX_003905	PGABG01_0206600	Plasmodium gaboni strain G01	transmission-blocking target antigen s230	yes	
+PVX_003905	PGAL8A_00016000	Plasmodium gallinaceum 8A	6-cysteine protein P230, putative	yes	
+PVX_003905	PGSY75_0209000	Plasmodium gaboni strain SY75	6-cysteine protein	yes	
+PVX_003905	PKA1H_040017000	Plasmodium knowlesi strain A1H1	6-cysteine protein	yes	
+PVX_003905	PKNH_0412100	Plasmodium knowlesi strain H	6-cysteine protein P230	yes	
+PVX_003905	PKNOH_S08497000	Plasmodium knowlesi strain Malayan Strain Pk1 A	6-cysteine protein	yes	
+PVX_003905	PPRFG01_0209000	Plasmodium praefalciparum strain G01	transmission-blocking target antigen s230	yes	
+PVX_003905	PRCDC_0207900	Plasmodium reichenowi CDC	6-cysteine protein P230	yes	
+PVX_003905	PRELSG_0413600	Plasmodium relictum SGS1-like	6-cysteine protein P230, putative	yes	
+PVX_003905	PRG01_0208100	Plasmodium reichenowi G01	transmission-blocking target antigen s230	yes	
+PVX_003905	PVBDA_0300810	Plasmodium vinckei brucechwatti DA	6-cysteine protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7RVE5]	yes	
+PVX_003905	PVLDE_0300630	Plasmodium vinckei lentum DE	6-cysteine protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7RVR8]	yes	
+PVX_003905	PVL_040011400	Plasmodium vivax-like Pvl01	6-cysteine protein	yes	
+PVX_003905	PVP01_0415800	Plasmodium vivax P01	6-cysteine protein P230, putative	yes	
+PVX_003905	PVPCR_0300760	Plasmodium vinckei petteri CR 2020	unspecified product	yes	
+PVX_003905	PVSEL_0300840	Plasmodium vinckei Cameroon EL	6-cysteine protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SDR7]	yes	
+PVX_003905	PVVCY_0300710	Plasmodium vinckei vinckei CY	6-cysteine protein [Source:UniProtKB/TrEMBL;Acc:A0A081I9V2]	yes	
+PVX_003905	PY02959	Plasmodium yoelii yoelii 17XNL	transmission-blocking target antigen s230 precursor	yes	
+PVX_003905	PY03856	Plasmodium yoelii yoelii 17XNL	transmission-blocking target antigen s230 precursor	yes	
+PVX_003905	PY17X_0306700	Plasmodium yoelii yoelii 17X	6-cysteine protein P230	yes	
+PVX_003905	PYYM_0307000	Plasmodium yoelii yoelii YM	6-cysteine protein	yes	
+PVX_003905	PcyM_0414300	Plasmodium cynomolgi strain M	transmission-blocking target antigen s230, putative	yes	
+PVX_003905	Pf7G8_020013700	Plasmodium falciparum 7G8	6-cysteine protein	yes	
+PVX_003905	PfCD01_020013900	Plasmodium falciparum CD01	6-cysteine protein	yes	
+PVX_003905	PfDd2_020011800	Plasmodium falciparum Dd2	6-cysteine protein	yes	
+PVX_003905	PfGA01_020012000	Plasmodium falciparum GA01	6-cysteine protein	yes	
+PVX_003905	PfGB4_020012000	Plasmodium falciparum GB4	6-cysteine protein	yes	
+PVX_003905	PfGN01_020014300	Plasmodium falciparum GN01	6-cysteine protein	yes	
+PVX_003905	PfHB3_020013700	Plasmodium falciparum HB3	6-cysteine protein	yes	
+PVX_003905	PfIT_020013700	Plasmodium falciparum IT	6-cysteine protein	yes	
+PVX_003905	PfKE01_020011500	Plasmodium falciparum KE01	6-cysteine protein	yes	
+PVX_003905	PfKH01_020014200	Plasmodium falciparum KH01	6-cysteine protein	yes	
+PVX_003905	PfKH02_020013000	Plasmodium falciparum KH02	6-cysteine protein	yes	
+PVX_003905	PfML01_020011900	Plasmodium falciparum ML01	6-cysteine protein	yes	
+PVX_003905	PfSD01_020014500	Plasmodium falciparum SD01	6-cysteine protein	yes	
+PVX_003905	PfSN01_020012000	Plasmodium falciparum SN01	6-cysteine protein	yes	
+PVX_003905	PfTG01_020014000	Plasmodium falciparum TG01	6-cysteine protein	yes	
+PVX_003905	PmUG01_04023100	Plasmodium malariae UG01	6-cysteine protein P230, putative	yes	
+PVX_003905	PocGH01_04021000	Plasmodium ovale curtisi GH01	6-cysteine protein P230, putative	yes	
+PVX_003905	YYE_04644	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVX_003905	YYG_05028	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+PVX_003905	PGAL8A_00195600	Plasmodium gallinaceum 8A	6-cysteine protein, putative	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0004222	null	metalloendopeptidase activity	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0004222	PVX_003905.1	
+Cellular Component	GO:0005886	null	plasma membrane	GeneDB_Pvivax	IEA	GO_REF:0000001	null	CGO:0005886	PVX_003905.1	
+Biological Process	GO:0006508	null	proteolysis	GeneDB_Pvivax	IEA	GO_REF:0000001	null	BGO:0006508	PVX_003905.1	
+Biological Process	GO:0009405	null	pathogenesis	GeneDB_Pvivax	IEA	GO_REF:0000001	null	BGO:0009405	PVX_003905.1	
+Cellular Component	GO:0009986	null	cell surface	gouniprot	IEA	null	null	CGO:0009986	PVX_003905.1	
+Cellular Component	GO:0016020	null	membrane	gouniprot	IEA	null	null	CGO:0016020	PVX_003905.1	
+Molecular Function	GO:0046872	null	metal ion binding	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0046872	PVX_003905.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr04	plasmodb	501978 - 510224 (-)	pvivSal1	501978	510224	-	496978	515224	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_003905.1	6.41	307777	yes	no	plasmodb	pvivSal1	2748	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_003905.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_003905.1;genepage=1	PVX_003905.1-p1%3A1..2748	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_003905.1-p1%3A1..2748&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_003905.1-p1%3A1..2748&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

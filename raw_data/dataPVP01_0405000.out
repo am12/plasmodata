@@ -1,0 +1,70 @@
+Gene ID: PVP01_0405000
+Chromosome: 4
+Product Description: liver stage antigen 3, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GSI0	alternate ID	
+A0A1G4H7Y7	alternate ID	
+A0A564ZPP8	alternate ID	
+UPI00090B607E	alternate ID	
+VUZ93704.1	alternate ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_0405000	PGABG01_0033600	Plasmodium gaboni strain G01	liver stage antigen 3	yes	
+PVP01_0405000	PVL_000144000	Plasmodium vivax-like Pvl01	liver stage antigen 3, putative	yes	
+PVP01_0405000	PADL01_0023900	Plasmodium adleri G01	liver stage antigen 3	no	
+PVP01_0405000	PBLACG01_0033800	Plasmodium blacklocki G01	liver stage antigen 3	no	
+PVP01_0405000	PF3D7_0220000	Plasmodium falciparum 3D7	liver stage antigen 3	no	
+PVP01_0405000	PGSY75_0220000	Plasmodium gaboni strain SY75	liver stage antigen 3	no	
+PVP01_0405000	PPRFG01_0220100	Plasmodium praefalciparum strain G01	liver stage antigen 3	no	
+PVP01_0405000	PRCDC_0218900	Plasmodium reichenowi CDC	liver stage antigen 3, putative	no	
+PVP01_0405000	PRELSG_0001950	Plasmodium relictum SGS1-like	fam-h protein	no	
+PVP01_0405000	PRELSG_0005800	Plasmodium relictum SGS1-like	fam-h protein	no	
+PVP01_0405000	PRELSG_0006300	Plasmodium relictum SGS1-like	fam-h protein	no	
+PVP01_0405000	PRELSG_0016000	Plasmodium relictum SGS1-like	Plasmodium exported protein, unknown function	no	
+PVP01_0405000	PRELSG_0018000	Plasmodium relictum SGS1-like	fam-h protein	no	
+PVP01_0405000	PRELSG_0019080	Plasmodium relictum SGS1-like	Plasmodium exported protein, unknown function	no	
+PVP01_0405000	PRELSG_0027500	Plasmodium relictum SGS1-like	fam-h protein	no	
+PVP01_0405000	PRELSG_0029100	Plasmodium relictum SGS1-like	fam-h protein	no	
+PVP01_0405000	PRELSG_0030500	Plasmodium relictum SGS1-like	fam-h protein	no	
+PVP01_0405000	PRG01_0013600	Plasmodium reichenowi G01	liver stage antigen 3, putative	no	
+PVP01_0405000	PVP01_0005990	Plasmodium vivax P01	Plasmodium exported protein, unknown function	no	
+PVP01_0405000	Pf7G8_020024500	Plasmodium falciparum 7G8	liver stage antigen 3	no	
+PVP01_0405000	PfCD01_020024700	Plasmodium falciparum CD01	liver stage antigen 3	no	
+PVP01_0405000	PfDd2_020022700	Plasmodium falciparum Dd2	liver stage antigen 3	no	
+PVP01_0405000	PfGA01_020022900	Plasmodium falciparum GA01	liver stage antigen 3	no	
+PVP01_0405000	PfGB4_020022700	Plasmodium falciparum GB4	liver stage antigen 3	no	
+PVP01_0405000	PfGN01_020025000	Plasmodium falciparum GN01	liver stage antigen 3	no	
+PVP01_0405000	PfHB3_020024500	Plasmodium falciparum HB3	liver stage antigen 3	no	
+PVP01_0405000	PfIT_020024500	Plasmodium falciparum IT	liver stage antigen 3	no	
+PVP01_0405000	PfKE01_020022300	Plasmodium falciparum KE01	liver stage antigen 3	no	
+PVP01_0405000	PfKH01_020025100	Plasmodium falciparum KH01	liver stage antigen 3	no	
+PVP01_0405000	PfKH02_020023800	Plasmodium falciparum KH02	liver stage antigen 3	no	
+PVP01_0405000	PfML01_000032900	Plasmodium falciparum ML01	liver stage antigen 3	no	
+PVP01_0405000	PfML01_020022700	Plasmodium falciparum ML01	liver stage antigen 3	no	
+PVP01_0405000	PfSD01_020025200	Plasmodium falciparum SD01	liver stage antigen 3	no	
+PVP01_0405000	PfSN01_020022800	Plasmodium falciparum SN01	liver stage antigen 3	no	
+PVP01_0405000	PfTG01_020024900	Plasmodium falciparum TG01	liver stage antigen 3	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+2666	2688	LAFGALTTSILSSCLTIFSVTYL	null	PVP01_0405000.1	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Cellular Component	GO:0016021	null	integral component of membrane	gouniprot	IEA	null	null	CGO:0016021	PVP01_0405000.1	
+Cellular Component	GO:0020026	null	merozoite dense granule	GeneDB	ISO	PMID:28378857	GeneDB:PF3D7_0220000	CGO:0020026	PVP01_0405000.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_04_v2	plasmodb	222995 - 233018 (-)	pvivP01	222995	233018	-	217995	238018	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_0405000.1	3.44	299413	no	yes	plasmodb	pvivP01	2731	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_0405000.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_0405000.1;genepage=1	PVP01_0405000.1-p1%3A1..2731	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_0405000.1-p1%3A1..2731&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_0405000.1-p1%3A1..2731&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

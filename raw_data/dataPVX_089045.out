@@ -1,0 +1,88 @@
+Gene ID: PVX_089045
+Chromosome: 5
+Product Description: hypothetical protein, conserved
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4H8U3	alternate ID	
+A0A564ZSE9	alternate ID	
+A5K5I8	alternate ID	
+EDL45173.1	alternate ID	
+UPI000153E757	alternate ID	
+XP_001614900.1	alternate ID	
+Pv089045	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_089045	AK88_00747	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_089045	C922_02673	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_089045	HEP_00206200	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	SPRY domain, putative	yes	
+PVX_089045	PADL01_0825500	Plasmodium adleri G01	SPRY domain, putative	yes	
+PVX_089045	PBANKA_0704300	Plasmodium berghei ANKA	SPRY domain, putative	yes	
+PVX_089045	PBILCG01_0830700	Plasmodium billcollinsi G01	SPRY domain, putative	yes	
+PVX_089045	PBLACG01_0826200	Plasmodium blacklocki G01	SPRY domain, putative	yes	
+PVX_089045	PCHAS_0933700	Plasmodium chabaudi chabaudi	SPRY domain, putative	yes	
+PVX_089045	PCOAH_00010360	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVX_089045	PCYB_051490	Plasmodium cynomolgi strain B	hypothetical protein	yes	
+PVX_089045	PF3D7_0826300	Plasmodium falciparum 3D7	SPRY domain, putative	yes	
+PVX_089045	PGABG01_0826300	Plasmodium gaboni strain G01	SPRY domain, putative	yes	
+PVX_089045	PGAL8A_00119500	Plasmodium gallinaceum 8A	SPRY domain, putative	yes	
+PVX_089045	PGSY75_0826300	Plasmodium gaboni strain SY75	putative SPRY domain	yes	
+PVX_089045	PKA1H_130025400	Plasmodium knowlesi strain A1H1	SPRY domain, putative	yes	
+PVX_089045	PKNH_1320500	Plasmodium knowlesi strain H	SPRY domain, putative	yes	
+PVX_089045	PKNOH_S04344400	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	yes	
+PVX_089045	PPRFG01_0827800	Plasmodium praefalciparum strain G01	SPRY domain, putative	yes	
+PVX_089045	PRCDC_0825600	Plasmodium reichenowi CDC	SPRY domain, putative	yes	
+PVX_089045	PRELSG_1308600	Plasmodium relictum SGS1-like	SPRY domain, putative	yes	
+PVX_089045	PRG01_0829200	Plasmodium reichenowi G01	SPRY domain, putative	yes	
+PVX_089045	PVBDA_0700500	Plasmodium vinckei brucechwatti DA	B30.2/SPRY domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S176]	yes	
+PVX_089045	PVLDE_0701560	Plasmodium vinckei lentum DE	B30.2/SPRY domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S005]	yes	
+PVX_089045	PVL_050009800	Plasmodium vivax-like Pvl01	SPRY domain, putative	yes	
+PVX_089045	PVP01_0508000	Plasmodium vivax P01	SPRY domain, putative	yes	
+PVX_089045	PVPCR_0700520	Plasmodium vinckei petteri CR 2020	B30.2/SPRY domain-containing protein [Source:UniProtKB/TrEMBL;Acc:W7ABT3]	yes	
+PVX_089045	PVSEL_0700600	Plasmodium vinckei Cameroon EL	B30.2/SPRY domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SQB1]	yes	
+PVX_089045	PVVCY_0700420	Plasmodium vinckei vinckei CY	B30.2/SPRY domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A081IB61]	yes	
+PVX_089045	PY05573	Plasmodium yoelii yoelii 17XNL	similar to ash2	yes	
+PVX_089045	PY17X_0704600	Plasmodium yoelii yoelii 17X	SPRY domain, putative	yes	
+PVX_089045	PYYM_0704500	Plasmodium yoelii yoelii YM	SPRY domain, putative	yes	
+PVX_089045	PcyM_0507100	Plasmodium cynomolgi strain M	SPRY domain, putative	yes	
+PVX_089045	Pf7G8_080031400	Plasmodium falciparum 7G8	SPRY domain, putative	yes	
+PVX_089045	PfCD01_080031900	Plasmodium falciparum CD01	SPRY domain, putative	yes	
+PVX_089045	PfDd2_080031500	Plasmodium falciparum Dd2	SPRY domain, putative	yes	
+PVX_089045	PfGA01_080030000	Plasmodium falciparum GA01	SPRY domain, putative	yes	
+PVX_089045	PfGB4_080031100	Plasmodium falciparum GB4	SPRY domain, putative	yes	
+PVX_089045	PfGN01_080032000	Plasmodium falciparum GN01	SPRY domain, putative	yes	
+PVX_089045	PfHB3_080031800	Plasmodium falciparum HB3	SPRY domain, putative	yes	
+PVX_089045	PfIT_080031300	Plasmodium falciparum IT	SPRY domain, putative	yes	
+PVX_089045	PfKE01_080031900	Plasmodium falciparum KE01	SPRY domain, putative	yes	
+PVX_089045	PfKH01_080031400	Plasmodium falciparum KH01	SPRY domain, putative	yes	
+PVX_089045	PfKH02_080031900	Plasmodium falciparum KH02	SPRY domain, putative	yes	
+PVX_089045	PfML01_080031900	Plasmodium falciparum ML01	SPRY domain, putative	yes	
+PVX_089045	PfSD01_080031700	Plasmodium falciparum SD01	SPRY domain, putative	yes	
+PVX_089045	PfSN01_080030900	Plasmodium falciparum SN01	SPRY domain, putative	yes	
+PVX_089045	PfTG01_080032200	Plasmodium falciparum TG01	SPRY domain, putative	yes	
+PVX_089045	PmUG01_05019700	Plasmodium malariae UG01	SPRY domain, putative	yes	
+PVX_089045	PocGH01_05014600	Plasmodium ovale curtisi GH01	SPRY domain, putative	yes	
+PVX_089045	YYE_04365	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVX_089045	YYG_04245	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0005515	null	protein binding	interpro2go	IEA	null	null	MGO:0005515	PVX_089045.1	
+Cellular Component	GO:0048188	null	Set1C/COMPASS complex	gouniprot	IEA	null	null	CGO:0048188	PVX_089045.1	
+Biological Process	GO:0051568	null	histone H3-K4 methylation	gouniprot	IEA	null	null	BGO:0051568	PVX_089045.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr05	plasmodb	248745 - 250753 (-)	pvivSal1	248745	250753	-	243745	255753	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_089045.1	7.32	55699	no	no	plasmodb	pvivSal1	498	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_089045.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_089045.1;genepage=1	PVX_089045.1-p1%3A1..498	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_089045.1-p1%3A1..498&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_089045.1-p1%3A1..498&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

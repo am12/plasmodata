@@ -1,0 +1,44 @@
+Gene ID: PVP01_1109300
+Chromosome: 11
+Product Description: conserved Plasmodium protein, unknown function
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GZK8	alternate ID	
+A0A1G4HEW1	alternate ID	
+A0A564ZWV4	alternate ID	
+UPI00090A8317	alternate ID	
+VUZ96836.1	alternate ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_1109300	AK88_02354	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVP01_1109300	C922_01115	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVP01_1109300	PCOAH_00032660	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVP01_1109300	PCYB_111790	Plasmodium cynomolgi strain B	hypothetical protein	yes	
+PVP01_1109300	PKA1H_110013700	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	yes	
+PVP01_1109300	PKNH_1108600	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	yes	
+PVP01_1109300	PKNOH_S130174700	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	yes	
+PVP01_1109300	PVL_110011300	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1109300	PVX_115090	Plasmodium vivax Sal-1	hypothetical protein	yes	
+PVP01_1109300	PcyM_1108700	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	yes	
+PVP01_1109300	PmUG01_11023400	Plasmodium malariae UG01	conserved Plasmodium protein, unknown function	yes	
+PVP01_1109300	PocGH01_11017900	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_11_v2	plasmodb	366278 - 373149 (-)	pvivP01	366278	373149	-	361278	378149	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_1109300.1	9.29	155405	no	no	plasmodb	pvivP01	1411	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_1109300.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_1109300.1;genepage=1	PVP01_1109300.1-p1%3A1..1411	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_1109300.1-p1%3A1..1411&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_1109300.1-p1%3A1..1411&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

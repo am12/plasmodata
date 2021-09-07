@@ -1,0 +1,113 @@
+Gene ID: PVX_000970
+Chromosome: 3
+Product Description: pre-mRNA-processing-splicing factor 8, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GRU1	alternate ID	
+A0A1G4H7B6	alternate ID	
+A0A564ZP44	alternate ID	
+A5KAP1	alternate ID	
+EDL43640.1	alternate ID	
+UPI000153E96E	alternate ID	
+XP_001613367.1	alternate ID	
+Pv000970	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_000970	AK88_01988	Plasmodium fragile strain nilgiri	pre-mRNA-processing-splicing factor 8	yes	
+PVX_000970	C922_04769	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_000970	PADL01_0405000	Plasmodium adleri G01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PBANKA_1003100	Plasmodium berghei ANKA	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PBILCG01_0404300	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PBLACG01_0402900	Plasmodium blacklocki G01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PCHAS_1004000	Plasmodium chabaudi chabaudi	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PCOAH_00005950	Plasmodium coatneyi Hackeri	Pre-mRNA splicing factor	yes	
+PVX_000970	PCYB_031320	Plasmodium cynomolgi strain B	pre-mRNA splicing factor	yes	
+PVX_000970	PF3D7_0405400	Plasmodium falciparum 3D7	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PGABG01_0403600	Plasmodium gaboni strain G01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PGAL8A_00056100	Plasmodium gallinaceum 8A	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PGSY75_0405400	Plasmodium gaboni strain SY75	putative pre-mRNA-processing-splicing factor 8	yes	
+PVX_000970	PKA1H_030008500	Plasmodium knowlesi strain A1H1	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PKNH_0303500	Plasmodium knowlesi strain H	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PKNOH_S02295800	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Pre-mRNA splicing factor	yes	
+PVX_000970	PPRFG01_0404900	Plasmodium praefalciparum strain G01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PRCDC_0403000	Plasmodium reichenowi CDC	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PRELSG_0302700	Plasmodium relictum SGS1-like	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PRG01_0407200	Plasmodium reichenowi G01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PVBDA_0800550	Plasmodium vinckei brucechwatti DA	Pre-mRNA-processing-splicing factor 8, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7S116]	yes	
+PVX_000970	PVLDE_0800550	Plasmodium vinckei lentum DE	Pre-mRNA-processing-splicing factor 8, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7S105]	yes	
+PVX_000970	PVL_030006500	Plasmodium vivax-like Pvl01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PVP01_0304800	Plasmodium vivax P01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PVPCR_0800540	Plasmodium vinckei petteri CR 2020	Pre-mRNA-processing-splicing factor 8, putative [Source:UniProtKB/TrEMBL;Acc:W7AES5]	yes	
+PVX_000970	PVSEL_0800700	Plasmodium vinckei Cameroon EL	Pre-mRNA-processing-splicing factor 8, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SUC8]	yes	
+PVX_000970	PVVCY_0800340	Plasmodium vinckei vinckei CY	Pre-mRNA-processing-splicing factor 8, putative [Source:UniProtKB/TrEMBL;Acc:A0A449BR20]	yes	
+PVX_000970	PY01669	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVX_000970	PY17X_1004500	Plasmodium yoelii yoelii 17X	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PYYM_1004500	Plasmodium yoelii yoelii YM	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PcyM_0307600	Plasmodium cynomolgi strain M	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	Pf7G8_040010700	Plasmodium falciparum 7G8	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PfCD01_040010500	Plasmodium falciparum CD01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PfDd2_040010800	Plasmodium falciparum Dd2	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PfGA01_040010400	Plasmodium falciparum GA01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PfGB4_040010900	Plasmodium falciparum GB4	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PfGN01_040010800	Plasmodium falciparum GN01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PfHB3_040009600	Plasmodium falciparum HB3	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PfIT_040010100	Plasmodium falciparum IT	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PfKE01_040012100	Plasmodium falciparum KE01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PfKH01_040010500	Plasmodium falciparum KH01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PfKH02_040010300	Plasmodium falciparum KH02	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PfML01_040011300	Plasmodium falciparum ML01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PfSD01_070021000	Plasmodium falciparum SD01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PfSN01_040010500	Plasmodium falciparum SN01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PfTG01_040010800	Plasmodium falciparum TG01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PmUG01_03015500	Plasmodium malariae UG01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	PocGH01_03012900	Plasmodium ovale curtisi GH01	pre-mRNA-processing-splicing factor 8, putative	yes	
+PVX_000970	YYE_03192	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVX_000970	YYG_02591	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+PVX_000970	HEP_00368600	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	pre-mRNA-processing-splicing factor 8, putative	no	
+PVX_000970	PBILCG01_0029200	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+PVX_000970	PBILCG01_0029400	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+PVX_000970	PBILCG01_0029600	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+PVX_000970	PBILCG01_0029800	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+PVX_000970	PBILCG01_0030000	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+PVX_000970	PBILCG01_0030100	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+PVX_000970	PBILCG01_0030400	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+PVX_000970	PBILCG01_0030600	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+PVX_000970	PBILCG01_0030800	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+PVX_000970	PBILCG01_0031000	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+PVX_000970	PBILCG01_0031200	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+PVX_000970	PBILCG01_0031400	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+PVX_000970	PBILCG01_0031600	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+PVX_000970	PBILCG01_0031800	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+PVX_000970	PBILCG01_0032000	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+PVX_000970	PBILCG01_0032200	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+PVX_000970	PBILCG01_0032500	Plasmodium billcollinsi G01	pre-mRNA-processing-splicing factor 8,putative	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Biological Process	GO:0000375	null	RNA splicing, via transesterification reactions	GeneDB_Pvivax	IEA	GO_REF:0000001	null	BGO:0000375	PVX_000970.1	
+Biological Process	GO:0000398	null	mRNA splicing, via spliceosome	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR027652	BGO:0000398	PVX_000970.1	
+Biological Process	GO:0000398	null	mRNA splicing, via spliceosome	gouniprot	IEA	null	null	BGO:0000398	PVX_000970.1	
+Molecular Function	GO:0003723	null	RNA binding	interpro2go	IEA	null	null	MGO:0003723	PVX_000970.1	
+Cellular Component	GO:0005681	null	spliceosomal complex	GeneDB_Pvivax	IEA	GO_REF:0000001	null	CGO:0005681	PVX_000970.1	
+Cellular Component	GO:0005681	null	spliceosomal complex	gouniprot	IEA	null	null	CGO:0005681	PVX_000970.1	
+Molecular Function	GO:0017070	null	U6 snRNA binding	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR019580	MGO:0017070	PVX_000970.1	
+Molecular Function	GO:0017070	null	U6 snRNA binding	gouniprot	IEA	null	null	MGO:0017070	PVX_000970.1	
+Molecular Function	GO:0030623	null	U5 snRNA binding	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR019581	MGO:0030623	PVX_000970.1	
+Molecular Function	GO:0030623	null	U5 snRNA binding	gouniprot	IEA	null	null	MGO:0030623	PVX_000970.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr03	plasmodb	159088 - 168335 (+)	pvivSal1	159088	168335	+	154088	173335	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_000970.1	9.06	349390	no	no	plasmodb	pvivSal1	3019	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_000970.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_000970.1;genepage=1	PVX_000970.1-p1%3A1..3019	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_000970.1-p1%3A1..3019&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_000970.1-p1%3A1..3019&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

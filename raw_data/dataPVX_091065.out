@@ -1,0 +1,62 @@
+Gene ID: PVX_091065
+Chromosome: 9
+Product Description: transcription factor with AP2 domain(s), putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GX57	alternate ID	
+A0A1G4HCG4	alternate ID	
+A0A564ZVS9	alternate ID	
+A5K4A2	alternate ID	
+EDL45480.1	alternate ID	
+UPI000153E58E	alternate ID	
+XP_001615207.1	alternate ID	
+Pv091065	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_091065	AK88_04917	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_091065	PBANKA_0939100	Plasmodium berghei ANKA	AP2 domain transcription factor, putative	yes	
+PVX_091065	PCHAS_0905200	Plasmodium chabaudi chabaudi	AP2 domain transcription factor, putative	yes	
+PVX_091065	PGAL8A_00335100	Plasmodium gallinaceum 8A	AP2 domain transcription factor, putative	yes	
+PVX_091065	PKA1H_090010800	Plasmodium knowlesi strain A1H1	transcription factor with AP2 domain(s), putative	yes	
+PVX_091065	PKNH_0905400	Plasmodium knowlesi strain H	AP2 domain transcription factor, putative	yes	
+PVX_091065	PKNOH_S120123800	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Transcription factor with AP2 domain(S)	yes	
+PVX_091065	PRELSG_0905000	Plasmodium relictum SGS1-like	AP2 domain transcription factor, putative	yes	
+PVX_091065	PVLDE_0900690	Plasmodium vinckei lentum DE	AP2/ERF domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S4F5]	yes	
+PVX_091065	PVL_050005300	Plasmodium vivax-like Pvl01	transcription factor with AP2 domain(s), putative	yes	
+PVX_091065	PVPCR_0900670	Plasmodium vinckei petteri CR 2020	AP2/ERF domain-containing protein [Source:UniProtKB/TrEMBL;Acc:W7AN39]	yes	
+PVX_091065	PVSEL_0900660	Plasmodium vinckei Cameroon EL	AP2/ERF domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SV62]	yes	
+PVX_091065	PVVCY_0900720	Plasmodium vinckei vinckei CY	AP2/ERF domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A449BS93]	yes	
+PVX_091065	PY07039	Plasmodium yoelii yoelii 17XNL	ERYTHROCYTE MEMBRANE PROTEIN PFEMP3	yes	
+PVX_091065	PY17X_0941600	Plasmodium yoelii yoelii 17X	AP2 domain transcription factor, putative	yes	
+PVX_091065	PYYM_0940700	Plasmodium yoelii yoelii YM	transcription factor with AP2 domain(s), putative	yes	
+PVX_091065	PmUG01_09017400	Plasmodium malariae UG01	AP2 domain transcription factor, putative	yes	
+PVX_091065	PocGH01_09014500	Plasmodium ovale curtisi GH01	AP2 domain transcription factor, putative	yes	
+PVX_091065	YYE_02761	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVX_091065	YYG_01703	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+PVX_091065	HEP_00516600	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	AP2 domain transcription factor, putative	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0003677	null	DNA binding	gouniprot	IEA	null	null	MGO:0003677	PVX_091065.1	
+Molecular Function	GO:0003700	null	DNA-binding transcription factor activity	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR001471	MGO:0003700	PVX_091065.1	
+Molecular Function	GO:0003700	null	DNA-binding transcription factor activity	gouniprot	IEA	null	null	MGO:0003700	PVX_091065.1	
+Cellular Component	GO:0005634	null	nucleus	gouniprot	IEA	null	null	CGO:0005634	PVX_091065.1	
+Biological Process	GO:0006355	null	regulation of transcription, DNA-templated	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR001471	BGO:0006355	PVX_091065.1	
+Biological Process	GO:0006355	null	regulation of transcription, DNA-templated	interpro2go	IEA	null	null	BGO:0006355	PVX_091065.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr09	plasmodb	223664 - 229908 (-)	pvivSal1	223664	229908	-	218664	234908	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_091065.1	5.76	214101	no	no	plasmodb	pvivSal1	2029	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_091065.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_091065.1;genepage=1	PVX_091065.1-p1%3A1..2029	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_091065.1-p1%3A1..2029&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_091065.1-p1%3A1..2029&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

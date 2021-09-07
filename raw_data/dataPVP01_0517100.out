@@ -1,0 +1,86 @@
+Gene ID: PVP01_0517100
+Chromosome: 5
+Product Description: 14-3-3 protein, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+5855.PVX_089505	alternate ID	
+A0A1G4H8U4	alternate ID	
+SCO65899.1	alternate ID	
+SCO71327.1	alternate ID	
+UPI00000786AD	alternate ID	
+VUZ94063.1	alternate ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_0517100	AK88_01244	Plasmodium fragile strain nilgiri	14-3-3 family protein	yes	
+PVP01_0517100	C922_02585	Plasmodium inui San Antonio 1	14-3-3 family protein	yes	
+PVP01_0517100	HEP_00363100	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	14-3-3 protein	yes	
+PVP01_0517100	PADL01_0817400	Plasmodium adleri G01	14-3-3 protein	yes	
+PVP01_0517100	PBANKA_0712600	Plasmodium berghei ANKA	14-3-3 protein	yes	
+PVP01_0517100	PBILCG01_0002500	Plasmodium billcollinsi G01	14-3-3 protein	yes	
+PVP01_0517100	PBLACG01_0818100	Plasmodium blacklocki G01	14-3-3 protein	yes	
+PVP01_0517100	PCHAS_0721700	Plasmodium chabaudi chabaudi	14-3-3 protein, putative	yes	
+PVP01_0517100	PCOAH_00011230	Plasmodium coatneyi Hackeri	14-3-3 family protein	yes	
+PVP01_0517100	PCYB_052350	Plasmodium cynomolgi strain B	suppressor of Ras1 3-9	yes	
+PVP01_0517100	PF3D7_0818200	Plasmodium falciparum 3D7	14-3-3 protein	yes	
+PVP01_0517100	PGABG01_0818200	Plasmodium gaboni strain G01	14-3-3 protein	yes	
+PVP01_0517100	PGAL8A_00111200	Plasmodium gallinaceum 8A	14-3-3 protein, putative	yes	
+PVP01_0517100	PGSY75_0818200	Plasmodium gaboni strain SY75	14-3-3 protein	yes	
+PVP01_0517100	PKA1H_050007000	Plasmodium knowlesi strain A1H1	14-3-3 protein, putative	yes	
+PVP01_0517100	PKNH_0501800	Plasmodium knowlesi strain H	14-3-3 protein, putative	yes	
+PVP01_0517100	PKNOH_S04354000	Plasmodium knowlesi strain Malayan Strain Pk1 A	14-3-3 protein	yes	
+PVP01_0517100	PPRFG01_0819700	Plasmodium praefalciparum strain G01	14-3-3 protein	yes	
+PVP01_0517100	PRCDC_0817500	Plasmodium reichenowi CDC	14-3-3 protein, putative	yes	
+PVP01_0517100	PRELSG_0505800	Plasmodium relictum SGS1-like	14-3-3 protein, putative	yes	
+PVP01_0517100	PRG01_0821100	Plasmodium reichenowi G01	14-3-3 protein	yes	
+PVP01_0517100	PVBDA_0701310	Plasmodium vinckei brucechwatti DA	14_3_3 domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7RZX0]	yes	
+PVP01_0517100	PVLDE_0702380	Plasmodium vinckei lentum DE	14_3_3 domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S0G8]	yes	
+PVP01_0517100	PVL_050016000	Plasmodium vivax-like Pvl01	14-3-3 protein, putative	yes	
+PVP01_0517100	PVPCR_0701360	Plasmodium vinckei petteri CR 2020	14_3_3 domain-containing protein [Source:UniProtKB/TrEMBL;Acc:W7ABK6]	yes	
+PVP01_0517100	PVSEL_0701420	Plasmodium vinckei Cameroon EL	14_3_3 domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SQG3]	yes	
+PVP01_0517100	PVVCY_0701240	Plasmodium vinckei vinckei CY	14_3_3 domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A081IAX8]	yes	
+PVP01_0517100	PVX_089505	Plasmodium vivax Sal-1	14-3-3 protein, putative	yes	
+PVP01_0517100	PY01841	Plasmodium yoelii yoelii 17XNL	14-3-3 protein	yes	
+PVP01_0517100	PY17X_0712800	Plasmodium yoelii yoelii 17X	14-3-3 protein, putative	yes	
+PVP01_0517100	PYYM_0712700	Plasmodium yoelii yoelii YM	14-3-3 protein, putative	yes	
+PVP01_0517100	PcyM_0516800	Plasmodium cynomolgi strain M	14-3-3 protein, putative	yes	
+PVP01_0517100	Pf7G8_080023300	Plasmodium falciparum 7G8	14-3-3 protein	yes	
+PVP01_0517100	PfCD01_080023800	Plasmodium falciparum CD01	14-3-3 protein	yes	
+PVP01_0517100	PfDd2_080023400	Plasmodium falciparum Dd2	14-3-3 protein	yes	
+PVP01_0517100	PfGA01_080021900	Plasmodium falciparum GA01	14-3-3 protein	yes	
+PVP01_0517100	PfGB4_080023000	Plasmodium falciparum GB4	14-3-3 protein	yes	
+PVP01_0517100	PfGN01_080023900	Plasmodium falciparum GN01	14-3-3 protein	yes	
+PVP01_0517100	PfHB3_080023700	Plasmodium falciparum HB3	14-3-3 protein	yes	
+PVP01_0517100	PfIT_080023200	Plasmodium falciparum IT	14-3-3 protein	yes	
+PVP01_0517100	PfKE01_080023800	Plasmodium falciparum KE01	14-3-3 protein	yes	
+PVP01_0517100	PfKH01_080023300	Plasmodium falciparum KH01	14-3-3 protein	yes	
+PVP01_0517100	PfKH02_080023800	Plasmodium falciparum KH02	14-3-3 protein	yes	
+PVP01_0517100	PfML01_080023800	Plasmodium falciparum ML01	14-3-3 protein	yes	
+PVP01_0517100	PfSD01_080023600	Plasmodium falciparum SD01	14-3-3 protein	yes	
+PVP01_0517100	PfSN01_080022800	Plasmodium falciparum SN01	14-3-3 protein	yes	
+PVP01_0517100	PfTG01_080024100	Plasmodium falciparum TG01	14-3-3 protein	yes	
+PVP01_0517100	PmUG01_05033000	Plasmodium malariae UG01	14-3-3 protein, putative	yes	
+PVP01_0517100	PocGH01_05022700	Plasmodium ovale curtisi GH01	14-3-3 protein, putative	yes	
+PVP01_0517100	YYE_04282	Plasmodium vinckei vinckei strain vinckei	14-3-3 family protein	yes	
+PVP01_0517100	YYG_04160	Plasmodium vinckei petteri strain CR	14-3-3 family protein	yes	
+PVP01_0517100	PY05990	Plasmodium yoelii yoelii 17XNL	14-3-3 protein	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Cellular Component	GO:0005634	null	nucleus	GeneDB	ISO	PMID:23308157	GeneDB:PF3D7_0818200	CGO:0005634	PVP01_0517100.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_05_v2	plasmodb	715050 - 719780 (-)	pvivP01	715050	719780	-	710050	724780	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_0517100.1	4.56	30221	no	no	plasmodb	pvivP01	262	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_0517100.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_0517100.1;genepage=1	PVP01_0517100.1-p1%3A1..262	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_0517100.1-p1%3A1..262&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_0517100.1-p1%3A1..262&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

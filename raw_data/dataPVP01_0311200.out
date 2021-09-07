@@ -1,0 +1,50 @@
+Gene ID: PVP01_0311200
+Chromosome: 3
+Product Description: conserved Plasmodium protein, unknown function
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GRY5	alternate ID	
+A0A564ZPA7	alternate ID	
+UPI00090BB28D	alternate ID	
+VUZ93555.1	alternate ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_0311200	PVL_000213500	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0311200	PVX_000660	Plasmodium vivax Sal-1	hypothetical protein	yes	
+PVP01_0311200	AK88_02966	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVP01_0311200	HEP_00061800	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	conserved protein, unknown function	no	
+PVP01_0311200	HEP_00091200	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	conserved protein, unknown function	no	
+PVP01_0311200	HEP_00140400	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	conserved protein, unknown function	no	
+PVP01_0311200	HEP_00307100	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	serine/threonine protein phosphatase 8, putative	no	
+PVP01_0311200	PBILCG01_0108900	Plasmodium billcollinsi G01	bromodomain protein, putative	no	
+PVP01_0311200	PCYB_146610	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVP01_0311200	PGABG01_0209800	Plasmodium gaboni strain G01	conserved Plasmodium protein, unknown function	no	
+PVP01_0311200	PKA1H_130053600	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVP01_0311200	PKNH_1348900	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	no	
+PVP01_0311200	PKNOH_S05392700	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVP01_0311200	PRCDC_1461700	Plasmodium reichenowi CDC	conserved Plasmodium protein, unknown function	no	
+PVP01_0311200	PRG01_1462400	Plasmodium reichenowi G01	conserved Plasmodium protein, unknown function	no	
+PVP01_0311200	PcyM_1464600	Plasmodium cynomolgi strain M	RNA-binding protein, putative	no	
+PVP01_0311200	Pf7G8_010014300	Plasmodium falciparum 7G8	bromodomain protein, putative	no	
+PVP01_0311200	PfKH01_010015300	Plasmodium falciparum KH01	bromodomain protein, putative	no	
+PVP01_0311200	PocGH01_14026400	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_03_v2	plasmodb	490251 - 503476 (-)	pvivP01	490251	503476	-	485251	508476	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_0311200.1	10.27	443413	no	no	plasmodb	pvivP01	3886	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_0311200.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_0311200.1;genepage=1	PVP01_0311200.1-p1%3A1..3886	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_0311200.1-p1%3A1..3886&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_0311200.1-p1%3A1..3886&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

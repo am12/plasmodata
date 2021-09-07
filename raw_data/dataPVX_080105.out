@@ -1,0 +1,60 @@
+Gene ID: PVX_080105
+Chromosome: 10
+Product Description: hypothetical protein, conserved
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GYK0	alternate ID	
+A0A1G4HDY4	alternate ID	
+A0A564ZY42	alternate ID	
+A5K9D0	alternate ID	
+EDL44002.1	alternate ID	
+UPI000153ED69	alternate ID	
+XP_001613729.1	alternate ID	
+Pv080105	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_080105	AK88_02815	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_080105	PCYB_101880	Plasmodium cynomolgi strain B	hypothetical protein	yes	
+PVX_080105	PGAL8A_00070100	Plasmodium gallinaceum 8A	zinc finger protein, putative	yes	
+PVX_080105	PVBDA_1203970	Plasmodium vinckei brucechwatti DA	Zinc finger protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SKP2]	yes	
+PVX_080105	PVLDE_1204030	Plasmodium vinckei lentum DE	Zinc finger protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SJ50]	yes	
+PVX_080105	PVL_100013000	Plasmodium vivax-like Pvl01	zinc finger protein, putative	yes	
+PVX_080105	PVP01_1011000	Plasmodium vivax P01	zinc finger protein, putative	yes	
+PVX_080105	PVSEL_1203530	Plasmodium vinckei Cameroon EL	Zinc finger protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7T8U7]	yes	
+PVX_080105	PVVCY_1203840	Plasmodium vinckei vinckei CY	Zinc finger protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A449BWX8]	yes	
+PVX_080105	PY06948	Plasmodium yoelii yoelii 17XNL	ERYTHROCYTE MEMBRANE PROTEIN PFEMP3	yes	
+PVX_080105	PY17X_1240900	Plasmodium yoelii yoelii 17X	zinc finger protein, putative	yes	
+PVX_080105	PYYM_1240100	Plasmodium yoelii yoelii YM	zinc finger protein, putative, fragment	yes	
+PVX_080105	PcyM_1008900	Plasmodium cynomolgi strain M	zinc finger protein, putative	yes	
+PVX_080105	PmUG01_10021700	Plasmodium malariae UG01	zinc finger protein, putative	yes	
+PVX_080105	YYE_01715	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVX_080105	HEP_00432400	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	zinc finger protein, putative	no	
+PVX_080105	PBANKA_0414700	Plasmodium berghei ANKA	zinc finger protein, putative	no	
+PVX_080105	PBANKA_1206800	Plasmodium berghei ANKA	zinc finger (CCCH type) protein, putative	no	
+PVX_080105	PVLDE_0601010	Plasmodium vinckei lentum DE	Zinc finger protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7RYF5]	no	
+PVX_080105	PVVCY_0600890	Plasmodium vinckei vinckei CY	Zinc finger protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A449BPR3]	no	
+PVX_080105	PmUG01_13020200	Plasmodium malariae UG01	zinc finger protein, putative	no	
+PVX_080105	YYE_03583	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0003676	null	nucleic acid binding	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0003676	PVX_080105.1	
+Molecular Function	GO:0046872	null	metal ion binding	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR000571	MGO:0046872	PVX_080105.1	
+Molecular Function	GO:0046872	null	metal ion binding	gouniprot	IEA	null	null	MGO:0046872	PVX_080105.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr10	plasmodb	370279 - 376086 (-)	pvivSal1	370279	376086	-	365279	381086	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_080105.1	8.21	212208	no	no	plasmodb	pvivSal1	1935	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_080105.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_080105.1;genepage=1	PVX_080105.1-p1%3A1..1935	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_080105.1-p1%3A1..1935&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_080105.1-p1%3A1..1935&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

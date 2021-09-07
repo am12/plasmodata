@@ -1,0 +1,60 @@
+Gene ID: PVP01_0721300
+Chromosome: 7
+Product Description: conserved Plasmodium protein, unknown function
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GVD2	alternate ID	
+A0A1G4HAT2	alternate ID	
+A0A564ZSL8	alternate ID	
+UPI0009097B48	alternate ID	
+VUZ94846.1	alternate ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_0721300	AK88_02921	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVP01_0721300	C922_01663	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVP01_0721300	PBLACG01_0922500	Plasmodium blacklocki G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PCOAH_00016920	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVP01_0721300	PCYB_073040	Plasmodium cynomolgi strain B	hypothetical protein	yes	
+PVP01_0721300	PF3D7_0922800	Plasmodium falciparum 3D7	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PGABG01_0920200	Plasmodium gaboni strain G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PGSY75_0922800	Plasmodium gaboni strain SY75	hypothetical protein	yes	
+PVP01_0721300	PKA1H_070025900	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PKNH_0720800	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PKNOH_S06422500	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	yes	
+PVP01_0721300	PRCDC_0920800	Plasmodium reichenowi CDC	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PRG01_0930200	Plasmodium reichenowi G01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PVL_070020500	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PVX_099550	Plasmodium vivax Sal-1	hypothetical protein, conserved	yes	
+PVP01_0721300	PcyM_0721600	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	Pf7G8_090027600	Plasmodium falciparum 7G8	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PfDd2_090027800	Plasmodium falciparum Dd2	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PfGN01_090027600	Plasmodium falciparum GN01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PfHB3_090027400	Plasmodium falciparum HB3	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PfIT_090027300	Plasmodium falciparum IT	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PfKE01_090027100	Plasmodium falciparum KE01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PfKH01_090027000	Plasmodium falciparum KH01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PfKH02_090027500	Plasmodium falciparum KH02	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PfML01_090027200	Plasmodium falciparum ML01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	PmUG01_07034300	Plasmodium malariae UG01	conserved Plasmodium protein, unknown function	yes	
+PVP01_0721300	YYE_03362	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVP01_0721300	AK88_01654	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_07_v2	plasmodb	920020 - 933134 (-)	pvivP01	920020	933134	-	915020	938134	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_0721300.1	10.09	434229	no	no	plasmodb	pvivP01	3832	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_0721300.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_0721300.1;genepage=1	PVP01_0721300.1-p1%3A1..3832	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_0721300.1-p1%3A1..3832&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_0721300.1-p1%3A1..3832&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

@@ -1,0 +1,88 @@
+Gene ID: PVX_114270
+Chromosome: 11
+Product Description: nuclear polyadenylated RNA-binding protein NAB2, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GZY2	alternate ID	
+A0A1G4HFC8	alternate ID	
+A0A564ZXC1	alternate ID	
+Pv114270	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_114270	AK88_02256	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_114270	C922_00943	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_114270	HEP_00213000	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PADL01_0621200	Plasmodium adleri G01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PBANKA_1122000	Plasmodium berghei ANKA	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PBILCG01_0623400	Plasmodium billcollinsi G01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PBLACG01_0622500	Plasmodium blacklocki G01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PCHAS_1121500	Plasmodium chabaudi chabaudi	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PCOAH_00034510	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVX_114270	PCYB_113470	Plasmodium cynomolgi strain B	hypothetical protein	yes	
+PVX_114270	PF3D7_0623100	Plasmodium falciparum 3D7	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PGABG01_0621800	Plasmodium gaboni strain G01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PGAL8A_00151600	Plasmodium gallinaceum 8A	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PGSY75_0623100	Plasmodium gaboni strain SY75	putative coronin binding protein	yes	
+PVX_114270	PKA1H_110032600	Plasmodium knowlesi strain A1H1	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PKNH_1127100	Plasmodium knowlesi strain H	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PKNOH_S130193600	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Nuclear polyadenylated RNA-binding protein NAB2	yes	
+PVX_114270	PPRFG01_0621700	Plasmodium praefalciparum strain G01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PRCDC_0621500	Plasmodium reichenowi CDC	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PRELSG_1125200	Plasmodium relictum SGS1-like	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PRG01_0622600	Plasmodium reichenowi G01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PVBDA_1102250	Plasmodium vinckei brucechwatti DA	Nuclear polyadenylated RNA-binding protein NAB2, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SC21]	yes	
+PVX_114270	PVLDE_1102250	Plasmodium vinckei lentum DE	Nuclear polyadenylated RNA-binding protein NAB2, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SC60]	yes	
+PVX_114270	PVL_110025000	Plasmodium vivax-like Pvl01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PVP01_1126400	Plasmodium vivax P01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PVPCR_1102230	Plasmodium vinckei petteri CR 2020	Nuclear polyadenylated RNA-binding protein NAB2, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7T6Q4]	yes	
+PVX_114270	PVSEL_1102260	Plasmodium vinckei Cameroon EL	Nuclear polyadenylated RNA-binding protein NAB2, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7T8U2]	yes	
+PVX_114270	PVVCY_1102310	Plasmodium vinckei vinckei CY	Nuclear polyadenylated RNA-binding protein NAB2, putative [Source:UniProtKB/TrEMBL;Acc:A0A449BV37]	yes	
+PVX_114270	PY03499	Plasmodium yoelii yoelii 17XNL	coronin binding protein	yes	
+PVX_114270	PY06272	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVX_114270	PY17X_1123400	Plasmodium yoelii yoelii 17X	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PYYM_1124300	Plasmodium yoelii yoelii YM	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PcyM_1127200	Plasmodium cynomolgi strain M	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	Pf7G8_060028100	Plasmodium falciparum 7G8	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PfCD01_060028500	Plasmodium falciparum CD01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PfDd2_060027800	Plasmodium falciparum Dd2	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PfGA01_060028100	Plasmodium falciparum GA01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PfGB4_060027600	Plasmodium falciparum GB4	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PfGN01_060028800	Plasmodium falciparum GN01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PfHB3_060027300	Plasmodium falciparum HB3	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PfIT_060026900	Plasmodium falciparum IT	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PfKE01_060029200	Plasmodium falciparum KE01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PfKH01_060030100	Plasmodium falciparum KH01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PfKH02_060029600	Plasmodium falciparum KH02	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PfML01_060026900	Plasmodium falciparum ML01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PfSD01_060027000	Plasmodium falciparum SD01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PfSN01_060028000	Plasmodium falciparum SN01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PfTG01_060028400	Plasmodium falciparum TG01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PmUG01_11040500	Plasmodium malariae UG01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	PocGH01_11034200	Plasmodium ovale curtisi GH01	nuclear polyadenylated RNA-binding protein NAB2, putative	yes	
+PVX_114270	YYE_02487	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVX_114270	YYG_01374	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0008143	null	poly(A) binding	interpro2go	IEA	null	null	MGO:0008143	PVX_114270.1	
+Biological Process	GO:0043488	null	regulation of mRNA stability	interpro2go	IEA	null	null	BGO:0043488	PVX_114270.1	
+Molecular Function	GO:0046872	null	metal ion binding	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR000571	MGO:0046872	PVX_114270.1	
+Molecular Function	GO:0046872	null	metal ion binding	interpro2go	IEA	null	null	MGO:0046872	PVX_114270.1	
+Biological Process	GO:1900364	null	negative regulation of mRNA polyadenylation	interpro2go	IEA	null	null	BGO:1900364	PVX_114270.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr11	plasmodb	1108773 - 1113360 (+)	pvivSal1	1108773	1113360	+	1103773	1118360	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_114270.1	8.97	94306	no	no	plasmodb	pvivSal1	847	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_114270.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_114270.1;genepage=1	PVX_114270.1-p1%3A1..847	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_114270.1-p1%3A1..847&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_114270.1-p1%3A1..847&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

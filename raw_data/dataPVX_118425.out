@@ -1,0 +1,94 @@
+Gene ID: PVX_118425
+Chromosome: 12
+Product Description: serine/threonine protein kinase, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4H2F5	alternate ID	
+A0A565A079	alternate ID	
+A5K3Z7	alternate ID	
+EDL46251.1	alternate ID	
+UPI000153E1B3	alternate ID	
+XP_001615978.1	alternate ID	
+Pv118425	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_118425	AK88_02613	Plasmodium fragile strain nilgiri	CAMK/CAMKL protein kinase	yes	
+PVX_118425	C922_00377	Plasmodium inui San Antonio 1	CAMK/CAMKL protein kinase	yes	
+PVX_118425	HEP_00336700	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	serine/threonine protein kinase, putative	yes	
+PVX_118425	PADL01_1441300	Plasmodium adleri G01	serine/threonine protein kinase, putative	yes	
+PVX_118425	PBANKA_1305200	Plasmodium berghei ANKA	serine/threonine protein kinase, putative	yes	
+PVX_118425	PBILCG01_1441800	Plasmodium billcollinsi G01	serine/threonine protein kinase, putative	yes	
+PVX_118425	PBLACG01_1440800	Plasmodium blacklocki G01	serine/threonine protein kinase, putative	yes	
+PVX_118425	PCHAS_1308400	Plasmodium chabaudi chabaudi	serine/threonine protein kinase, putative	yes	
+PVX_118425	PCOAH_00047050	Plasmodium coatneyi Hackeri	CAMK/CAMKL protein kinase	yes	
+PVX_118425	PCYB_127380	Plasmodium cynomolgi strain B	serine/threonine protein kinase	yes	
+PVX_118425	PF3D7_1441300	Plasmodium falciparum 3D7	serine/threonine protein kinase, putative	yes	
+PVX_118425	PGABG01_1440100	Plasmodium gaboni strain G01	serine/threonine protein kinase, putative	yes	
+PVX_118425	PGAL8A_00200500	Plasmodium gallinaceum 8A	serine/threonine protein kinase, putative	yes	
+PVX_118425	PGSY75_1441300	Plasmodium gaboni strain SY75	putative serine/threonine protein kinase	yes	
+PVX_118425	PKA1H_120045800	Plasmodium knowlesi strain A1H1	serine/threonine protein kinase, putative	yes	
+PVX_118425	PKNH_1241000	Plasmodium knowlesi strain H	serine/threonine protein kinase, putative	yes	
+PVX_118425	PKNOH_S110112000	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Serine/threonine protein kinase	yes	
+PVX_118425	PPRFG01_1442000	Plasmodium praefalciparum strain G01	serine/threonine protein kinase, putative	yes	
+PVX_118425	PRCDC_1440600	Plasmodium reichenowi CDC	serine/threonine protein kinase, putative	yes	
+PVX_118425	PRELSG_1239700	Plasmodium relictum SGS1-like	serine/threonine protein kinase, putative	yes	
+PVX_118425	PRG01_1441300	Plasmodium reichenowi G01	serine/threonine protein kinase, putative	yes	
+PVX_118425	PVBDA_1300810	Plasmodium vinckei brucechwatti DA	Protein kinase domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SL91]	yes	
+PVX_118425	PVLDE_1301070	Plasmodium vinckei lentum DE	Protein kinase domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SLM2]	yes	
+PVX_118425	PVL_120049300	Plasmodium vivax-like Pvl01	serine/threonine protein kinase, putative	yes	
+PVX_118425	PVP01_1265700	Plasmodium vivax P01	serine/threonine protein kinase, putative	yes	
+PVX_118425	PVPCR_1300980	Plasmodium vinckei petteri CR 2020	Protein kinase domain-containing protein [Source:UniProtKB/TrEMBL;Acc:W7ADC2]	yes	
+PVX_118425	PVSEL_1300820	Plasmodium vinckei Cameroon EL	Protein kinase domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7TA15]	yes	
+PVX_118425	PVVCY_1300690	Plasmodium vinckei vinckei CY	Protein kinase domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A449BXN2]	yes	
+PVX_118425	PY05330	Plasmodium yoelii yoelii 17XNL	Protein kinase domain, putative	yes	
+PVX_118425	PY17X_1309000	Plasmodium yoelii yoelii 17X	serine/threonine protein kinase, putative	yes	
+PVX_118425	PYYM_1306000	Plasmodium yoelii yoelii YM	serine/threonine protein kinase, putative	yes	
+PVX_118425	PcyM_1274600	Plasmodium cynomolgi strain M	serine/threonine protein kinase, putative	yes	
+PVX_118425	Pf7G8_140046500	Plasmodium falciparum 7G8	serine/threonine protein kinase, putative	yes	
+PVX_118425	PfCD01_140046700	Plasmodium falciparum CD01	serine/threonine protein kinase, putative	yes	
+PVX_118425	PfDd2_140045700	Plasmodium falciparum Dd2	serine/threonine protein kinase, putative	yes	
+PVX_118425	PfGA01_140046800	Plasmodium falciparum GA01	serine/threonine protein kinase, putative	yes	
+PVX_118425	PfGB4_140047400	Plasmodium falciparum GB4	serine/threonine protein kinase, putative	yes	
+PVX_118425	PfGN01_140046600	Plasmodium falciparum GN01	serine/threonine protein kinase, putative	yes	
+PVX_118425	PfHB3_140047000	Plasmodium falciparum HB3	serine/threonine protein kinase, putative	yes	
+PVX_118425	PfIT_140047700	Plasmodium falciparum IT	serine/threonine protein kinase, putative	yes	
+PVX_118425	PfKE01_140046200	Plasmodium falciparum KE01	serine/threonine protein kinase, putative	yes	
+PVX_118425	PfKH01_140046800	Plasmodium falciparum KH01	serine/threonine protein kinase, putative	yes	
+PVX_118425	PfKH02_140047000	Plasmodium falciparum KH02	serine/threonine protein kinase, putative	yes	
+PVX_118425	PfSD01_140044600	Plasmodium falciparum SD01	serine/threonine protein kinase, putative	yes	
+PVX_118425	PfSN01_140048500	Plasmodium falciparum SN01	serine/threonine protein kinase, putative	yes	
+PVX_118425	PfTG01_140046600	Plasmodium falciparum TG01	serine/threonine protein kinase, putative	yes	
+PVX_118425	PmUG01_12075700	Plasmodium malariae UG01	serine/threonine protein kinase, putative	yes	
+PVX_118425	YYE_00057	Plasmodium vinckei vinckei strain vinckei	CAMK/CAMKL protein kinase	yes	
+PVX_118425	YYG_03344	Plasmodium vinckei petteri strain CR	CAMK/CAMKL protein kinase	yes	
+PVX_118425	PVX_087765	Plasmodium vivax Sal-1	calcium-dependent protein kinase 3, putative	no	
+PVX_118425	PmUG01_01016000	Plasmodium malariae UG01	serine/threonine protein kinase, putative	no	
+PVX_118425	PocGH01_12073500	Plasmodium ovale curtisi GH01	serine/threonine protein kinase, putative	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0004672	null	protein kinase activity	interpro2go	IEA	null	null	MGO:0004672	PVX_118425.1	
+Molecular Function	GO:0004674	null	protein serine/threonine kinase activity	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0004674	PVX_118425.1	
+Molecular Function	GO:0004674	null	protein serine/threonine kinase activity	gouniprot	IEA	null	null	MGO:0004674	PVX_118425.1	
+Molecular Function	GO:0004713	null	protein tyrosine kinase activity	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0004713	PVX_118425.1	
+Molecular Function	GO:0005524	null	ATP binding	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0005524	PVX_118425.1	
+Molecular Function	GO:0005524	null	ATP binding	gouniprot	IEA	null	null	MGO:0005524	PVX_118425.1	
+Biological Process	GO:0006468	null	protein phosphorylation	GeneDB_Pvivax	IEA	GO_REF:0000001	null	BGO:0006468	PVX_118425.1	
+Biological Process	GO:0006468	null	protein phosphorylation	interpro2go	IEA	null	null	BGO:0006468	PVX_118425.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr12	plasmodb	2694648 - 2702759 (-)	pvivSal1	2694648	2702759	-	2689648	2707759	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_118425.1	9.44	273810	no	no	plasmodb	pvivSal1	2443	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_118425.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_118425.1;genepage=1	PVX_118425.1-p1%3A1..2443	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_118425.1-p1%3A1..2443&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_118425.1-p1%3A1..2443&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

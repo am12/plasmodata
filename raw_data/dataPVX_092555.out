@@ -1,0 +1,86 @@
+Gene ID: PVX_092555
+Chromosome: 9
+Product Description: WD domain, G-beta repeat domain containing protein
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GXZ5	alternate ID	
+A0A1G4HD95	alternate ID	
+A0A564ZV92	alternate ID	
+Pv092555	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_092555	AK88_00128	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_092555	C922_02388	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_092555	HEP_00170500	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	WD repeat-containing protein, putative	yes	
+PVX_092555	PADL01_1137000	Plasmodium adleri G01	conserved Plasmodium protein, unknown function	yes	
+PVX_092555	PBANKA_0909900	Plasmodium berghei ANKA	WD repeat-containing protein, putative	yes	
+PVX_092555	PBILCG01_1133200	Plasmodium billcollinsi G01	conserved Plasmodium protein, unknown function	yes	
+PVX_092555	PBLACG01_1137100	Plasmodium blacklocki G01	conserved Plasmodium protein, unknown function	yes	
+PVX_092555	PCHAS_0711200	Plasmodium chabaudi chabaudi	WD repeat-containing protein, putative	yes	
+PVX_092555	PCOAH_00027270	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVX_092555	PCYB_094470	Plasmodium cynomolgi strain B	WD domain G-beta repeat domain containing protein	yes	
+PVX_092555	PF3D7_1138800	Plasmodium falciparum 3D7	WD repeat-containing protein, putative	yes	
+PVX_092555	PGABG01_1136700	Plasmodium gaboni strain G01	conserved Plasmodium protein, unknown function	yes	
+PVX_092555	PGSY75_1138800	Plasmodium gaboni strain SY75	hypothetical protein	yes	
+PVX_092555	PKA1H_090042700	Plasmodium knowlesi strain A1H1	WD repeat-containing protein, putative	yes	
+PVX_092555	PKNH_0937000	Plasmodium knowlesi strain H	WD repeat-containing protein, putative	yes	
+PVX_092555	PKNOH_S120155700	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	yes	
+PVX_092555	PPRFG01_1139500	Plasmodium praefalciparum strain G01	conserved Plasmodium protein, unknown function, putative	yes	
+PVX_092555	PRCDC_1137200	Plasmodium reichenowi CDC	WD repeat-containing protein, putative	yes	
+PVX_092555	PRELSG_0936500	Plasmodium relictum SGS1-like	WD repeat-containing protein, putative	yes	
+PVX_092555	PRG01_1136100	Plasmodium reichenowi G01	conserved Plasmodium protein, unknown function	yes	
+PVX_092555	PVBDA_0903770	Plasmodium vinckei brucechwatti DA	WD_REPEATS_REGION domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S675]	yes	
+PVX_092555	PVLDE_0903870	Plasmodium vinckei lentum DE	WD_REPEATS_REGION domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S538]	yes	
+PVX_092555	PVL_000060800	Plasmodium vivax-like Pvl01	WD repeat-containing protein, putative	yes	
+PVX_092555	PVP01_0939800	Plasmodium vivax P01	WD repeat-containing protein, putative	yes	
+PVX_092555	PVPCR_0903810	Plasmodium vinckei petteri CR 2020	WD_REPEATS_REGION domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SZF5]	yes	
+PVX_092555	PVSEL_0903800	Plasmodium vinckei Cameroon EL	WD_REPEATS_REGION domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SYV7]	yes	
+PVX_092555	PVVCY_0903750	Plasmodium vinckei vinckei CY	WD_REPEATS_REGION domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A449BSY8]	yes	
+PVX_092555	PY07201	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVX_092555	PY07202	Plasmodium yoelii yoelii 17XNL	PCAF associated factor 65 beta	yes	
+PVX_092555	PY07203	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVX_092555	PY17X_0911300	Plasmodium yoelii yoelii 17X	WD repeat-containing protein, putative	yes	
+PVX_092555	PYYM_0910800	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	yes	
+PVX_092555	PcyM_0943900	Plasmodium cynomolgi strain M	WD repeat-containing protein, putative	yes	
+PVX_092555	Pf7G8_110042600	Plasmodium falciparum 7G8	WD repeat-containing protein, putative	yes	
+PVX_092555	PfCD01_110044200	Plasmodium falciparum CD01	WD repeat-containing protein, putative	yes	
+PVX_092555	PfDd2_110042000	Plasmodium falciparum Dd2	WD repeat-containing protein, putative	yes	
+PVX_092555	PfGA01_110043000	Plasmodium falciparum GA01	WD repeat-containing protein, putative	yes	
+PVX_092555	PfGB4_110045300	Plasmodium falciparum GB4	WD repeat-containing protein, putative	yes	
+PVX_092555	PfGN01_110043300	Plasmodium falciparum GN01	WD repeat-containing protein, putative	yes	
+PVX_092555	PfHB3_110042200	Plasmodium falciparum HB3	WD repeat-containing protein, putative	yes	
+PVX_092555	PfIT_110043300	Plasmodium falciparum IT	WD repeat-containing protein, putative	yes	
+PVX_092555	PfKE01_110043300	Plasmodium falciparum KE01	WD repeat-containing protein, putative	yes	
+PVX_092555	PfKH01_110043100	Plasmodium falciparum KH01	WD repeat-containing protein, putative	yes	
+PVX_092555	PfKH02_110044000	Plasmodium falciparum KH02	WD repeat-containing protein, putative	yes	
+PVX_092555	PfML01_110043600	Plasmodium falciparum ML01	WD repeat-containing protein, putative	yes	
+PVX_092555	PfSD01_110041400	Plasmodium falciparum SD01	WD repeat-containing protein, putative	yes	
+PVX_092555	PfSN01_110041900	Plasmodium falciparum SN01	WD repeat-containing protein, putative	yes	
+PVX_092555	PfTG01_110043200	Plasmodium falciparum TG01	WD repeat-containing protein, putative	yes	
+PVX_092555	PocGH01_09045300	Plasmodium ovale curtisi GH01	WD repeat-containing protein, putative	yes	
+PVX_092555	YYE_03058	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVX_092555	YYG_02011	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+PVX_092555	PVX_238290	Plasmodium vivax Sal-1	unspecified product	no	
+PVX_092555	PVX_246295	Plasmodium vivax Sal-1	unspecified product	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0005515	null	protein binding	interpro2go	IEA	null	null	MGO:0005515	PVX_092555.1	
+Cellular Component	GO:0016020	null	membrane	GeneDB_Pvivax	IEA	GO_REF:0000001	null	CGO:0016020	PVX_092555.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr09	plasmodb	1488556 - 1495196 (-)	pvivSal1	1488556	1495196	-	1483556	1500196	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_092555.1	9.52	207050	no	no	plasmodb	pvivSal1	1875	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_092555.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_092555.1;genepage=1	PVX_092555.1-p1%3A1..1875	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_092555.1-p1%3A1..1875&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_092555.1-p1%3A1..1875&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

@@ -1,0 +1,54 @@
+Gene ID: PVX_079710
+Chromosome: 10
+Product Description: hypothetical protein, conserved
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GYD8	alternate ID	
+A0A1G4HDP6	alternate ID	
+A0A564ZXU4	alternate ID	
+A5K951	alternate ID	
+EDL43923.1	alternate ID	
+UPI000153E8C4	alternate ID	
+XP_001613650.1	alternate ID	
+Pv079710	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_079710	AK88_04659	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_079710	C922_01453	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_079710	PBANKA_1245500	Plasmodium berghei ANKA	conserved Plasmodium protein, unknown function	yes	
+PVX_079710	PCOAH_00028470	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVX_079710	PKA1H_100006600	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	yes	
+PVX_079710	PKNH_1001600	Plasmodium knowlesi strain H	conserved Plasmodium protein, unknown function	yes	
+PVX_079710	PKNOH_S07439100	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	yes	
+PVX_079710	PRELSG_1000400	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	yes	
+PVX_079710	PVL_100005300	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	yes	
+PVX_079710	PVP01_1002700	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	yes	
+PVX_079710	PVPCR_1204680	Plasmodium vinckei petteri CR 2020	unspecified product	yes	
+PVX_079710	PVSEL_1204350	Plasmodium vinckei Cameroon EL	unspecified product	yes	
+PVX_079710	PVVCY_1204650	Plasmodium vinckei vinckei CY	unspecified product	yes	
+PVX_079710	PY02969	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVX_079710	PY17X_1249000	Plasmodium yoelii yoelii 17X	conserved Plasmodium protein, unknown function	yes	
+PVX_079710	PYYM_1248200	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	yes	
+PVX_079710	PmUG01_10013400	Plasmodium malariae UG01	conserved Plasmodium protein, unknown function	yes	
+PVX_079710	YYE_01798	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVX_079710	YYG_02119	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr10	plasmodb	26276 - 34081 (+)	pvivSal1	26276	34081	+	21276	39081	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_079710.1	8.77	301182	no	no	plasmodb	pvivSal1	2601	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_079710.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_079710.1;genepage=1	PVX_079710.1-p1%3A1..2601	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_079710.1-p1%3A1..2601&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_079710.1-p1%3A1..2601&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

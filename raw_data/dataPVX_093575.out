@@ -1,0 +1,91 @@
+Gene ID: PVX_093575
+Chromosome: 1
+Product Description: DNA repair protein RAD54, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GR17	alternate ID	
+A0A1G4H6H8	alternate ID	
+A0A564ZNC1	alternate ID	
+A5KCI2	alternate ID	
+EDL42923.1	alternate ID	
+UPI000153F9E7	alternate ID	
+XP_001608585.1	alternate ID	
+Pv093575	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_093575	AK88_05086	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_093575	C922_02894	Plasmodium inui San Antonio 1	DNA repair and recombination protein RAD54 and RAD54-like protein	yes	
+PVX_093575	HEP_00157400	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PADL01_0802800	Plasmodium adleri G01	DNA repair protein RAD54, putative	yes	
+PVX_093575	PBANKA_1226800	Plasmodium berghei ANKA	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PBILCG01_0804100	Plasmodium billcollinsi G01	DNA repair protein RAD54, putative	yes	
+PVX_093575	PBLACG01_0803600	Plasmodium blacklocki G01	DNA repair protein RAD54, putative	yes	
+PVX_093575	PCHAS_1227400	Plasmodium chabaudi chabaudi	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PCOAH_00001930	Plasmodium coatneyi Hackeri	DNA repair protein rad54	yes	
+PVX_093575	PCYB_012360	Plasmodium cynomolgi strain B	DNA repair protein rhp54	yes	
+PVX_093575	PF3D7_0803400	Plasmodium falciparum 3D7	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PGABG01_0803500	Plasmodium gaboni strain G01	DNA repair protein RAD54, putative	yes	
+PVX_093575	PGAL8A_00079600	Plasmodium gallinaceum 8A	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PGSY75_0803400	Plasmodium gaboni strain SY75	putative DNA repair protein RAD54	yes	
+PVX_093575	PKA1H_010020300	Plasmodium knowlesi strain A1H1	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PKNH_0115500	Plasmodium knowlesi strain H	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PKNOH_S01023900	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative DNA repair protein RAD54	yes	
+PVX_093575	PPRFG01_0804400	Plasmodium praefalciparum strain G01	DNA repair protein RAD54, putative	yes	
+PVX_093575	PRCDC_0803000	Plasmodium reichenowi CDC	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PRELSG_0114500	Plasmodium relictum SGS1-like	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PRG01_0805200	Plasmodium reichenowi G01	DNA repair protein RAD54, putative	yes	
+PVX_093575	PVBDA_1202900	Plasmodium vinckei brucechwatti DA	DNA repair and recombination protein RAD54, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SI85]	yes	
+PVX_093575	PVLDE_1202890	Plasmodium vinckei lentum DE	DNA repair and recombination protein RAD54, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SJB5]	yes	
+PVX_093575	PVL_000203400	Plasmodium vivax-like Pvl01	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PVP01_0116800	Plasmodium vivax P01	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PVPCR_1202800	Plasmodium vinckei petteri CR 2020	DNA repair and recombination protein RAD54 and RAD54-like protein [Source:UniProtKB/TrEMBL;Acc:W7B3E1]	yes	
+PVX_093575	PVSEL_1202470	Plasmodium vinckei Cameroon EL	DNA repair and recombination protein RAD54, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7T9Z2]	yes	
+PVX_093575	PVVCY_1202780	Plasmodium vinckei vinckei CY	DNA repair and recombination protein RAD54, putative [Source:UniProtKB/TrEMBL;Acc:A0A449BX07]	yes	
+PVX_093575	PY00810	Plasmodium yoelii yoelii 17XNL	DNA repair protein RAD54-like-related	yes	
+PVX_093575	PY17X_1230300	Plasmodium yoelii yoelii 17X	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PYYM_1229500	Plasmodium yoelii yoelii YM	DNA repair protein RAD54, putative	yes	
+PVX_093575	PcyM_0119200	Plasmodium cynomolgi strain M	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	Pf7G8_080008700	Plasmodium falciparum 7G8	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PfCD01_080008600	Plasmodium falciparum CD01	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PfDd2_080008800	Plasmodium falciparum Dd2	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PfGA01_080007200	Plasmodium falciparum GA01	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PfGB4_080008200	Plasmodium falciparum GB4	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PfGN01_080009300	Plasmodium falciparum GN01	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PfHB3_080008500	Plasmodium falciparum HB3	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PfIT_080008700	Plasmodium falciparum IT	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PfKE01_080009200	Plasmodium falciparum KE01	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PfKH01_080007800	Plasmodium falciparum KH01	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PfKH02_080009000	Plasmodium falciparum KH02	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PfML01_080009300	Plasmodium falciparum ML01	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PfSD01_080009000	Plasmodium falciparum SD01	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PfSN01_080007700	Plasmodium falciparum SN01	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PfTG01_080009000	Plasmodium falciparum TG01	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PmUG01_01028500	Plasmodium malariae UG01	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	PocGH01_01024500	Plasmodium ovale curtisi GH01	DNA repair and recombination protein RAD54, putative	yes	
+PVX_093575	YYE_01608	Plasmodium vinckei vinckei strain vinckei	DNA repair and recombination protein RAD54 and RAD54-like protein	yes	
+PVX_093575	YYG_02307	Plasmodium vinckei petteri strain CR	DNA repair and recombination protein RAD54 and RAD54-like protein	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Biological Process	GO:0000724	null	double-strand break repair via homologous recombination	GeneDB_Pvivax	IEA	GO_REF:0000001	null	BGO:0000724	PVX_093575.1	
+Molecular Function	GO:0003684	null	damaged DNA binding	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0003684	PVX_093575.1	
+Molecular Function	GO:0004386	null	helicase activity	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0004386	PVX_093575.1	
+Molecular Function	GO:0005524	null	ATP binding	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0005524	PVX_093575.1	
+Molecular Function	GO:0005524	null	ATP binding	gouniprot	IEA	null	null	MGO:0005524	PVX_093575.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr01	plasmodb	653698 - 656892 (-)	pvivSal1	653698	656892	-	648698	661892	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_093575.1	4.9	122486	no	no	plasmodb	pvivSal1	1064	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_093575.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_093575.1;genepage=1	PVX_093575.1-p1%3A1..1064	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_093575.1-p1%3A1..1064&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_093575.1-p1%3A1..1064&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

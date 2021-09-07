@@ -1,0 +1,84 @@
+Gene ID: PVP01_0718200
+Chromosome: 7
+Product Description: TLD domain-containing protein
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GVA2	alternate ID	
+A0A1G4HAL5	alternate ID	
+A0A564ZUK9	alternate ID	
+UPI000909B401	alternate ID	
+VUZ94813.1	alternate ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_0718200	AK88_01685	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVP01_0718200	C922_01632	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVP01_0718200	HEP_00029100	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	TLD domain-containing protein	yes	
+PVP01_0718200	PADL01_0918800	Plasmodium adleri G01	TLD domain-containing protein	yes	
+PVP01_0718200	PBANKA_0820700	Plasmodium berghei ANKA	TLD domain-containing protein	yes	
+PVP01_0718200	PBILCG01_0923200	Plasmodium billcollinsi G01	TLD domain-containing protein	yes	
+PVP01_0718200	PBLACG01_0919400	Plasmodium blacklocki G01	TLD domain-containing protein	yes	
+PVP01_0718200	PCHAS_0821000	Plasmodium chabaudi chabaudi	TLD domain-containing protein	yes	
+PVP01_0718200	PCOAH_00017210	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVP01_0718200	PCYB_072730	Plasmodium cynomolgi strain B	TLD domain-containing protein	yes	
+PVP01_0718200	PF3D7_0919800	Plasmodium falciparum 3D7	TLD domain-containing protein	yes	
+PVP01_0718200	PGABG01_0917200	Plasmodium gaboni strain G01	TLD domain-containing protein	yes	
+PVP01_0718200	PGAL8A_00432600	Plasmodium gallinaceum 8A	TLD domain-containing protein	yes	
+PVP01_0718200	PGSY75_0919800	Plasmodium gaboni strain SY75	TLD domain-containing protein	yes	
+PVP01_0718200	PKA1H_070022900	Plasmodium knowlesi strain A1H1	TLD domain-containing protein	yes	
+PVP01_0718200	PKNH_0717800	Plasmodium knowlesi strain H	TLD domain-containing protein	yes	
+PVP01_0718200	PKNOH_S06419500	Plasmodium knowlesi strain Malayan Strain Pk1 A	TLD domain-containing protein	yes	
+PVP01_0718200	PPRFG01_0918600	Plasmodium praefalciparum strain G01	TLD domain-containing protein	yes	
+PVP01_0718200	PRCDC_0917800	Plasmodium reichenowi CDC	TLD domain-containing protein	yes	
+PVP01_0718200	PRELSG_0717300	Plasmodium relictum SGS1-like	TLD domain-containing protein	yes	
+PVP01_0718200	PRG01_0927200	Plasmodium reichenowi G01	TLD domain-containing protein	yes	
+PVP01_0718200	PVBDA_0802030	Plasmodium vinckei brucechwatti DA	TLDc domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S3X5]	yes	
+PVP01_0718200	PVLDE_0802040	Plasmodium vinckei lentum DE	TLDc domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S1V2]	yes	
+PVP01_0718200	PVL_000059800	Plasmodium vivax-like Pvl01	TLD domain-containing protein	yes	
+PVP01_0718200	PVPCR_0802010	Plasmodium vinckei petteri CR 2020	TLDc domain-containing protein [Source:UniProtKB/TrEMBL;Acc:W7AJT0]	yes	
+PVP01_0718200	PVSEL_0802150	Plasmodium vinckei Cameroon EL	TLDc domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7STT2]	yes	
+PVP01_0718200	PVVCY_0801810	Plasmodium vinckei vinckei CY	TLDc domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A449BRD1]	yes	
+PVP01_0718200	PVX_099405	Plasmodium vivax Sal-1	TLD domain-containing protein	yes	
+PVP01_0718200	PY05378	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVP01_0718200	PY17X_0824000	Plasmodium yoelii yoelii 17X	TLD domain-containing protein	yes	
+PVP01_0718200	PYYM_0823700	Plasmodium yoelii yoelii YM	TLD domain-containing protein	yes	
+PVP01_0718200	PcyM_0718200	Plasmodium cynomolgi strain M	TLD domain-containing protein	yes	
+PVP01_0718200	Pf7G8_090024600	Plasmodium falciparum 7G8	TLD domain-containing protein	yes	
+PVP01_0718200	PfCD01_090024100	Plasmodium falciparum CD01	TLD domain-containing protein	yes	
+PVP01_0718200	PfDd2_090024800	Plasmodium falciparum Dd2	TLD domain-containing protein	yes	
+PVP01_0718200	PfGA01_090024000	Plasmodium falciparum GA01	TLD domain-containing protein	yes	
+PVP01_0718200	PfGN01_090024600	Plasmodium falciparum GN01	TLD domain-containing protein	yes	
+PVP01_0718200	PfHB3_090024400	Plasmodium falciparum HB3	TLD domain-containing protein	yes	
+PVP01_0718200	PfIT_090024300	Plasmodium falciparum IT	TLD domain-containing protein	yes	
+PVP01_0718200	PfKE01_090024100	Plasmodium falciparum KE01	TLD domain-containing protein	yes	
+PVP01_0718200	PfKH01_090024000	Plasmodium falciparum KH01	TLD domain-containing protein	yes	
+PVP01_0718200	PfKH02_090024500	Plasmodium falciparum KH02	TLD domain-containing protein	yes	
+PVP01_0718200	PfML01_090024200	Plasmodium falciparum ML01	TLD domain-containing protein	yes	
+PVP01_0718200	PfSD01_090024700	Plasmodium falciparum SD01	TLD domain-containing protein	yes	
+PVP01_0718200	PfSN01_090024300	Plasmodium falciparum SN01	TLD domain-containing protein	yes	
+PVP01_0718200	PfTG01_090024100	Plasmodium falciparum TG01	TLD domain-containing protein	yes	
+PVP01_0718200	PmUG01_07031300	Plasmodium malariae UG01	TLD domain-containing protein	yes	
+PVP01_0718200	PocGH01_07027200	Plasmodium ovale curtisi GH01	TLD domain-containing protein	yes	
+PVP01_0718200	YYE_03333	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVP01_0718200	YYG_02736	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+PVP01_0718200	PBILCG01_0003500	Plasmodium billcollinsi G01	TLD domain-containing protein	no	
+PVP01_0718200	PfGB4_090024700	Plasmodium falciparum GB4	TLD domain-containing protein	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_07_v2	plasmodb	797947 - 804122 (-)	pvivP01	797947	804122	-	792947	809122	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_0718200.1	5.88	107119	no	no	plasmodb	pvivP01	960	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_0718200.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_0718200.1;genepage=1	PVP01_0718200.1-p1%3A1..960	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_0718200.1-p1%3A1..960&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_0718200.1-p1%3A1..960&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

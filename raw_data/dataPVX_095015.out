@@ -1,0 +1,100 @@
+Gene ID: PVX_095015
+Chromosome: 8
+Product Description: enolase, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+00010+4.2.1.11	alternate ID	
+00680+4.2.1.11	alternate ID	
+A0A1G4GWA8	alternate ID	
+A5K7I5	alternate ID	
+D7RBE8	alternate ID	
+D7RBG2	alternate ID	
+D7RBJ0	alternate ID	
+D7RBJ5	alternate ID	
+D7RBM5	alternate ID	
+D7RBP7	alternate ID	
+EDL44744.1	alternate ID	
+UPI000153EAF4	alternate ID	
+XP_001614471.1	alternate ID	
+Pv095015	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_095015	AK88_04138	Plasmodium fragile strain nilgiri	enolase	yes	
+PVX_095015	C922_02112	Plasmodium inui San Antonio 1	enolase	yes	
+PVX_095015	HEP_00199500	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	enolase, putative	yes	
+PVX_095015	PADL01_1014300	Plasmodium adleri G01	enolase	yes	
+PVX_095015	PBANKA_1214300	Plasmodium berghei ANKA	enolase, putative	yes	
+PVX_095015	PBILCG01_1015200	Plasmodium billcollinsi G01	enolase	yes	
+PVX_095015	PBLACG01_1014300	Plasmodium blacklocki G01	enolase	yes	
+PVX_095015	PCHAS_1215000	Plasmodium chabaudi chabaudi	enolase, putative	yes	
+PVX_095015	PCOAH_00021850	Plasmodium coatneyi Hackeri	Enolase	yes	
+PVX_095015	PCYB_082570	Plasmodium cynomolgi strain B	enolase	yes	
+PVX_095015	PF3D7_1015900	Plasmodium falciparum 3D7	enolase	yes	
+PVX_095015	PGABG01_1013800	Plasmodium gaboni strain G01	enolase	yes	
+PVX_095015	PGAL8A_00392100	Plasmodium gallinaceum 8A	enolase, putative	yes	
+PVX_095015	PGSY75_1015900	Plasmodium gaboni strain SY75	enolase	yes	
+PVX_095015	PKNH_0816200	Plasmodium knowlesi strain H	enolase, putative	yes	
+PVX_095015	PKNOH_S100044200	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Enolase (2-phosphoglycerate dehydratase)	yes	
+PVX_095015	PPRFG01_1017000	Plasmodium praefalciparum strain G01	enolase	yes	
+PVX_095015	PRCDC_1015300	Plasmodium reichenowi CDC	enolase, putative	yes	
+PVX_095015	PRELSG_0813800	Plasmodium relictum SGS1-like	enolase, putative	yes	
+PVX_095015	PRG01_1014400	Plasmodium reichenowi G01	enolase	yes	
+PVX_095015	PVBDA_1201650	Plasmodium vinckei brucechwatti DA	Phosphopyruvate hydratase [Source:UniProtKB/TrEMBL;Acc:A0A6V7SHT4]	yes	
+PVX_095015	PVLDE_1201660	Plasmodium vinckei lentum DE	Phosphopyruvate hydratase [Source:UniProtKB/TrEMBL;Acc:A0A6V7SGT4]	yes	
+PVX_095015	PVL_000040800	Plasmodium vivax-like Pvl01	enolase, putative	yes	
+PVX_095015	PVP01_0816000	Plasmodium vivax P01	enolase, putative	yes	
+PVX_095015	PVPCR_1201530	Plasmodium vinckei petteri CR 2020	Phosphopyruvate hydratase [Source:UniProtKB/TrEMBL;Acc:W7AVG5]	yes	
+PVX_095015	PVSEL_1201610	Plasmodium vinckei Cameroon EL	Phosphopyruvate hydratase [Source:UniProtKB/TrEMBL;Acc:A0A6V7T7R5]	yes	
+PVX_095015	PVVCY_1201510	Plasmodium vinckei vinckei CY	Phosphopyruvate hydratase [Source:UniProtKB/TrEMBL;Acc:A0A449BWK5]	yes	
+PVX_095015	PY06644	Plasmodium yoelii yoelii 17XNL	enolase	yes	
+PVX_095015	PY17X_1217500	Plasmodium yoelii yoelii 17X	enolase	yes	
+PVX_095015	PYYM_1216900	Plasmodium yoelii yoelii YM	enolase, putative	yes	
+PVX_095015	PcyM_0816700	Plasmodium cynomolgi strain M	enolase, putative	yes	
+PVX_095015	Pf7G8_100020300	Plasmodium falciparum 7G8	enolase	yes	
+PVX_095015	PfCD01_100021100	Plasmodium falciparum CD01	enolase	yes	
+PVX_095015	PfDd2_100021300	Plasmodium falciparum Dd2	enolase	yes	
+PVX_095015	PfGA01_100021200	Plasmodium falciparum GA01	enolase	yes	
+PVX_095015	PfGB4_100020900	Plasmodium falciparum GB4	enolase	yes	
+PVX_095015	PfGN01_100021500	Plasmodium falciparum GN01	enolase	yes	
+PVX_095015	PfHB3_100020300	Plasmodium falciparum HB3	enolase	yes	
+PVX_095015	PfIT_100019900	Plasmodium falciparum IT	enolase	yes	
+PVX_095015	PfKE01_100021200	Plasmodium falciparum KE01	enolase	yes	
+PVX_095015	PfKH01_100020500	Plasmodium falciparum KH01	enolase	yes	
+PVX_095015	PfKH02_100021400	Plasmodium falciparum KH02	enolase	yes	
+PVX_095015	PfML01_100020200	Plasmodium falciparum ML01	enolase	yes	
+PVX_095015	PfSD01_100020600	Plasmodium falciparum SD01	enolase	yes	
+PVX_095015	PfSN01_100021300	Plasmodium falciparum SN01	enolase	yes	
+PVX_095015	PfTG01_100021100	Plasmodium falciparum TG01	enolase	yes	
+PVX_095015	PmUG01_08031900	Plasmodium malariae UG01	enolase, putative	yes	
+PVX_095015	PocGH01_08024300	Plasmodium ovale curtisi GH01	enolase, putative	yes	
+PVX_095015	YYE_01485	Plasmodium vinckei vinckei strain vinckei	enolase	yes	
+PVX_095015	YYG_02435	Plasmodium vinckei petteri strain CR	enolase	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Cellular Component	GO:0000015	null	phosphopyruvate hydratase complex	GeneDB_Pvivax	IEA	GO_REF:0000001	null	CGO:0000015	PVX_095015.1	
+Cellular Component	GO:0000015	null	phosphopyruvate hydratase complex	gouniprot	IEA	null	null	CGO:0000015	PVX_095015.1	
+Molecular Function	GO:0000287	null	magnesium ion binding	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR020811	MGO:0000287	PVX_095015.1	
+Molecular Function	GO:0000287	null	magnesium ion binding	gouniprot	IEA	null	null	MGO:0000287	PVX_095015.1	
+Molecular Function	GO:0004634	null	phosphopyruvate hydratase activity	GeneDB_Pvivax	IEA	GO_REF:0000001	null	MGO:0004634	PVX_095015.1	
+Molecular Function	GO:0004634	null	phosphopyruvate hydratase activity	gouniprot	IEA	null	null	MGO:0004634	PVX_095015.1	
+Biological Process	GO:0006094	null	gluconeogenesis	GeneDB_Pvivax	IEA	GO_REF:0000001	null	BGO:0006094	PVX_095015.1	
+Biological Process	GO:0006096	null	glycolytic process	GeneDB_Pvivax	IEA	GO_REF:0000001	null	BGO:0006096	PVX_095015.1	
+Biological Process	GO:0006096	null	glycolytic process	gouniprot	IEA	null	null	BGO:0006096	PVX_095015.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr08	plasmodb	734310 - 736549 (+)	pvivSal1	734310	736549	+	729310	741549	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_095015.1	6.51	48817	no	no	plasmodb	pvivSal1	446	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_095015.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_095015.1;genepage=1	PVX_095015.1-p1%3A1..446	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_095015.1-p1%3A1..446&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_095015.1-p1%3A1..446&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

@@ -1,0 +1,45 @@
+Gene ID: PVX_097575
+Chromosome: 10
+Product Description: tryptophan-rich antigen (Pv-fam-a)
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A0B4L1K7	alternate ID	
+A0A0B4L2X0	alternate ID	
+A0A1G4HEK9	alternate ID	
+A0A564ZWH2	alternate ID	
+A5KAS9	alternate ID	
+B4Y0V2	alternate ID	
+D2YW51	alternate ID	
+EDL43446.1	alternate ID	
+UPI000153F7DB	alternate ID	
+XP_001613173.1	alternate ID	
+Pv097575	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_097575	PKA1H_100037600	Plasmodium knowlesi strain A1H1	Plasmodium exported protein, unknown function	yes	
+PVX_097575	PKNH_1032600	Plasmodium knowlesi strain H	tryptophan-rich protein	yes	
+PVX_097575	PKNOH_S07470600	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	yes	
+PVX_097575	PVL_100028700	Plasmodium vivax-like Pvl01	tryptophan-rich antigen	yes	
+PVX_097575	PBANKA_1442200	Plasmodium berghei ANKA	protein SOC2	no	
+PVX_097575	PPRFG01_0915300	Plasmodium praefalciparum strain G01	conserved Plasmodium protein, unknown function	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+32	51	VSSCIYVILFLLTYVVLPLS	null	PVX_097575.1	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr10	plasmodb	1339589 - 1348572 (-)	pvivSal1	1339589	1348572	-	1334589	1353572	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_097575.1	5.6	309186	no	yes	plasmodb	pvivSal1	2662	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_097575.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_097575.1;genepage=1	PVX_097575.1-p1%3A1..2662	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_097575.1-p1%3A1..2662&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_097575.1-p1%3A1..2662&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

@@ -1,0 +1,73 @@
+Gene ID: PVX_122030
+Chromosome: 14
+Product Description: hypothetical protein, conserved
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4H4B5	alternate ID	
+A0A1G4HJJ1	alternate ID	
+A0A565A1G9	alternate ID	
+Pv122030	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_122030	AK88_00284	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_122030	C922_04623	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_122030	PADL01_1302600	Plasmodium adleri G01	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PBILCG01_1304100	Plasmodium billcollinsi G01	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PBLACG01_1301900	Plasmodium blacklocki G01	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PCHAS_1404200	Plasmodium chabaudi chabaudi	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PCOAH_00037600	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVX_122030	PCYB_141330	Plasmodium cynomolgi strain B	peptidase	yes	
+PVX_122030	PF3D7_1303800	Plasmodium falciparum 3D7	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PGABG01_1301800	Plasmodium gaboni strain G01	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PGSY75_1303800	Plasmodium gaboni strain SY75	hypothetical protein	yes	
+PVX_122030	PKA1H_140008900	Plasmodium knowlesi strain A1H1	peptidase, putative	yes	
+PVX_122030	PKNH_1404000	Plasmodium knowlesi strain H	peptidase, putative	yes	
+PVX_122030	PKNOH_S140221100	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Peptidase	yes	
+PVX_122030	PPRFG01_1305600	Plasmodium praefalciparum strain G01	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PRCDC_1302800	Plasmodium reichenowi CDC	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PRELSG_1401500	Plasmodium relictum SGS1-like	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PRG01_1305800	Plasmodium reichenowi G01	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PVBDA_1400440	Plasmodium vinckei brucechwatti DA	PI3K/PI4K domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SWJ0]	yes	
+PVX_122030	PVLDE_1400210	Plasmodium vinckei lentum DE	PI3K/PI4K domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7SWM7]	yes	
+PVX_122030	PVL_140009000	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PVP01_1404700	Plasmodium vivax P01	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PVPCR_1400520	Plasmodium vinckei petteri CR 2020	PI3K/PI4K domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7TDC0]	yes	
+PVX_122030	PVSEL_1400460	Plasmodium vinckei Cameroon EL	PI3K/PI4K domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7TD49]	yes	
+PVX_122030	PY01943	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVX_122030	PcyM_1405300	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PfHB3_130010000	Plasmodium falciparum HB3	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PfIT_130008900	Plasmodium falciparum IT	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PfKE01_130009300	Plasmodium falciparum KE01	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PfML01_130006600	Plasmodium falciparum ML01	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PfML01_130006700	Plasmodium falciparum ML01	hypothetical protein	yes	
+PVX_122030	PfTG01_130009400	Plasmodium falciparum TG01	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	PocGH01_14011800	Plasmodium ovale curtisi GH01	conserved Plasmodium protein, unknown function	yes	
+PVX_122030	YYG_00048	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+PVX_122030	HEP_00523700	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	conserved protein, unknown function	no	
+PVX_122030	PY00456	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVX_122030	PY03740	Plasmodium yoelii yoelii 17XNL	hypothetical protein	no	
+PVX_122030	PfSD01_130010400	Plasmodium falciparum SD01	conserved Plasmodium protein, unknown function	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Cellular Component	GO:0000123	null	histone acetyltransferase complex	interpro2go	IEA	null	null	CGO:0000123	PVX_122030.1	
+Cellular Component	GO:0005634	null	nucleus	interpro2go	IEA	null	null	CGO:0005634	PVX_122030.1	
+Biological Process	GO:0016573	null	histone acetylation	interpro2go	IEA	null	null	BGO:0016573	PVX_122030.1	
+Molecular Function	GO:0016772	null	transferase activity, transferring phosphorus-containing groups	GeneDB_Pvivax	IEA	GO_REF:0000001	InterPro:IPR011009	MGO:0016772	PVX_122030.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr14	plasmodb	202997 - 229693 (-)	pvivSal1	202997	229693	-	197997	234693	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_122030.1	9.78	1011337	no	no	plasmodb	pvivSal1	8898	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_122030.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_122030.1;genepage=1	PVX_122030.1-p1%3A1..8898	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_122030.1-p1%3A1..8898&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_122030.1-p1%3A1..8898&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

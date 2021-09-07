@@ -1,0 +1,41 @@
+Gene ID: PVP01_0908600
+Chromosome: 9
+Product Description: AP2 domain transcription factor, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GX57	alternate ID	
+A0A1G4HCG4	alternate ID	
+A0A564ZVS9	alternate ID	
+UPI0009098DE7	alternate ID	
+VUZ95742.1	alternate ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_0908600	PGAL8A_00009500	Plasmodium gallinaceum 8A	phd finger protein, putative	no	
+PVP01_0908600	PPRFG01_1136700	Plasmodium praefalciparum strain G01	conserved Plasmodium protein, unknown function	no	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0003677	null	DNA binding	gouniprot	IEA	null	null	MGO:0003677	PVP01_0908600.1	
+Molecular Function	GO:0003700	null	DNA-binding transcription factor activity	GeneDB	IEA	GO_REF:0000002	InterPro:IPR001471	MGO:0003700	PVP01_0908600.1	
+Molecular Function	GO:0003700	null	DNA-binding transcription factor activity	gouniprot	IEA	null	null	MGO:0003700	PVP01_0908600.1	
+Cellular Component	GO:0005634	null	nucleus	gouniprot	IEA	null	null	CGO:0005634	PVP01_0908600.1	
+Biological Process	GO:0006355	null	regulation of transcription, DNA-templated	GeneDB	IEA	GO_REF:0000002	InterPro:IPR001471	BGO:0006355	PVP01_0908600.1	
+Biological Process	GO:0006355	null	regulation of transcription, DNA-templated	interpro2go	IEA	null	null	BGO:0006355	PVP01_0908600.1	
+Molecular Function	GO:0043565	null	sequence-specific DNA binding	GeneDB	ISO	PMID:21060817	GeneDB:PF3D7_1107800	MGO:0043565	PVP01_0908600.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_09_v2	plasmodb	454299 - 462065 (-)	pvivP01	454299	462065	-	449299	467065	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_0908600.1	5.79	213272	no	no	plasmodb	pvivP01	2020	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_0908600.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_0908600.1;genepage=1	PVP01_0908600.1-p1%3A1..2020	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_0908600.1-p1%3A1..2020&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_0908600.1-p1%3A1..2020&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

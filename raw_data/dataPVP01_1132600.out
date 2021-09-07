@@ -1,0 +1,70 @@
+Gene ID: PVP01_1132600
+Chromosome: 11
+Product Description: TRAP-like protein, putative
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4H028	alternate ID	
+A0A1G4HFJ7	alternate ID	
+A0A564ZXJ1	alternate ID	
+UPI00090CD833	alternate ID	
+VUZ97072.1	alternate ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVP01_1132600	AK88_02191	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVP01_1132600	C922_00879	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVP01_1132600	PBILCG01_0616900	Plasmodium billcollinsi G01	TRAP-like protein	yes	
+PVP01_1132600	PBLACG01_0615700	Plasmodium blacklocki G01	TRAP-like protein	yes	
+PVP01_1132600	PCHAS_1115600	Plasmodium chabaudi chabaudi	TRAP-like protein, putative	yes	
+PVP01_1132600	PCOAH_00035140	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVP01_1132600	PCYB_114060	Plasmodium cynomolgi strain B	hypothetical protein	yes	
+PVP01_1132600	PF3D7_0616500	Plasmodium falciparum 3D7	TRAP-like protein	yes	
+PVP01_1132600	PKA1H_110039200	Plasmodium knowlesi strain A1H1	TRAP-like protein, putative	yes	
+PVP01_1132600	PKNH_1133500	Plasmodium knowlesi strain H	TRAP-like protein, putative	yes	
+PVP01_1132600	PKNOH_S130200000	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative TRAP-like protein	yes	
+PVP01_1132600	PPRFG01_0615300	Plasmodium praefalciparum strain G01	TRAP-like protein, putative	yes	
+PVP01_1132600	PRCDC_0615200	Plasmodium reichenowi CDC	TRAP-like protein, putative	yes	
+PVP01_1132600	PRG01_0616200	Plasmodium reichenowi G01	TRAP-like protein	yes	
+PVP01_1132600	PVVCY_1101690	Plasmodium vinckei vinckei CY	TRAP-like protein, putative [Source:UniProtKB/TrEMBL;Acc:A0A449BUY2]	yes	
+PVP01_1132600	PY01499	Plasmodium yoelii yoelii 17XNL	von Willebrand factor type A domain, putative	yes	
+PVP01_1132600	PY17X_1117200	Plasmodium yoelii yoelii 17X	TRAP-like protein	yes	
+PVP01_1132600	PYYM_1118100	Plasmodium yoelii yoelii YM	TRAP-like protein	yes	
+PVP01_1132600	PcyM_1134100	Plasmodium cynomolgi strain M	TRAP-like protein, putative	yes	
+PVP01_1132600	Pf7G8_060021500	Plasmodium falciparum 7G8	TRAP-like protein	yes	
+PVP01_1132600	PfCD01_060022000	Plasmodium falciparum CD01	TRAP-like protein	yes	
+PVP01_1132600	PfDd2_060021400	Plasmodium falciparum Dd2	TRAP-like protein	yes	
+PVP01_1132600	PfGA01_060021400	Plasmodium falciparum GA01	TRAP-like protein	yes	
+PVP01_1132600	PfGB4_060021100	Plasmodium falciparum GB4	TRAP-like protein	yes	
+PVP01_1132600	PfGN01_060022300	Plasmodium falciparum GN01	TRAP-like protein	yes	
+PVP01_1132600	PfHB3_060020800	Plasmodium falciparum HB3	TRAP-like protein	yes	
+PVP01_1132600	PfIT_060020400	Plasmodium falciparum IT	TRAP-like protein	yes	
+PVP01_1132600	PfKE01_060022700	Plasmodium falciparum KE01	TRAP-like protein	yes	
+PVP01_1132600	PfKH01_060023700	Plasmodium falciparum KH01	TRAP-like protein	yes	
+PVP01_1132600	PfML01_060020500	Plasmodium falciparum ML01	TRAP-like protein	yes	
+PVP01_1132600	PfSD01_060020500	Plasmodium falciparum SD01	TRAP-like protein	yes	
+PVP01_1132600	PfSN01_060021500	Plasmodium falciparum SN01	TRAP-like protein	yes	
+PVP01_1132600	PfTG01_060021900	Plasmodium falciparum TG01	TRAP-like protein	yes	
+PVP01_1132600	PocGH01_11040400	Plasmodium ovale curtisi GH01	TRAP-like protein, putative	yes	
+PVP01_1132600	YYE_02549	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+1450	1469	YSASFALITVILLGTAFLYI	null	PVP01_1132600.1	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Cellular Component	GO:0009986	null	cell surface	GeneDB	HDA	PMID:28759593	null	CGO:0009986	PVP01_1132600.1	
+Cellular Component	GO:0016021	null	integral component of membrane	gouniprot	IEA	null	null	CGO:0016021	PVP01_1132600.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	PvP01_11_v2	plasmodb	1394606 - 1399144 (-)	pvivP01	1394606	1399144	-	1389606	1404144	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVP01_1132600.1	4.73	166586	yes	yes	plasmodb	pvivP01	1512	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVP01_1132600.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVP01_1132600.1;genepage=1	PVP01_1132600.1-p1%3A1..1512	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivP01%2Faa&loc=PVP01_1132600.1-p1%3A1..1512&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVP01_1132600.1-p1%3A1..1512&data=/plasmo/service/jbrowse/tracks/pvivP01%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

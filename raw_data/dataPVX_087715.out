@@ -1,0 +1,83 @@
+Gene ID: PVX_087715
+Chromosome: 1
+Product Description: hypothetical protein, conserved
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4GQP9	alternate ID	
+A0A564ZN08	alternate ID	
+Pv087715	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_087715	AK88_00957	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_087715	C922_03028	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_087715	HEP_00040300	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	erythrocyte membrane-associated antigen, putative	yes	
+PVX_087715	PADL01_0702200	Plasmodium adleri G01	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PBANKA_0801200	Plasmodium berghei ANKA	erythrocyte membrane-associated antigen, putative	yes	
+PVX_087715	PBILCG01_0702700	Plasmodium billcollinsi G01	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PBLACG01_0702600	Plasmodium blacklocki G01	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PCHAS_0801500	Plasmodium chabaudi chabaudi	erythrocyte membrane-associated antigen, putative	yes	
+PVX_087715	PCOAH_00000250	Plasmodium coatneyi Hackeri	Erythrocyte membrane-associated antigen	yes	
+PVX_087715	PCYB_011090	Plasmodium cynomolgi strain B	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PF3D7_0703500	Plasmodium falciparum 3D7	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PGABG01_0702100	Plasmodium gaboni strain G01	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PGAL8A_00043600	Plasmodium gallinaceum 8A	erythrocyte membrane-associated antigen, putative	yes	
+PVX_087715	PGSY75_0703500	Plasmodium gaboni strain SY75	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PKA1H_010006500	Plasmodium knowlesi strain A1H1	erythrocyte membrane-associated antigen, putative	yes	
+PVX_087715	PKNH_0101700	Plasmodium knowlesi strain H	erythrocyte membrane-associated antigen, putative	yes	
+PVX_087715	PKNOH_S01010000	Plasmodium knowlesi strain Malayan Strain Pk1 A	putative Erythrocyte membrane-associated antigen	yes	
+PVX_087715	PPRFG01_0703000	Plasmodium praefalciparum strain G01	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PRCDC_0701700	Plasmodium reichenowi CDC	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PRELSG_0101000	Plasmodium relictum SGS1-like	erythrocyte membrane-associated antigen, putative	yes	
+PVX_087715	PRG01_0701700	Plasmodium reichenowi G01	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PVBDA_1000330	Plasmodium vinckei brucechwatti DA	Helicase ATP-binding domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S892]	yes	
+PVX_087715	PVLDE_1000290	Plasmodium vinckei lentum DE	Helicase ATP-binding domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7S5R4]	yes	
+PVX_087715	PVL_010006500	Plasmodium vivax-like Pvl01	erythrocyte membrane-associated antigen, putative	yes	
+PVX_087715	PVP01_0103700	Plasmodium vivax P01	erythrocyte membrane-associated antigen, putative	yes	
+PVX_087715	PVPCR_1000270	Plasmodium vinckei petteri CR 2020	Helicase ATP-binding domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7T0M8]	yes	
+PVX_087715	PVSEL_1000230	Plasmodium vinckei Cameroon EL	Helicase ATP-binding domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A6V7T0P4]	yes	
+PVX_087715	PVVCY_1000250	Plasmodium vinckei vinckei CY	Helicase ATP-binding domain-containing protein [Source:UniProtKB/TrEMBL;Acc:A0A449BT79]	yes	
+PVX_087715	PY00683	Plasmodium yoelii yoelii 17XNL	nam7 protein	yes	
+PVX_087715	PY17X_0803900	Plasmodium yoelii yoelii 17X	erythrocyte membrane-associated antigen, putative	yes	
+PVX_087715	PYYM_0803800	Plasmodium yoelii yoelii YM	erythrocyte membrane-associated antigen, putative	yes	
+PVX_087715	PcyM_0103800	Plasmodium cynomolgi strain M	erythrocyte membrane-associated antigen, putative	yes	
+PVX_087715	Pf7G8_070008900	Plasmodium falciparum 7G8	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PfCD01_070007400	Plasmodium falciparum CD01	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PfDd2_070007700	Plasmodium falciparum Dd2	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PfGA01_070006900	Plasmodium falciparum GA01	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PfGB4_070008700	Plasmodium falciparum GB4	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PfGN01_070008600	Plasmodium falciparum GN01	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PfHB3_070007500	Plasmodium falciparum HB3	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PfIT_070008400	Plasmodium falciparum IT	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PfKE01_070007100	Plasmodium falciparum KE01	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PfKH01_070007500	Plasmodium falciparum KH01	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PfKH02_070006800	Plasmodium falciparum KH02	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PfML01_070007900	Plasmodium falciparum ML01	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PfSD01_070007400	Plasmodium falciparum SD01	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PfSN01_070008300	Plasmodium falciparum SN01	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PfTG01_070008500	Plasmodium falciparum TG01	erythrocyte membrane-associated antigen	yes	
+PVX_087715	PmUG01_01015000	Plasmodium malariae UG01	erythrocyte membrane-associated antigen, putative	yes	
+PVX_087715	PocGH01_01011300	Plasmodium ovale curtisi GH01	erythrocyte membrane-associated antigen, putative	yes	
+PVX_087715	YYE_01811	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVX_087715	YYG_01129	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0004386	null	helicase activity	interpro2go	IEA	null	null	MGO:0004386	PVX_087715.1	
+Cellular Component	GO:0016020	null	membrane	GeneDB_Pvivax	IEA	GO_REF:0000001	null	CGO:0016020	PVX_087715.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr01	plasmodb	56108 - 63097 (+)	pvivSal1	56108	63097	+	51108	68097	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_087715.1	9.34	257101	no	no	plasmodb	pvivSal1	2329	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_087715.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_087715.1;genepage=1	PVX_087715.1-p1%3A1..2329	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_087715.1-p1%3A1..2329&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_087715.1-p1%3A1..2329&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+

@@ -1,0 +1,140 @@
+Gene ID: PVX_121965
+Chromosome: 14
+Product Description: hypothetical protein, conserved
+
+Table: Names, Previous Identifiers, and Aliases
+[Name/ID/Alias]	[Type]	
+A0A1G4H425	alternate ID	
+A0A1G4HJL5	alternate ID	
+A0A565A2B2	alternate ID	
+Pv121965	previous ID	
+Table: Orthologs and Paralogs within VEuPathDB
+[Gene ID]	[Ortholog]	[Organism]	[Product]	[is syntenic]	
+PVX_121965	AK88_00296	Plasmodium fragile strain nilgiri	hypothetical protein	yes	
+PVX_121965	C922_04609	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_121965	C922_04610	Plasmodium inui San Antonio 1	hypothetical protein	yes	
+PVX_121965	HEP_00374100	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	conserved protein, unknown function	yes	
+PVX_121965	PADL01_1301300	Plasmodium adleri G01	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PBANKA_1401000	Plasmodium berghei ANKA	AAA domain-containing protein, putative	yes	
+PVX_121965	PBILCG01_1302800	Plasmodium billcollinsi G01	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PBLACG01_1300500	Plasmodium blacklocki G01	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PCHAS_1402900	Plasmodium chabaudi chabaudi	AAA domain-containing protein, putative	yes	
+PVX_121965	PCOAH_00037470	Plasmodium coatneyi Hackeri	Uncharacterized protein	yes	
+PVX_121965	PCYB_141200	Plasmodium cynomolgi strain B	hypothetical protein	yes	
+PVX_121965	PF3D7_1302500	Plasmodium falciparum 3D7	AAA domain-containing protein, putative	yes	
+PVX_121965	PGABG01_1300500	Plasmodium gaboni strain G01	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PGAL8A_00498500	Plasmodium gallinaceum 8A	AAA domain-containing protein, putative	yes	
+PVX_121965	PGSY75_1302500	Plasmodium gaboni strain SY75	hypothetical protein	yes	
+PVX_121965	PKA1H_140007600	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PKNH_1402700	Plasmodium knowlesi strain H	AAA domain-containing protein, putative	yes	
+PVX_121965	PKNOH_S140219800	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	yes	
+PVX_121965	PPRFG01_1304300	Plasmodium praefalciparum strain G01	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PRCDC_1301500	Plasmodium reichenowi CDC	AAA domain-containing protein, putative	yes	
+PVX_121965	PRELSG_1400200	Plasmodium relictum SGS1-like	AAA domain-containing protein, putative	yes	
+PVX_121965	PRG01_1304500	Plasmodium reichenowi G01	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PVBDA_1400310	Plasmodium vinckei brucechwatti DA	unspecified product	yes	
+PVX_121965	PVLDE_1400080	Plasmodium vinckei lentum DE	unspecified product	yes	
+PVX_121965	PVL_140007700	Plasmodium vivax-like Pvl01	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PVP01_1403400	Plasmodium vivax P01	AAA domain-containing protein, putative	yes	
+PVX_121965	PVPCR_1400390	Plasmodium vinckei petteri CR 2020	unspecified product	yes	
+PVX_121965	PVSEL_1400330	Plasmodium vinckei Cameroon EL	unspecified product	yes	
+PVX_121965	PVVCY_1400270	Plasmodium vinckei vinckei CY	unspecified product	yes	
+PVX_121965	PY02854	Plasmodium yoelii yoelii 17XNL	SEN1-related	yes	
+PVX_121965	PY02855	Plasmodium yoelii yoelii 17XNL	hypothetical protein	yes	
+PVX_121965	PY17X_1402600	Plasmodium yoelii yoelii 17X	AAA domain-containing protein, putative	yes	
+PVX_121965	PYYM_1404600	Plasmodium yoelii yoelii YM	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PcyM_1403900	Plasmodium cynomolgi strain M	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	Pf7G8_130006800	Plasmodium falciparum 7G8	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PfCD01_130007900	Plasmodium falciparum CD01	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PfDd2_130008200	Plasmodium falciparum Dd2	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PfGA01_130008400	Plasmodium falciparum GA01	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PfGB4_130008300	Plasmodium falciparum GB4	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PfGN01_130009100	Plasmodium falciparum GN01	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PfHB3_130008700	Plasmodium falciparum HB3	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PfIT_130007600	Plasmodium falciparum IT	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PfKE01_130008000	Plasmodium falciparum KE01	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PfKH01_130006600	Plasmodium falciparum KH01	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PfKH02_130005300	Plasmodium falciparum KH02	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PfML01_130005300	Plasmodium falciparum ML01	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PfSD01_130009100	Plasmodium falciparum SD01	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PfTG01_130008100	Plasmodium falciparum TG01	conserved Plasmodium protein, unknown function	yes	
+PVX_121965	PmUG01_14019100	Plasmodium malariae UG01	AAA domain-containing protein, putative	yes	
+PVX_121965	PocGH01_14010500	Plasmodium ovale curtisi GH01	AAA domain-containing protein, putative	yes	
+PVX_121965	YYE_01318	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	yes	
+PVX_121965	YYG_00035	Plasmodium vinckei petteri strain CR	hypothetical protein	yes	
+PVX_121965	AK88_04342	Plasmodium fragile strain nilgiri	hypothetical protein	no	
+PVX_121965	C922_02171	Plasmodium inui San Antonio 1	hypothetical protein	no	
+PVX_121965	HEP_00185300	Hepatocystis sp. ex Piliocolobus tephrosceles 2019	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PADL01_1008600	Plasmodium adleri G01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PBANKA_1208600	Plasmodium berghei ANKA	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PBILCG01_1009500	Plasmodium billcollinsi G01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PBLACG01_1008200	Plasmodium blacklocki G01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PCHAS_1209300	Plasmodium chabaudi chabaudi	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PCOAH_00022470	Plasmodium coatneyi Hackeri	Uncharacterized protein	no	
+PVX_121965	PCYB_082000	Plasmodium cynomolgi strain B	hypothetical protein	no	
+PVX_121965	PF3D7_1010200	Plasmodium falciparum 3D7	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PGABG01_1008100	Plasmodium gaboni strain G01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PGAL8A_00193500	Plasmodium gallinaceum 8A	hypothetical protein	no	
+PVX_121965	PGAL8A_00386500	Plasmodium gallinaceum 8A	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PGSY75_1010200	Plasmodium gaboni strain SY75	putative DNA2/NAM7 helicase	no	
+PVX_121965	PKA1H_080014800	Plasmodium knowlesi strain A1H1	conserved Plasmodium protein, unknown function	no	
+PVX_121965	PKNH_0810000	Plasmodium knowlesi strain H	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PKNOH_S100038000	Plasmodium knowlesi strain Malayan Strain Pk1 A	Uncharacterized protein	no	
+PVX_121965	PPRFG01_1011300	Plasmodium praefalciparum strain G01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PRCDC_1009600	Plasmodium reichenowi CDC	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PRELSG_0808100	Plasmodium relictum SGS1-like	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PRG01_1008700	Plasmodium reichenowi G01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PVBDA_1201080	Plasmodium vinckei brucechwatti DA	DNA2/NAM7 helicase, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SH43]	no	
+PVX_121965	PVLDE_1201090	Plasmodium vinckei lentum DE	DNA2/NAM7 helicase, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7SH33]	no	
+PVX_121965	PVL_080015100	Plasmodium vivax-like Pvl01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PVP01_0810300	Plasmodium vivax P01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PVPCR_1200960	Plasmodium vinckei petteri CR 2020	DNA2/NAM7 helicase, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7T9G7]	no	
+PVX_121965	PVSEL_1201040	Plasmodium vinckei Cameroon EL	DNA2/NAM7 helicase, putative [Source:UniProtKB/TrEMBL;Acc:A0A6V7TB26]	no	
+PVX_121965	PVVCY_1200940	Plasmodium vinckei vinckei CY	DNA2/NAM7 helicase, putative [Source:UniProtKB/TrEMBL;Acc:A0A449BW41]	no	
+PVX_121965	PVX_094730	Plasmodium vivax Sal-1	hypothetical protein, conserved	no	
+PVX_121965	PY04011	Plasmodium yoelii yoelii 17XNL	Sen1p	no	
+PVX_121965	PY17X_1211800	Plasmodium yoelii yoelii 17X	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PYYM_1211200	Plasmodium yoelii yoelii YM	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PcyM_0810400	Plasmodium cynomolgi strain M	DNA2/NAM7 helicase, putative	no	
+PVX_121965	Pf7G8_100014600	Plasmodium falciparum 7G8	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PfCD01_100015400	Plasmodium falciparum CD01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PfDd2_100015500	Plasmodium falciparum Dd2	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PfGA01_100015500	Plasmodium falciparum GA01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PfGB4_100015200	Plasmodium falciparum GB4	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PfGN01_100015800	Plasmodium falciparum GN01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PfHB3_100014600	Plasmodium falciparum HB3	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PfIT_100014200	Plasmodium falciparum IT	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PfKE01_100015500	Plasmodium falciparum KE01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PfKH01_100014800	Plasmodium falciparum KH01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PfKH02_100015600	Plasmodium falciparum KH02	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PfML01_100014500	Plasmodium falciparum ML01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PfSD01_100014900	Plasmodium falciparum SD01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PfSN01_100015600	Plasmodium falciparum SN01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PfTG01_100015400	Plasmodium falciparum TG01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PmUG01_08026200	Plasmodium malariae UG01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	PocGH01_08018500	Plasmodium ovale curtisi GH01	DNA2/NAM7 helicase, putative	no	
+PVX_121965	YYE_01428	Plasmodium vinckei vinckei strain vinckei	hypothetical protein	no	
+PVX_121965	YYG_02492	Plasmodium vinckei petteri strain CR	hypothetical protein	no	
+PVX_121965	PfSN01_130005400	Plasmodium falciparum SN01	conserved Plasmodium protein, unknown function	yes	
+Table: piggyBac insertion mutagenesis
+[Score]	[Score Type]	
+Table: Signal Peptide
+[NN Conclusion Score]	[NN D-Score]	[HMM Signal Probabability]	[Start Min]	[End Max]	[Signal Peptide]	[Transcript ID]	
+Table: Transmembrane Domains
+[Start Min]	[End Max]	[Sequence]	[Topology]	[Transcript ID]	
+1045	1064	YMYSFLLSVFQFSNIMILYL	null	PVX_121965.1	
+1114	1136	FLLRILNLIVDNVWKIIIFIVFN	null	PVX_121965.1	
+Table: GO Terms
+[Ontology]	[GO ID]	[Is Not]	[GO Term Name]	[Source]	[Evidence Code]	[Reference]	[Support for Evidence Code Assignment]	[sort_key]	[Transcript ID(s)]	
+Molecular Function	GO:0004386	null	helicase activity	interpro2go	IEA	null	null	MGO:0004386	PVX_121965.1	
+Table: Gene Location
+[Sequence Level]	[Genomic Sequence]	[lc_project_id]	[Location]	[organismAbbrev]	[start]	[end]	[is_reversed]	[start_context]	[end_context]	
+chromosome	Pv_Sal1_chr14	plasmodb	143835 - 152406 (-)	pvivSal1	143835	152406	-	138835	157406	
+Table: Notes from Annotator
+[Date]	[Note]	[Transcript ID(s)]	
+Table: Proteins Properties and Features
+[Transcript ID]	[Isoelectric Point]	[Molecular Weight]	[Has SignalP]	[Has TMHMM]	[lc_project_id]	[organismAbbrev]	[Protein Length]	[pbrowseImgUrlPrefix]	[Protein Features]	[prot_info]	[JBrowse ProtProps]	[JBrowse P Jbrowse]	
+PVX_121965.1	8.88	307331	no	yes	plasmodb	pvivSal1	2656	/cgi-bin/gbrowse_img/plasmodbaa/	/cgi-bin/gbrowse_img/plasmodbaa/?name=PVX_121965.1;l=InterproDomains%1ESignalP%1ETMHMM%1EExportPred%1EHydropathyPlot%1ELowComplexity%1ESecondaryStructure;hmap=protein_properties_PVX_121965.1;genepage=1	PVX_121965.1-p1%3A1..2656	/a/jbrowse/index.html?data=/plasmo/service/jbrowse/proteinPropertyTracks/pvivSal1%2Faa&loc=PVX_121965.1-p1%3A1..2656&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	/plasmo/app/jbrowse?loc=PVX_121965.1-p1%3A1..2656&data=/plasmo/service/jbrowse/tracks/pvivSal1%2Faa&tracks=refseq%2CInterproDomains%2CTMHMM%2CSignalP%2CExportPred%2CHydropathy%2CLowComplexity%2CSecondaryStructureHelix%2CSecondaryStructureStrand%2CSecondaryStructureCoil&highlight=	
+
+------------------------------------------------------------
+
