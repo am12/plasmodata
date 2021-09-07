@@ -1,0 +1,39 @@
+Libraries to use:
+
+- win32com.client: for the excel opening
+
+Documentation:
+
+- win32com: 
+    - import win32com.client as win32
+    - import pandas as pd
+    - excel = win32.gencache.EnsureDispatch('Excel.Application')
+    - excel.Visible = True (or False)
+    - excel.Workbooks.Open(whateverbook)
+    
+    - this is where the data processing goes
+    - *note to self: look up docs on python win32*
+
+    - excel.Application.Quit()
+
+Anal notes:
+like the output file has all the long gene sequences which take a lot of space. and then when i paste it into excel it takes up a lot of space. it would be nice to link the cell to a fasta file with the gene sequence or protein sequence like click on the cell and it opens the fasta ok
+
+
+NOTE TO SELF:
+FIX THE ROW THING SDFKJSDLFKJSDLKF ITS THE INDEX PROBLEM IN EXCELMAKER DONT IDO THE I+#!LSKDJFLKSDJFLKSDJ LKJELKSFJLK SEE A FIX
+
+
+Test:
+print(requests.post('https://plasmodb.org/plasmo/service/record-types/gene/searches/single_record_question_GeneRecordClasses_GeneRecordClass/reports/srt', data='data':'{"searchConfig":{"parameters":{"primaryKeys":"'PVX_091135',PlasmoDB"}},"reportConfig":{"attachmentType":"plain","endOffset3":0,"type":"'genomic'","sourceIdFilter":"genesOnly","upstreamAnchor":"Start","upstreamSign":"plus","upstreamOffset":0,"downstreamAnchor":"End","downstreamSign":"plus","downstreamOffset":0,"onlyIdDefLine":"0","noLineBreaks":"0","startAnchor3":"Start","startOffset3":0,"endAnchor3":"End"}}')) this was an epic fail
+
+Changelog: (Amish)
+10/17 1:00AMish - Alan 
+    -reordered the requests so it does all the info for one gene at a time (so the global skip works)
+    -allowed UniProt access for protein sequences if PlasmoDB fails
+    -shortened the write to gene.txt so you don't need regex? (pls let me know if thats not what you were going for)
+    -fixed the row error messages and other formatting/syntax stuff
+    TODO
+    -will probably encounter some error with the hyperlinking in excel
+    -make contingency in case UniProt also fails
+    -
